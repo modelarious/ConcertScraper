@@ -5,6 +5,7 @@ from dataclasses import dataclass
 from typing import List, Dict
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 
 BASE_DIRECTORY = "/Users/michaelhackman/Github/ConcertScraper/"
 CONCERT_CSS_SELECTOR = "a[data-analytics-label='upcoming_concerts_list']"
@@ -55,7 +56,7 @@ def create_artist_concert_links(artist_links: Dict[str, str]) -> Dict[str, str]:
 def parse_concert_results(concert_results: ResultSet) -> List[Concert]:
     concerts = []
     for link in concert_results:
-        date_time = link.find("time")["datetime"]
+        date_time = link.find("time")["datetime"].split("T")[0]
         location = link.find("strong", {"class": "primary-detail"}).text.strip()
         concerts.append(Concert(location=location, date_time=date_time))
     return concerts
