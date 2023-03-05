@@ -1,2 +1,159 @@
-name,concert_count,hyperlink
-Billie Eilish,15,https://www.songkick.com/artists/8913479-billie-eilish/calendar
+name,hyperlink,unique_concert_count
+A Perfect Circle,https://www.songkick.com/artists/549892-a-perfect-circle/calendar,0
+Abhi The Nomad,https://www.songkick.com/artists/9350584-abhi-the-nomad/calendar,0
+AJR,https://www.songkick.com/artists/1880688-ajr/calendar,4
+Animals As Leaders,https://www.songkick.com/artists/2426656-animals-as-leaders/calendar,16
+Anomalie,https://www.songkick.com/artists/1679379-anomalie/calendar,1
+Ariana Grande,https://www.songkick.com/artists/4971683-ariana-grande/calendar,0
+Avenged Sevenfold,https://www.songkick.com/artists/425252-avenged-sevenfold/calendar,2
+Billie Eilish,https://www.songkick.com/artists/8913479-billie-eilish/calendar,14
+Bo Burnham,https://www.songkick.com/artists/1090574-bo-burnham/calendar,0
+Breaking Benjamin,https://www.songkick.com/artists/99074-breaking-benjamin/calendar,42
+Bring Me The Horizon,https://www.songkick.com/artists/347077-bring-me-the-horizon/calendar,32
+Charlie Curtis-Beard,https://www.songkick.com/artists/9286299-charlie-curtisbeard/calendar,0
+Chicks,https://www.songkick.com/artists/58171-chicks/calendar,0
+Corpse,https://www.songkick.com/artists/138044-corpse/calendar,0
+Cory Wong,https://www.songkick.com/artists/2908766-cory-wong/calendar,25
+Demi Lovato,https://www.songkick.com/artists/976211-demi-lovato/calendar,1
+Disclosure,https://www.songkick.com/artists/771160-disclosure/calendar,0
+Dream Theater,https://www.songkick.com/artists/8765-dream-theater/calendar,2
+Dua Lipa,https://www.songkick.com/artists/8310783-dua-lipa/calendar,0
+Echosmith,https://www.songkick.com/artists/6088614-echosmith/calendar,1
+Ed Sheeran,https://www.songkick.com/artists/2083334-ed-sheeran/calendar,32
+Evans Blue,https://www.songkick.com/artists/25520-evans-blue/calendar,0
+Fall Out Boy,https://www.songkick.com/artists/315398-fall-out-boy/calendar,51
+Fergie,https://www.songkick.com/artists/315579-fergie/calendar,0
+Fighting Kind,https://www.songkick.com/artists/4836663-fighting-kind/calendar,0
+Flyleaf,https://www.songkick.com/artists/346190-flyleaf/calendar,0
+Foo Fighters,https://www.songkick.com/artists/29315-foo-fighters/calendar,16
+Fort Minor,https://www.songkick.com/artists/455951-fort-minor/calendar,0
+Good Charlotte,https://www.songkick.com/artists/520231-good-charlotte/calendar,1
+Haken,https://www.songkick.com/artists/625989-haken/calendar,38
+Hiatus Kaiyote,https://www.songkick.com/artists/4737378-hiatus-kaiyote/calendar,9
+Hollywood Undead,https://www.songkick.com/artists/818463-hollywood-undead/calendar,9
+Infected Mushroom,https://www.songkick.com/artists/153795-infected-mushroom/calendar,5
+Jacob Collier,https://www.songkick.com/artists/6775909-jacob-collier/calendar,12
+Jay-Z,https://www.songkick.com/artists/173376-jayz/calendar,0
+Justin Timberlake,https://www.songkick.com/artists/209003-justin-timberlake/calendar,0
+Korn,https://www.songkick.com/artists/202975-korn/calendar,3
+Lady Gaga,https://www.songkick.com/artists/974908-lady-gaga/calendar,0
+Lil Nas X,https://www.songkick.com/artists/10001194-lil-nas-x/calendar,16
+Lindsey Stirling,https://www.songkick.com/artists/5429218-lindsey-stirling/calendar,2
+Louis Cole,https://www.songkick.com/artists/1453171-louis-cole/calendar,16
+Magnolia Park,https://www.songkick.com/artists/10080833-magnolia-park/calendar,4
+Marianas Trench,https://www.songkick.com/artists/96444-marianas-trench/calendar,1
+Marshmello,https://www.songkick.com/artists/8613384-marshmello/calendar,13
+Martin Garrix,https://www.songkick.com/artists/5003643-martin-garrix/calendar,10
+Matchbox Twenty,https://www.songkick.com/artists/30543-matchbox-twenty/calendar,52
+Mike Shinoda,https://www.songkick.com/artists/2015258-mike-shinoda/calendar,0
+MIKÉL,https://www.songkick.com/artists/989049-mikel/calendar,0
+Moonchild,https://www.songkick.com/artists/133602-moonchild/calendar,15
+Muse,https://www.songkick.com/artists/219230-muse/calendar,42
+My Darkest Days,https://www.songkick.com/artists/1169452-my-darkest-days/calendar,0
+OneRepublic,https://www.songkick.com/artists/568431-onerepublic/calendar,28
+Panic! At the Disco,https://www.songkick.com/artists/139037-panic-at-the-disco/calendar,4
+Paramore,https://www.songkick.com/artists/127596-paramore/calendar,48
+Parov Stelar,https://www.songkick.com/artists/8954549-parov-stelar/calendar,13
+Periphery,https://www.songkick.com/artists/973012-periphery/calendar,19
+Polyphia,https://www.songkick.com/artists/6308759-polyphia/calendar,30
+Powfu,https://www.songkick.com/artists/10041489-powfu/calendar,0
+Queens of the Stone Age,https://www.songkick.com/artists/479466-queens-of-the-stone-age/calendar,12
+Quietdrive,https://www.songkick.com/artists/491917-quietdrive/calendar,0
+Radiohead,https://www.songkick.com/artists/253846-radiohead/calendar,0
+Red,https://www.songkick.com/artists/2480126-red/calendar,0
+The Red Jumpsuit Apparatus,https://www.songkick.com/artists/489864-red-jumpsuit-apparatus/calendar,17
+Renée Elise Goldsberry,https://www.songkick.com/artists/10178884-renee-elise-goldsberry/calendar,1
+Sam Smith,https://www.songkick.com/artists/807990-sam-smith/calendar,66
+Shag,https://www.songkick.com/artists/139287-shag/calendar,0
+Shawn Mendes,https://www.songkick.com/artists/8008073-shawn-mendes/calendar,35
+Sick Puppies,https://www.songkick.com/artists/359193-sick-puppies/calendar,0
+Snarky Puppy,https://www.songkick.com/artists/29793-snarky-puppy/calendar,27
+Sungazer,https://www.songkick.com/artists/8469503-sungazer/calendar,33
+Supertramp,https://www.songkick.com/artists/420142-supertramp/calendar,1
+System of a Down,https://www.songkick.com/artists/74172-system-of-a-down/calendar,1
+Taylor McFerrin,https://www.songkick.com/artists/670649-taylor-mcferrin/calendar,0
+Tennyson,https://www.songkick.com/artists/8375803-tennyson/calendar,0
+TesseracT,https://www.songkick.com/artists/495638-tesseract/calendar,10
+Theory of a Deadman,https://www.songkick.com/artists/209134-theory-of-a-deadman/calendar,38
+Thirty Seconds to Mars,https://www.songkick.com/artists/4550768-thirty-seconds-to-mars/calendar,1
+Three Days Grace,https://www.songkick.com/artists/424396-three-days-grace/calendar,29
+Tigran Hamasyan,https://www.songkick.com/artists/164878-tigran-hamasyan/calendar,6
+Tool,https://www.songkick.com/artists/521019-tool/calendar,2
+Twenty One Pilots,https://www.songkick.com/artists/3123851-twenty-one-pilots/calendar,5
+Unprocessed,https://www.songkick.com/artists/9424684-unprocessed/calendar,14
+Vampire Weekend,https://www.songkick.com/artists/288696-vampire-weekend/calendar,0
+Veil of Maya,https://www.songkick.com/artists/584600-veil-of-maya/calendar,20
+Vulfpeck,https://www.songkick.com/artists/6634379-vulfpeck/calendar,2
+weird inside,https://www.songkick.com/artists/8600409-weird-inside/calendar,0
+Woodkid,https://www.songkick.com/artists/4461618-woodkid/calendar,0
+The xx,https://www.songkick.com/artists/515434-xx/calendar,0
+You Me At Six,https://www.songkick.com/artists/246701-you-me-at-six/calendar,10
+Zac Brown Band,https://www.songkick.com/artists/514278-zac-brown-band/calendar,36
+Zedd,https://www.songkick.com/artists/992104-zedd/calendar,20
+ABBA,https://www.songkick.com/artists/124886-abba/calendar,1
+The Academy Of Ancient Music,https://www.songkick.com/artists/121215-academy-of-ancient-music/calendar,5
+Anika Nilles,https://www.songkick.com/artists/10106780-anika-nilles/calendar,2
+Arch Echo,https://www.songkick.com/artists/3700631-arch-echo/calendar,30
+Ark Patrol,https://www.songkick.com/artists/8531119-ark-patrol/calendar,0
+Austin Wintory,https://www.songkick.com/artists/7400014-austin-wintory/calendar,0
+Bill Laurance,https://www.songkick.com/artists/8266768-bill-laurance/calendar,0
+Billy Cobham,https://www.songkick.com/artists/446916-billy-cobham/calendar,6
+Billy Preston,https://www.songkick.com/artists/150072-billy-preston/calendar,0
+Bruno Mars,https://www.songkick.com/artists/941964-bruno-mars/calendar,7
+"Choir Of King's College, Cambridge",https://www.songkick.com/artists/20981-choir-of-kings-college-cambridge/calendar,0
+Craig Xen,https://www.songkick.com/artists/8993909-craig-xen/calendar,0
+Damon Albarn,https://www.songkick.com/artists/205139-damon-albarn/calendar,0
+Dan Mayo,https://www.songkick.com/artists/8960304-dan-mayo/calendar,0
+Danae Greenfield,https://www.songkick.com/artists/10149786-danae-greenfield/calendar,0
+Darren Korb,https://www.songkick.com/artists/7116259-darren-korb/calendar,0
+Dave Koz,https://www.songkick.com/artists/428987-dave-koz/calendar,4
+Dave Mackay,https://www.songkick.com/artists/620036-dave-mackay/calendar,0
+David Maxim Micic,https://www.songkick.com/artists/8967329-david-maxim-micic/calendar,0
+Deadmau5,https://www.songkick.com/artists/244669-deadmau5/calendar,11
+Eagles of Death Metal,https://www.songkick.com/artists/527957-eagles-of-death-metal/calendar,9
+Electric Mantis,https://www.songkick.com/artists/8684779-electric-mantis/calendar,0
+Hans Zimmer,https://www.songkick.com/artists/251898-hans-zimmer/calendar,27
+Haywyre,https://www.songkick.com/artists/589119-haywyre/calendar,0
+Headspace,https://www.songkick.com/artists/494193-headspace/calendar,0
+James Ehnes,https://www.songkick.com/artists/393950-james-ehnes/calendar,1
+Joey Alexander,https://www.songkick.com/artists/7259094-joey-alexander/calendar,16
+Julio Bashmore,https://www.songkick.com/artists/2990466-julio-bashmore/calendar,0
+Justice,https://www.songkick.com/artists/301499-justice/calendar,0
+Laura Mvula,https://www.songkick.com/artists/6126864-laura-mvula/calendar,0
+LCD Soundsystem,https://www.songkick.com/artists/241554-lcd-soundsystem/calendar,20
+Mac Ayres,https://www.songkick.com/artists/9044599-mac-ayres/calendar,27
+Major Parkinson,https://www.songkick.com/artists/486030-major-parkinson/calendar,0
+Maurizio Pollini,https://www.songkick.com/artists/327242-maurizio-pollini/calendar,1
+Maxo,https://www.songkick.com/artists/1274503-maxo/calendar,1
+Medasin,https://www.songkick.com/artists/8954984-medasin/calendar,0
+Meshuggah,https://www.songkick.com/artists/217917-meshuggah/calendar,22
+Miguel Migs,https://www.songkick.com/artists/532238-miguel-migs/calendar,2
+Monuments,https://www.songkick.com/artists/354711-monuments/calendar,12
+Mosca,https://www.songkick.com/artists/982647-mosca/calendar,1
+Mother Mother,https://www.songkick.com/artists/547378-mother-mother/calendar,1
+MXXWLL,https://www.songkick.com/artists/9258799-mxxwll/calendar,0
+Nine Inch Nails,https://www.songkick.com/artists/241755-nine-inch-nails/calendar,0
+OLIVER,https://www.songkick.com/artists/2560021-oliver/calendar,0
+Paris Monster,https://www.songkick.com/artists/7850694-paris-monster/calendar,1
+Plini,https://www.songkick.com/artists/8507178-plini/calendar,38
+Primus,https://www.songkick.com/artists/385368-primus/calendar,0
+Pryapisme,https://www.songkick.com/artists/1061012-pryapisme/calendar,0
+The Reign of Kindo,https://www.songkick.com/artists/580301-reign-of-kindo/calendar,0
+Ruslan Sirota,https://www.songkick.com/artists/3705496-ruslan-sirota/calendar,0
+The Safety Fire,https://www.songkick.com/artists/1997655-safety-fire/calendar,0
+Sam Wills,https://www.songkick.com/artists/4503663-sam-wills/calendar,1
+Sergei Rachmaninoff,https://www.songkick.com/artists/10091313-sergei-rachmaninoff/calendar,0
+Serj Tankian,https://www.songkick.com/artists/582183-serj-tankian/calendar,0
+Shai Maestro,https://www.songkick.com/artists/1001072-shai-maestro/calendar,8
+Solstice Coil,https://www.songkick.com/artists/31787-solstice-coil/calendar,0
+Sparkee,https://www.songkick.com/artists/10077485-sparkee/calendar,0
+Thrown,https://www.songkick.com/artists/582161-thrown/calendar,18
+Todd Rundgren,https://www.songkick.com/artists/591959-todd-rundgren/calendar,0
+Tom Misch,https://www.songkick.com/artists/8341698-tom-misch/calendar,0
+Wallace,https://www.songkick.com/artists/64619-wallace/calendar,0
+Wayne Shorter,https://www.songkick.com/artists/57889-wayne-shorter/calendar,0
+Woody Goss,https://www.songkick.com/artists/10119192-woody-goss/calendar,0
+Yakul,https://www.songkick.com/artists/9200914-yakul/calendar,0
+Yaron Herman,https://www.songkick.com/artists/424676-yaron-herman/calendar,5
+Yoni Rechter,https://www.songkick.com/artists/24017-yoni-rechter/calendar,0
+Yoshihisa Hirano,https://www.songkick.com/artists/10138152-yoshihisa-hirano/calendar,0
