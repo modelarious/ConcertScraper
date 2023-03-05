@@ -6,7 +6,7 @@ from typing import List, Dict
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_DIRECTORY = "/Users/michaelhackman/Github/"
+BASE_DIRECTORY = "/Users/michaelhackman/Github/ConcertScraper/"
 CONCERT_CSS_SELECTOR = "a[data-analytics-label='upcoming_concerts_list']"
 PAGINATION_CSS_SELECTOR = ".pagination"
 ARTIST_LINK_CSS_SELECTOR = ".event-listings > ul > .artist:first-of-type > a"
@@ -110,7 +110,7 @@ def create_concerts_dataframe(
         for concert in concerts:
             rows.append((name, concert.location, concert.date_time))
 
-    return pd.DataFrame(rows, columns=["name", "concert_location", "concert_time"])
+    return pd.DataFrame(rows, columns=["name", "concert_location", "concert_time"]).sort_values(by='name')
 
 
 def create_artist_info_dataframe(
@@ -121,7 +121,7 @@ def create_artist_info_dataframe(
         hyperlink = artist_concert_links[name]
         rows.append((name, len(concerts), hyperlink))
 
-    return pd.DataFrame(rows, columns=["name", "concert_count", "hyperlink"])
+    return pd.DataFrame(rows, columns=["name", "concert_count", "hyperlink"]).sort_values(by='name')
 
 
 # artist_names = read_artist_list()
@@ -295,5 +295,5 @@ artist_info = create_artist_info_dataframe(artist_concert_links, artist_concerts
 
 
 print(artist_info)
-concerts.to_csv(f"{BASE_DIRECTORY}concerts_2.csv")
-artist_info.to_csv(f"{BASE_DIRECTORY}artist_info_2.csv")
+concerts.to_csv(f"{BASE_DIRECTORY}concerts.csv", index=False)
+artist_info.to_csv(f"{BASE_DIRECTORY}artist_info.csv", index=False)

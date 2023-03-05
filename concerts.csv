@@ -1,1334 +1,1332 @@
-,name,concert_location,concert_time
-0,AJR,"Gulf Shores, AL, US",2023-05-19T10:00:00-0500
-1,AJR,"Milwaukee, WI, US",2023-07-08T19:00:00-0500
-2,AJR,"Costa Mesa, CA, US",2023-08-02T19:30:00-0700
-3,AJR,"Bethlehem, PA, US",2023-08-04T19:00:00-0400
-4,Animals As Leaders,"Perth, WA, Australia",2023-04-16
-5,Animals As Leaders,"Melbourne, VIC, Australia",2023-04-19
-6,Animals As Leaders,"Sydney, NSW, Australia",2023-04-20T09:30:00+1000
-7,Animals As Leaders,"Brisbane, QLD, Australia",2023-04-21
-8,Animals As Leaders,"Manchester, UK",2023-11-01T19:00:00+0000
-9,Animals As Leaders,"London, UK",2023-11-02T19:00:00+0000
-10,Animals As Leaders,"Glasgow, UK",2023-11-03T19:00:00+0000
-11,Animals As Leaders,"Birmingham, UK",2023-11-04T18:00:00+0000
-12,Animals As Leaders,"Paris, France",2023-11-05T19:30:00+0100
-13,Animals As Leaders,"Milan, Italy",2023-11-08T20:00:00+0100
-14,Animals As Leaders,"Munich, Germany",2023-11-10T20:00:00+0100
-15,Animals As Leaders,"Cologne, Germany",2023-11-11T20:00:00+0100
-16,Animals As Leaders,"Hamburg, Germany",2023-11-12T20:00:00+0100
-17,Animals As Leaders,"Berlin, Germany",2023-11-13
-18,Animals As Leaders,"Nijmegen, Netherlands",2023-11-16T19:30:00+0100
-19,Animals As Leaders,"Berlin, Germany",2023-12-31T19:00:00+0100
-20,Anomalie,"Yokohama, Japan",2023-05-27
-21,Avenged Sevenfold,"Daytona Beach, FL, US",2023-05-18
-22,Avenged Sevenfold,"Columbus, OH, US",2023-05-25
-23,Avenged Sevenfold,"Columbus, OH, US",2023-05-25
-24,Billie Eilish,"San Isidro, Argentina",2023-03-17
-25,Billie Eilish,"Santiago, Chile",2023-03-17
-26,Billie Eilish,"Asunción, Paraguay",2023-03-21
-27,Billie Eilish,"Bogota, Colombia",2023-03-23
-28,Billie Eilish,"São Paulo, Brazil",2023-03-24
-29,Billie Eilish,"Mexico City, Mexico",2023-03-29T20:30:00-0600
-30,Billie Eilish,"Monterrey, Mexico",2023-03-31T14:00:00-0600
-31,Billie Eilish,"Tlajomulco de Zuñiga, Mexico",2023-04-02T19:00:00-0500
-32,Billie Eilish,"Montreal, QC, Canada",2023-08-04
-33,Billie Eilish,"Budapest, Hungary",2023-08-09
-34,Billie Eilish,"Paris, France",2023-08-23T17:00:00+0200
-35,Billie Eilish,"Reading, UK",2023-08-23
-36,Billie Eilish,"Paris, France",2023-08-23
-37,Billie Eilish,"Wetherby, UK",2023-08-25T09:30:00+0100
-38,Billie Eilish,"Laois, Ireland",2023-09-01
-39,Breaking Benjamin,"Tampa, FL, US",2023-04-21T18:00:00-0400
-40,Breaking Benjamin,"North Myrtle Beach, SC, US",2023-04-26T19:00:00-0400
-41,Breaking Benjamin,"Charleston, WV, US",2023-05-02T19:00:00-0400
-42,Breaking Benjamin,"Franklin, TN, US",2023-05-03T19:30:00-0500
-43,Breaking Benjamin,"Huntsville, AL, US",2023-05-05T19:00:00-0500
-44,Breaking Benjamin,"Biloxi, MS, US",2023-05-06T19:00:00-0500
-45,Breaking Benjamin,"Park City, KS, US",2023-05-10T19:00:00-0500
-46,Breaking Benjamin,"Camdenton, MO, US",2023-05-11T19:00:00-0500
-47,Breaking Benjamin,"Dubuque, IA, US",2023-05-13T19:00:00-0500
-48,Breaking Benjamin,"Milwaukee, WI, US",2023-05-14
-49,Breaking Benjamin,"Grand Rapids, MI, US",2023-05-16T19:00:00-0400
-50,Breaking Benjamin,"Wilkes-barre, PA, US",2023-05-18T19:00:00-0400
-51,Breaking Benjamin,"Lexington, KY, US",2023-05-20T19:00:00-0500
-52,Breaking Benjamin,"Pikeville, KY, US",2023-05-21T19:00:00-0500
-53,Breaking Benjamin,"Knoxville, TN, US",2023-05-23T19:00:00-0500
-54,Breaking Benjamin,"Denver, CO, US",2023-07-11T18:30:00-0600
-55,Breaking Benjamin,"West Valley City, UT, US",2023-07-13T18:30:00-0600
-56,Breaking Benjamin,"Ridgefield, WA, US",2023-07-15T18:30:00-0700
-57,Breaking Benjamin,"Auburn, WA, US",2023-07-16T18:30:00-0700
-58,Breaking Benjamin,"Wheatland, CA, US",2023-07-18T19:00:00-0700
-59,Breaking Benjamin,"Irvine, CA, US",2023-07-20T18:30:00-0700
-60,Breaking Benjamin,"Irvine, CA, US",2023-07-20T09:00:00-0700
-61,Breaking Benjamin,"Phoenix, AZ, US",2023-07-22T18:30:00-0700
-62,Breaking Benjamin,"Albuquerque, NM, US",2023-07-23T18:30:00-0600
-63,Breaking Benjamin,"Dallas, TX, US",2023-07-25T18:30:00-0500
-64,Breaking Benjamin,"The Woodlands, TX, US",2023-07-27T18:30:00-0500
-65,Breaking Benjamin,"Rogers, AR, US",2023-07-29T18:30:00-0500
-66,Breaking Benjamin,"Charlotte, NC, US",2023-07-31T18:30:00-0400
-67,Breaking Benjamin,"Alpharetta, GA, US",2023-08-01T18:30:00-0400
-68,Breaking Benjamin,"West Palm Beach, FL, US",2023-08-03T18:30:00-0400
-69,Breaking Benjamin,"Raleigh, NC, US",2023-08-07T18:30:00-0400
-70,Breaking Benjamin,"Bristow, VA, US",2023-08-09T18:30:00-0400
-71,Breaking Benjamin,"Syracuse, NY, US",2023-08-12T18:30:00-0400
-72,Breaking Benjamin,"Syracuse, NY, US",2023-08-12T09:00:00-0400
-73,Breaking Benjamin,"Cincinnati, OH, US",2023-08-15T18:30:00-0400
-74,Breaking Benjamin,"Wantagh, NY, US",2023-08-19T18:30:00-0400
-75,Breaking Benjamin,"Wantagh, NY, US",2023-08-19T09:00:00-0400
-76,Breaking Benjamin,"Camden, NJ, US",2023-08-21T18:30:00-0400
-77,Breaking Benjamin,"Gilford, NH, US",2023-08-23T18:30:00-0400
-78,Breaking Benjamin,"Burgettstown, PA, US",2023-08-26T18:30:00-0400
-79,Breaking Benjamin,"Cuyahoga Falls, OH, US",2023-08-27T18:30:00-0400
-80,Breaking Benjamin,"Maryland Heights, MO, US",2023-08-29T18:30:00-0500
-81,Breaking Benjamin,"Maryland Heights, MO, US",2023-08-29T09:00:00-0500
-82,Breaking Benjamin,"Tinley Park, IL, US",2023-08-30T18:30:00-0500
-83,Breaking Benjamin,"Clarkston, MI, US",2023-09-01T18:30:00-0400
-84,Breaking Benjamin,"Noblesville, IN, US",2023-09-02T18:30:00-0400
-85,Bring Me The Horizon,"Nürburg, Germany",2023-06-02
-86,Bring Me The Horizon,"Paris, France",2023-06-06T20:00:00+0200
-87,Bring Me The Horizon,"Castle Donington, UK",2023-06-08T10:00:00+0100
-88,Bring Me The Horizon,"Donnington, UK",2023-06-08
-89,Bring Me The Horizon,"The Woodlands, TX, US",2023-06-27T18:30:00-0500
-90,Bring Me The Horizon,"Dallas, TX, US",2023-06-28T18:30:00-0500
-91,Bring Me The Horizon,"Phoenix, AZ, US",2023-06-30T18:30:00-0700
-92,Bring Me The Horizon,"Chula Vista, CA, US",2023-07-01T19:00:00-0700
-93,Bring Me The Horizon,"Los Angeles (LA), CA, US",2023-07-02T18:15:00-0700
-94,Bring Me The Horizon,"Los Angeles (LA), CA, US",2023-07-03T18:15:00-0700
-95,Bring Me The Horizon,"Mountain View, CA, US",2023-07-05T18:30:00-0700
-96,Bring Me The Horizon,"West Valley City, UT, US",2023-07-07T18:30:00-0600
-97,Bring Me The Horizon,"Greenwood Village, CO, US",2023-07-09T18:30:00-0600
-98,Bring Me The Horizon,"Rogers, AR, US",2023-07-11T18:30:00-0500
-99,Bring Me The Horizon,"Somerset, WI, US",2023-07-13T18:30:00-0500
-100,Bring Me The Horizon,"Cincinnati, OH, US",2023-07-15T18:30:00-0400
-101,Bring Me The Horizon,"Noblesville, IN, US",2023-07-16T18:30:00-0400
-102,Bring Me The Horizon,"Cuyahoga Falls, OH, US",2023-07-18T18:30:00-0400
-103,Bring Me The Horizon,"Bristow, VA, US",2023-07-19T18:30:00-0400
-104,Bring Me The Horizon,"Charlotte, NC, US",2023-07-21T18:30:00-0400
-105,Bring Me The Horizon,"Virginia Beach, VA, US",2023-07-22T18:30:00-0400
-106,Bring Me The Horizon,"West Palm Beach, FL, US",2023-07-24T18:30:00-0400
-107,Bring Me The Horizon,"Tampa, FL, US",2023-07-25T18:30:00-0400
-108,Bring Me The Horizon,"Atlanta, GA, US",2023-07-26T18:30:00-0400
-109,Bring Me The Horizon,"Clarkston, MI, US",2023-07-29T18:30:00-0400
-110,Bring Me The Horizon,"Toronto, ON, Canada",2023-07-30T18:30:00-0400
-111,Bring Me The Horizon,"Queens, NY, US",2023-08-01T19:00:00-0400
-112,Bring Me The Horizon,"Boston, MA, US",2023-08-02T17:45:00-0400
-113,Bring Me The Horizon,"Darien Center, NY, US",2023-08-04T18:30:00-0400
-114,Bring Me The Horizon,"Holmdel, NJ, US",2023-08-05T18:30:00-0400
-115,Bring Me The Horizon,"Camden, NJ, US",2023-08-06T18:30:00-0400
-116,Bring Me The Horizon,"Budapest, Hungary",2023-08-21
-117,Cory Wong,"St. Paul, MN, US",2023-03-04T19:30:00-0600
-118,Cory Wong,"Savannah, GA, US",2023-03-23
-119,Cory Wong,"Minneapolis, MN, US",2023-04-15
-120,Cory Wong,"Chillicothe, IL, US",2023-05-26
-121,Cory Wong,"Snowshoe, WV, US",2023-07-13T12:00:00-0400
-122,Cory Wong,"Sete, France",2023-07-16T21:00:00+0200
-123,Cory Wong,"Stuttgart, Germany",2023-07-19
-124,Cory Wong,"Marciac, France",2023-07-25T21:00:00+0200
-125,Cory Wong,"Honolulu, HI, US",2023-08-03T21:00:00-1000
-126,Cory Wong,"Honolulu, HI, US",2023-08-03T18:30:00-1000
-127,Cory Wong,"Honolulu, HI, US",2023-08-04T21:00:00-1000
-128,Cory Wong,"Honolulu, HI, US",2023-08-04T18:30:00-1000
-129,Cory Wong,"Honolulu, HI, US",2023-08-05T21:00:00-1000
-130,Cory Wong,"Honolulu, HI, US",2023-08-05T18:30:00-1000
-131,Cory Wong,"Stockholm, Sweden",2023-09-28
-132,Cory Wong,"Oslo, Norway",2023-09-29T20:00:00+0200
-133,Cory Wong,"Copenhagen, Denmark",2023-09-30
-134,Cory Wong,"Amsterdam, Netherlands",2023-10-02T19:00:00+0200
-135,Cory Wong,"Amsterdam, Netherlands",2023-10-02T19:00:00+0200
-136,Cory Wong,"Amsterdam, Netherlands",2023-10-03T19:00:00+0200
-137,Cory Wong,"Paris, France",2023-10-04T20:00:00+0200
-138,Cory Wong,"Utrecht, Netherlands",2023-10-05
-139,Cory Wong,"Brussels, Belgium",2023-10-06
-140,Cory Wong,"Berlin, Germany",2023-10-08T20:00:00+0200
-141,Cory Wong,"Tilburg, Netherlands",2023-10-09T19:00:00+0200
-142,Cory Wong,"London, UK",2023-10-11T19:00:00+0100
-143,Cory Wong,"Birmingham, UK",2023-10-12T19:00:00+0100
-144,Cory Wong,"Manchester, UK",2023-10-13T20:00:00+0100
-145,Cory Wong,"Glasgow, UK",2023-10-14T19:00:00+0100
-146,Cory Wong,"Dublin, Ireland",2023-10-17T19:00:00+0100
-147,Demi Lovato,"Dubai, United Arab Emirates",2023-03-18
-148,Dream Theater,"Rochester, NY, US",2023-10-07T20:00:00-0400
-149,Dream Theater,"Brooklyn, NY, US",2023-10-13T19:30:00-0400
-150,Echosmith,"Kirtland, OH, US",2023-07-08
-151,Ed Sheeran,"Adelaide, SA, Australia",2023-03-07
-152,Ed Sheeran,"Burswood, WA, Australia",2023-03-12
-153,Ed Sheeran,"Manchester, UK",2023-03-23T19:00:00+0000
-154,Ed Sheeran,"London, UK",2023-03-24T19:00:00+0000
-155,Ed Sheeran,"London, UK",2023-03-25T19:00:00+0000
-156,Ed Sheeran,"Glasgow, UK",2023-03-28T18:00:00+0100
-157,Ed Sheeran,"Dublin, Ireland",2023-03-30T19:00:00+0100
-158,Ed Sheeran,"Paris, France",2023-04-02T19:00:00+0200
-159,Ed Sheeran,"Arlington, TX, US",2023-05-06T18:00:00-0500
-160,Ed Sheeran,"Houston, TX, US",2023-05-13T18:00:00-0500
-161,Ed Sheeran,"Tampa, FL, US",2023-05-20T18:00:00-0400
-162,Ed Sheeran,"Atlanta, GA, US",2023-05-27T18:00:00-0400
-163,Ed Sheeran,"Philadelphia, PA, US",2023-06-03T18:00:00-0400
-164,Ed Sheeran,"East Rutherford, NJ, US",2023-06-10T18:00:00-0400
-165,Ed Sheeran,"East Rutherford, NJ, US",2023-06-11T18:00:00-0400
-166,Ed Sheeran,"Toronto, ON, Canada",2023-06-17T18:00:00-0400
-167,Ed Sheeran,"Toronto, ON, Canada",2023-06-18T18:00:00-0400
-168,Ed Sheeran,"Landover, MD, US",2023-06-24T18:00:00-0400
-169,Ed Sheeran,"Foxborough, MA, US",2023-06-30T18:00:00-0400
-170,Ed Sheeran,"Foxborough, MA, US",2023-07-01T18:00:00-0400
-171,Ed Sheeran,"Pittsburgh, PA, US",2023-07-08T18:00:00-0400
-172,Ed Sheeran,"Detroit, MI, US",2023-07-15T18:00:00-0400
-173,Ed Sheeran,"Nashville, TN, US",2023-07-22T18:00:00-0500
-174,Ed Sheeran,"Chicago, IL, US",2023-07-29T18:00:00-0500
-175,Ed Sheeran,"Kansas City, MO, US",2023-08-05T18:00:00-0500
-176,Ed Sheeran,"Minneapolis, MN, US",2023-08-12T18:00:00-0500
-177,Ed Sheeran,"Denver, CO, US",2023-08-19T18:00:00-0600
-178,Ed Sheeran,"Seattle, WA, US",2023-08-26T18:00:00-0700
-179,Ed Sheeran,"Vancouver, BC, Canada",2023-09-02T18:00:00-0700
-180,Ed Sheeran,"Las Vegas, NV, US",2023-09-09T18:00:00-0700
-181,Ed Sheeran,"Santa Clara, CA, US",2023-09-16T18:00:00-0700
-182,Ed Sheeran,"Inglewood, CA, US",2023-09-23T18:00:00-0700
-183,Fall Out Boy,"Manchester, UK",2023-03-15T19:00:00+0000
-184,Fall Out Boy,"London, UK",2023-03-16T18:00:00+0000
-185,Fall Out Boy,"Chicago, IL, US",2023-06-21T18:15:00-0500
-186,Fall Out Boy,"Maryland Heights, MO, US",2023-06-23T18:30:00-0500
-187,Fall Out Boy,"Bonner Springs, KS, US",2023-06-24T18:30:00-0500
-188,Fall Out Boy,"The Woodlands, TX, US",2023-06-27T18:30:00-0500
-189,Fall Out Boy,"Dallas, TX, US",2023-06-28T18:30:00-0500
-190,Fall Out Boy,"Phoenix, AZ, US",2023-06-30T18:30:00-0700
-191,Fall Out Boy,"Chula Vista, CA, US",2023-07-01T19:00:00-0700
-192,Fall Out Boy,"Los Angeles (LA), CA, US",2023-07-02T18:15:00-0700
-193,Fall Out Boy,"Los Angeles (LA), CA, US",2023-07-03T18:15:00-0700
-194,Fall Out Boy,"Mountain View, CA, US",2023-07-05T18:30:00-0700
-195,Fall Out Boy,"West Valley City, UT, US",2023-07-07T18:30:00-0600
-196,Fall Out Boy,"Greenwood Village, CO, US",2023-07-09T18:30:00-0600
-197,Fall Out Boy,"Rogers, AR, US",2023-07-11T18:30:00-0500
-198,Fall Out Boy,"Somerset, WI, US",2023-07-13T18:30:00-0500
-199,Fall Out Boy,"Cincinnati, OH, US",2023-07-15T18:30:00-0400
-200,Fall Out Boy,"Noblesville, IN, US",2023-07-16T18:30:00-0400
-201,Fall Out Boy,"Cuyahoga Falls, OH, US",2023-07-18T18:30:00-0400
-202,Fall Out Boy,"Bristow, VA, US",2023-07-19T18:30:00-0400
-203,Fall Out Boy,"Charlotte, NC, US",2023-07-21T18:30:00-0400
-204,Fall Out Boy,"Virginia Beach, VA, US",2023-07-22T18:30:00-0400
-205,Fall Out Boy,"West Palm Beach, FL, US",2023-07-24T18:30:00-0400
-206,Fall Out Boy,"Tampa, FL, US",2023-07-25T18:30:00-0400
-207,Fall Out Boy,"Atlanta, GA, US",2023-07-26T18:30:00-0400
-208,Fall Out Boy,"Clarkston, MI, US",2023-07-29T18:30:00-0400
-209,Fall Out Boy,"Toronto, ON, Canada",2023-07-30T18:30:00-0400
-210,Fall Out Boy,"Queens, NY, US",2023-08-01T19:00:00-0400
-211,Fall Out Boy,"Boston, MA, US",2023-08-02T17:45:00-0400
-212,Fall Out Boy,"Darien Center, NY, US",2023-08-04T18:30:00-0400
-213,Fall Out Boy,"Darien Center, NY, US",2023-08-04
-214,Fall Out Boy,"Holmdel, NJ, US",2023-08-05T18:30:00-0400
-215,Fall Out Boy,"Camden, NJ, US",2023-08-06T18:30:00-0400
-216,Fall Out Boy,"Tokyo, Japan",2023-08-19
-217,Fall Out Boy,"Warsaw, Poland",2023-10-17T19:00:00+0200
-218,Fall Out Boy,"Prague, Czech Republic",2023-10-18T19:00:00+0200
-219,Fall Out Boy,"Assago, Italy",2023-10-20T19:00:00+0200
-220,Fall Out Boy,"Munich, Germany",2023-10-21T20:00:00+0200
-221,Fall Out Boy,"Paris, France",2023-10-23T19:30:00+0200
-222,Fall Out Boy,"Rouen, France",2023-10-23T19:00:00+0200
-223,Fall Out Boy,"Amsterdam, Netherlands",2023-10-24T20:00:00+0200
-224,Fall Out Boy,"Brussels, Belgium",2023-10-25T19:00:00+0200
-225,Fall Out Boy,"Leeds, UK",2023-10-27T18:00:00+0100
-226,Fall Out Boy,"Glasgow, UK",2023-10-28T18:30:00+0100
-227,Fall Out Boy,"Manchester, UK",2023-10-29T19:30:00+0000
-228,Fall Out Boy,"Birmingham, UK",2023-10-31T18:00:00+0000
-229,Fall Out Boy,"London, UK",2023-11-02T18:30:00+0000
-230,Fall Out Boy,"London, UK",2023-11-03T18:30:00+0000
-231,Fall Out Boy,"Cardiff, UK",2023-11-04T18:30:00+0000
-232,Fall Out Boy,"Oberhausen, Germany",2023-11-06T20:00:00+0100
-233,Fall Out Boy,"Oberhausen, Germany",2023-11-06T19:00:00+0100
-234,Fall Out Boy,"Hamburg, Germany",2023-11-07T20:00:00+0100
-235,Fall Out Boy,"Hamburg, Germany",2023-11-07T19:00:00+0100
-236,Fall Out Boy,"Berlin, Germany",2023-11-08T20:00:00+0100
-237,Fall Out Boy,"Berlin, Germany",2023-11-08T19:00:00+0100
-238,Foo Fighters,"Gilford, NH, US",2023-05-24T19:30:00-0400
-239,Foo Fighters,"Columbus, OH, US",2023-05-25
-240,Foo Fighters,"Boston, MA, US",2023-05-26
-241,Foo Fighters,"Nürburg, Germany",2023-06-02
-242,Foo Fighters,"Nuremberg, Germany",2023-06-02
-243,Foo Fighters,"Rogers, AR, US",2023-06-14T19:30:00-0500
-244,Foo Fighters,"Manchester, TN, US",2023-06-15
-245,Foo Fighters,"Pelham, AL, US",2023-06-16T19:30:00-0500
-246,Foo Fighters,"Ottawa, ON, Canada",2023-07-06
-247,Foo Fighters,"River Falls, WI, US",2023-07-13
-248,Foo Fighters,"Niigata, Japan",2023-07-28
-249,Foo Fighters,"Snowmass Village, CO, US",2023-09-01T16:00:00-0600
-250,Foo Fighters,"Aspen, CO, US",2023-09-01
-251,Foo Fighters,"São Paulo, Brazil",2023-09-02
-252,Foo Fighters,"Snowmass Village, CO, US",2023-09-03T13:00:00-0600
-253,Foo Fighters,"Asbury Park, NJ, US",2023-09-16T12:00:00-0400
-254,Good Charlotte,"Las Vegas, NV, US",2023-10-21T11:00:00-0700
-255,Haken,"Villeurbanne, France",2023-03-07T20:00:00+0100
-256,Haken,"L'Hospitalet de Llobregat, Spain",2023-03-08
-257,Haken,"Toulouse, France",2023-03-15T20:00:00+0100
-258,Haken,"Nantes, France",2023-03-16T20:00:00+0100
-259,Haken,"Paris, France",2023-03-17T20:00:00+0100
-260,Haken,"Esch Sur Alzette, Luxembourg",2023-03-19T18:30:00+0100
-261,Haken,"Cologne, Germany",2023-03-20T20:00:00+0100
-262,Haken,"Antwerp, Belgium",2023-03-21T19:30:00+0100
-263,Haken,"Tilburg, Netherlands",2023-03-22T18:30:00+0100
-264,Haken,"Bristol, UK",2023-03-23T19:00:00+0000
-265,Haken,"Manchester, UK",2023-03-24T19:00:00+0000
-266,Haken,"Glasgow, UK",2023-03-25T19:00:00+0000
-267,Haken,"London, UK",2023-03-26T19:00:00+0100
-268,Haken,"Oslo, Norway",2023-03-29T19:00:00+0200
-269,Haken,"Copenhagen, Denmark",2023-03-30
-270,Haken,"Stockholm, Sweden",2023-03-31
-271,Haken,"Gothenburg, Sweden",2023-04-05
-272,Haken,"Toronto, ON, Canada",2023-05-05T19:00:00-0400
-273,Haken,"Montreal, QC, Canada",2023-05-06T20:00:00-0400
-274,Haken,"Québec, QC, Canada",2023-05-07
-275,Haken,"New York (NYC), NY, US",2023-05-11T19:30:00-0400
-276,Haken,"Charlotte, NC, US",2023-05-13T20:00:00-0400
-277,Haken,"Fort Lauderdale, FL, US",2023-05-15T19:00:00-0400
-278,Haken,"Atlanta, GA, US",2023-05-17T19:00:00-0400
-279,Haken,"Dallas, TX, US",2023-05-19T20:00:00-0500
-280,Haken,"El Paso, TX, US",2023-05-21T20:00:00-0500
-281,Haken,"Mesa, AZ, US",2023-05-22T20:00:00-0700
-282,Haken,"Los Angeles (LA), CA, US",2023-05-24T19:00:00-0700
-283,Haken,"San Francisco, CA, US",2023-05-25T20:00:00-0700
-284,Haken,"Portland, OR, US",2023-05-26T20:00:00-0700
-285,Haken,"Seattle, WA, US",2023-05-27T20:30:00-0700
-286,Haken,"South Salt Lake, UT, US",2023-05-30T19:00:00-0600
-287,Haken,"Englewood, CO, US",2023-05-31T20:00:00-0600
-288,Haken,"Lawrence, KS, US",2023-06-01T20:00:00-0500
-289,Haken,"Minneapolis, MN, US",2023-06-02T20:30:00-0500
-290,Haken,"Chicago, IL, US",2023-06-03T19:30:00-0500
-291,Haken,"Sibiu, Romania",2023-07-28
-292,Haken,"Manchester, UK",2023-07-28T12:00:00+0100
-293,Hiatus Kaiyote,"Indio, CA, US",2023-04-14
-294,Hiatus Kaiyote,"Los Angeles (LA), CA, US",2023-04-18T19:00:00-0700
-295,Hiatus Kaiyote,"Oakland, CA, US",2023-04-20T20:00:00-0700
-296,Hiatus Kaiyote,"Indio, CA, US",2023-04-21
-297,Hiatus Kaiyote,"Minneapolis, MN, US",2023-04-25T19:00:00-0500
-298,Hiatus Kaiyote,"Chicago, IL, US",2023-04-27T20:00:00-0500
-299,Hiatus Kaiyote,"Brooklyn, NY, US",2023-04-29T20:00:00-0400
-300,Hiatus Kaiyote,"Brooklyn, NY, US",2023-04-30T20:00:00-0400
-301,Hiatus Kaiyote,"Silver Spring, MD, US",2023-05-02T20:00:00-0400
-302,Hollywood Undead,"Everett, WA, US",2023-03-05T18:00:00-0800
-303,Hollywood Undead,"Nürburg, Germany",2023-06-02
-304,Hollywood Undead,"Nuremberg, Germany",2023-06-02
-305,Hollywood Undead,"Interlaken, Switzerland",2023-06-08
-306,Hollywood Undead,"Hradec Králové, Czech Republic",2023-06-08
-307,Hollywood Undead,"Clisson, France",2023-06-15
-308,Hollywood Undead,"Dessel, Belgium",2023-06-15T19:00:00+0200
-309,Hollywood Undead,"Ysselsteyn, Netherlands",2023-06-22
-310,Hollywood Undead,"Münster, Germany",2023-06-24
-311,Infected Mushroom,"Chicago, IL, US",2023-03-24T21:00:00-0500
-312,Infected Mushroom,"Toronto, ON, Canada",2023-03-25T22:00:00-0400
-313,Infected Mushroom,"Edmonton, AB, Canada",2023-03-31T21:00:00-0600
-314,Infected Mushroom,"Boston, MA, US",2023-04-15T19:00:00-0400
-315,Infected Mushroom,"Anuradhapura, Sri Lanka",2024-02-12
-316,Jacob Collier,"New York (NYC), NY, US",2023-03-28T19:30:00-0400
-317,Jacob Collier,"San Francisco, CA, US",2023-06-10
-318,Jacob Collier,"Pittsburgh, PA, US",2023-06-12T19:00:00-0400
-319,Jacob Collier,"Cleveland, OH, US",2023-06-15T18:00:00-0400
-320,Jacob Collier,"Bristol, UK",2023-06-22T18:30:00+0100
-321,Jacob Collier,"Munich, Germany",2023-06-27
-322,Jacob Collier,"Rotselaar, Belgium",2023-06-29
-323,Jacob Collier,"Hamburg, Germany",2023-07-03
-324,Jacob Collier,"Madrid, Spain",2023-07-06
-325,Jacob Collier,"Algés, Portugal",2023-07-06
-326,Jacob Collier,"Vienna, Austria",2023-07-19
-327,Jacob Collier,"Ostrava, Czech Republic",2023-07-19
-328,Korn,"Chiba, Japan",2023-04-01
-329,Korn,"Las Vegas, NV, US",2023-05-13T12:00:00-0700
-330,Korn,"Monterrey, Mexico",2023-06-24
-331,Lil Nas X,"San Isidro, Argentina",2023-03-17
-332,Lil Nas X,"Santiago, Chile",2023-03-17
-333,Lil Nas X,"Bogota, Colombia",2023-03-23
-334,Lil Nas X,"São Paulo, Brazil",2023-03-24
-335,Lil Nas X,"Gulf Shores, AL, US",2023-05-19T10:00:00-0500
-336,Lil Nas X,"Napa, CA, US",2023-05-26
-337,Lil Nas X,"Corona, NY, US",2023-06-09
-338,Lil Nas X,"Manchester, TN, US",2023-06-15
-339,Lil Nas X,"Bucharest, Romania",2023-06-23
-340,Lil Nas X,"Gdynia, Poland",2023-06-28
-341,Lil Nas X,"Stockholm, Sweden",2023-06-29
-342,Lil Nas X,"Rotselaar, Belgium",2023-06-29
-343,Lil Nas X,"Madrid, Spain",2023-07-06
-344,Lil Nas X,"Tønsberg, Norway",2023-07-12
-345,Lil Nas X,"Tønsberg, Norway",2023-07-12
-346,Lil Nas X,"Bern, Switzerland",2023-07-12
-347,Lil Nas X,"Paris, France",2023-07-21
-348,Lindsey Stirling,"Cologne, Germany",2023-07-28
-349,Lindsey Stirling,"Columbus, OH, US",2023-08-05T19:00:00-0400
-350,Louis Cole,"Boise, ID, US",2023-03-22
-351,Louis Cole,"Berlin, Germany",2023-05-08T15:00:00+0200
-352,Louis Cole,"Dublin, Ireland",2023-05-15
-353,Louis Cole,"Manchester, UK",2023-05-17T19:30:00+0100
-354,Louis Cole,"Bristol, UK",2023-05-18T19:00:00+0100
-355,Louis Cole,"London, UK",2023-05-19T19:00:00+0100
-356,Louis Cole,"Mannheim, Germany",2023-05-21
-357,Louis Cole,"Erfurt, Germany",2023-05-22
-358,Louis Cole,"Paris, France",2023-05-23T19:00:00+0200
-359,Louis Cole,"Borgerhout, Belgium",2023-05-25
-360,Louis Cole,"Helsinki, Finland",2023-05-26
-361,Louis Cole,"Bergen, Norway",2023-05-27
-362,Louis Cole,"Stockholm, Sweden",2023-05-28T19:30:00+0200
-363,Louis Cole,"Wuppertal, Germany",2023-06-04T19:00:00+0200
-364,Louis Cole,"Utrecht, Netherlands",2023-06-06
-365,Louis Cole,"Amsterdam, Netherlands",2023-06-07T20:00:00+0200
-366,Magnolia Park,"Atlanta, GA, US",2023-03-05
-367,Magnolia Park,"Lawrence, KS, US",2023-03-26T19:00:00-0500
-368,Magnolia Park,"Tampa, FL, US",2023-04-01T18:00:00-0400
-369,Magnolia Park,"Las Vegas, NV, US",2023-10-21T11:00:00-0700
-370,Marianas Trench,"Enoch, AB, Canada",2023-03-24T21:00:00-0600
-371,Marshmello,"Miami, FL, US",2023-03-24
-372,Marshmello,"Miami, FL, US",2023-03-25T08:00:00-0400
-373,Marshmello,"São Paulo, Brazil",2023-04-21
-374,Marshmello,"London, UK",2023-04-22T17:00:00+0100
-375,Marshmello,"Las Vegas, NV, US",2023-05-05T22:30:00-0700
-376,Marshmello,"Las Vegas, NV, US",2023-05-14T22:30:00-0700
-377,Marshmello,"Las Vegas, NV, US",2023-05-21T12:00:00-0700
-378,Marshmello,"Las Vegas, NV, US",2023-05-25T12:00:00-0700
-379,Marshmello,"Las Vegas, NV, US",2023-05-28T22:30:00-0700
-380,Marshmello,"Frankfurt, Germany",2023-06-09
-381,Marshmello,"George, WA, US",2023-06-17
-382,Marshmello,"Ottawa, ON, Canada",2023-06-23
-383,Marshmello,"Bridgeview, IL, US",2023-09-01
-384,Martin Garrix,"Miami, FL, US",2023-03-24
-385,Martin Garrix,"Avondale, AZ, US",2023-04-07T07:00:00-0700
-386,Martin Garrix,"Tel Aviv-Jaffa, Israel",2023-05-31
-387,Martin Garrix,"Bonn, Germany",2023-06-30
-388,Martin Garrix,"Santiago de Compostela, Spain",2023-07-08
-389,Martin Garrix,"Espoo, Finland",2023-08-04
-390,Martin Garrix,"Orange, France",2023-08-18T18:00:00+0200
-391,Martin Garrix,"Le Touquet, France",2023-08-25
-392,Martin Garrix,"Munich, Germany",2023-09-02
-393,Martin Garrix,"Amsterdam, Netherlands",2023-10-20
-394,Matchbox Twenty,"Vancouver, BC, Canada",2023-05-16T19:30:00-0700
-395,Matchbox Twenty,"Auburn, WA, US",2023-05-18T19:30:00-0700
-396,Matchbox Twenty,"Ridgefield, WA, US",2023-05-19T19:30:00-0700
-397,Matchbox Twenty,"Hollywood, CA, US",2023-05-22T19:30:00-0700
-398,Matchbox Twenty,"Fresno, CA, US",2023-05-24T19:30:00-0700
-399,Matchbox Twenty,"Bakersfield, CA, US",2023-05-25T19:30:00-0700
-400,Matchbox Twenty,"Irvine, CA, US",2023-05-28
-401,Matchbox Twenty,"San Diego, CA, US",2023-05-30T19:30:00-0700
-402,Matchbox Twenty,"Phoenix, AZ, US",2023-05-31T19:30:00-0700
-403,Matchbox Twenty,"Sparks, NV, US",2023-06-02T20:00:00-0700
-404,Matchbox Twenty,"West Valley City, UT, US",2023-06-03T19:30:00-0600
-405,Matchbox Twenty,"Boise, ID, US",2023-06-04T19:30:00-0600
-406,Matchbox Twenty,"Denver, CO, US",2023-06-06T19:30:00-0600
-407,Matchbox Twenty,"Omaha, NE, US",2023-06-08T19:30:00-0500
-408,Matchbox Twenty,"Sioux Falls, SD, US",2023-06-09T19:30:00-0500
-409,Matchbox Twenty,"Welch, MN, US",2023-06-10T19:00:00-0500
-410,Matchbox Twenty,"Cuyahoga Falls, OH, US",2023-06-13T19:30:00-0400
-411,Matchbox Twenty,"Clarkston, MI, US",2023-06-14T19:30:00-0400
-412,Matchbox Twenty,"Cincinnati, OH, US",2023-06-16T19:30:00-0400
-413,Matchbox Twenty,"Moline, IL, US",2023-06-17T19:30:00-0500
-414,Matchbox Twenty,"Kansas City, MO, US",2023-06-18
-415,Matchbox Twenty,"Maryland Heights, MO, US",2023-06-20T19:30:00-0500
-416,Matchbox Twenty,"Oklahoma City, OK, US",2023-06-21T19:30:00-0500
-417,Matchbox Twenty,"Rogers, AR, US",2023-06-23T19:30:00-0500
-418,Matchbox Twenty,"Nashville, TN, US",2023-06-25T19:30:00-0500
-419,Matchbox Twenty,"Pelham, AL, US",2023-06-27T19:30:00-0500
-420,Matchbox Twenty,"Dallas, TX, US",2023-06-29T19:30:00-0500
-421,Matchbox Twenty,"The Woodlands, TX, US",2023-06-30T19:30:00-0500
-422,Matchbox Twenty,"Atlanta, GA, US",2023-07-02T19:30:00-0400
-423,Matchbox Twenty,"Nashville, TN, US",2023-07-03
-424,Matchbox Twenty,"Jacksonville, FL, US",2023-07-05T19:30:00-0400
-425,Matchbox Twenty,"West Palm Beach, FL, US",2023-07-07T19:30:00-0400
-426,Matchbox Twenty,"Tampa, FL, US",2023-07-08T19:30:00-0400
-427,Matchbox Twenty,"Charlotte, NC, US",2023-07-11T19:30:00-0400
-428,Matchbox Twenty,"Raleigh, NC, US",2023-07-12T19:30:00-0400
-429,Matchbox Twenty,"Burgettstown, PA, US",2023-07-14T19:30:00-0400
-430,Matchbox Twenty,"Holmdel, NJ, US",2023-07-15T19:30:00-0400
-431,Matchbox Twenty,"Camden, NJ, US",2023-07-16T19:30:00-0400
-432,Matchbox Twenty,"Wantagh, NY, US",2023-07-18T19:30:00-0400
-433,Matchbox Twenty,"Bethlehem, PA, US",2023-07-19T19:30:00-0400
-434,Matchbox Twenty,"Gilford, NH, US",2023-07-21T19:30:00-0400
-435,Matchbox Twenty,"Uncasville, CT, US",2023-07-22T19:30:00-0400
-436,Matchbox Twenty,"Mansfield, MA, US",2023-07-23T19:30:00-0400
-437,Matchbox Twenty,"Virginia Beach, VA, US",2023-07-26T19:30:00-0400
-438,Matchbox Twenty,"Bristow, VA, US",2023-07-27T19:30:00-0400
-439,Matchbox Twenty,"Syracuse, NY, US",2023-07-29T19:30:00-0400
-440,Matchbox Twenty,"Saratoga Springs, NY, US",2023-07-30T19:30:00-0400
-441,Matchbox Twenty,"Darien Center, NY, US",2023-08-01T19:30:00-0400
-442,Matchbox Twenty,"Toronto, ON, Canada",2023-08-02T19:30:00-0400
-443,Matchbox Twenty,"Toledo, OH, US",2023-08-04
-444,Matchbox Twenty,"Noblesville, IN, US",2023-08-05
-445,Matchbox Twenty,"Tinley Park, IL, US",2023-08-06T19:30:00-0500
-446,Moonchild,"Minneapolis, MN, US",2023-04-04T19:30:00-0500
-447,Moonchild,"Madison, WI, US",2023-04-05T20:00:00-0500
-448,Moonchild,"Milwaukee, WI, US",2023-04-07T20:00:00-0500
-449,Moonchild,"Indianapolis, IN, US",2023-04-08T19:00:00-0400
-450,Moonchild,"Columbus, OH, US",2023-04-09T19:00:00-0400
-451,Moonchild,"Louisville, KY, US",2023-04-11T20:00:00-0500
-452,Moonchild,"Little Rock, AR, US",2023-04-13T20:00:00-0500
-453,Moonchild,"Jackson, MS, US",2023-04-14T20:00:00-0500
-454,Moonchild,"Baton Rouge, LA, US",2023-04-15T21:00:00-0500
-455,Moonchild,"New Orleans, LA, US",2023-04-16T19:00:00-0500
-456,Moonchild,"Jacksonville, FL, US",2023-04-18T19:00:00-0400
-457,Moonchild,"Savannah, GA, US",2023-04-19T20:00:00-0400
-458,Moonchild,"Richmond, VA, US",2023-04-20T19:00:00-0400
-459,Moonchild,"Charlottesville, VA, US",2023-04-22T20:30:00-0400
-460,Moonchild,"Asheville, NC, US",2023-04-23T20:00:00-0400
-461,Muse,"St Louis, MO, US",2023-03-05T18:30:00-0600
-462,Muse,"Columbus, OH, US",2023-03-07T19:00:00-0500
-463,Muse,"Toronto, ON, Canada",2023-03-09T18:30:00-0500
-464,Muse,"Québec, QC, Canada",2023-03-11T18:30:00-0500
-465,Muse,"Québec, QC, Canada",2023-03-12T18:30:00-0400
-466,Muse,"Montreal, QC, Canada",2023-03-14T18:30:00-0400
-467,Muse,"Montreal, QC, Canada",2023-03-15T18:30:00-0400
-468,Muse,"New York (NYC), NY, US",2023-03-17T18:30:00-0400
-469,Muse,"Philadelphia, PA, US",2023-03-19T18:30:00-0400
-470,Muse,"Glendale, AZ, US",2023-04-02T18:30:00-0700
-471,Muse,"Denver, CO, US",2023-04-04T18:30:00-0600
-472,Muse,"Los Angeles (LA), CA, US",2023-04-06T18:30:00-0700
-473,Muse,"Las Vegas, NV, US",2023-04-08T18:30:00-0700
-474,Muse,"San Diego, CA, US",2023-04-10T18:30:00-0700
-475,Muse,"Anaheim, CA, US",2023-04-12T18:30:00-0700
-476,Muse,"Oakland, CA, US",2023-04-14T18:30:00-0700
-477,Muse,"Portland, OR, US",2023-04-16T18:30:00-0700
-478,Muse,"Seattle, WA, US",2023-04-18T18:30:00-0700
-479,Muse,"Salt Lake City, UT, US",2023-04-20T18:30:00-0600
-480,Muse,"Atlanta, GA, US",2023-05-05T11:30:00-0400
-481,Muse,"Plymouth, UK",2023-05-27T17:00:00+0100
-482,Muse,"Aarhus, Denmark",2023-06-01
-483,Muse,"Wiener Neustadt, Austria",2023-06-03
-484,Muse,"The Hague, Netherlands",2023-06-07T18:30:00+0200
-485,Muse,"Hradec Králové, Czech Republic",2023-06-08
-486,Muse,"Cologne, Germany",2023-06-09
-487,Muse,"Lyon, France",2023-06-15T06:30:00+0200
-488,Muse,"Scheessel, Germany",2023-06-16
-489,Muse,"Neuhausen Ob Eck, Germany",2023-06-16
-490,Muse,"Huddersfield, UK",2023-06-20T17:00:00+0100
-491,Muse,"Glasgow, UK",2023-06-23T16:00:00+0100
-492,Muse,"Milton Keynes, UK",2023-06-25T17:00:00+0100
-493,Muse,"Bordeaux, France",2023-06-29T06:30:00+0200
-494,Muse,"Rotselaar, Belgium",2023-06-29
-495,Muse,"Santander, Spain",2023-07-04T18:00:00+0200
-496,Muse,"Maxeville, France",2023-07-06T19:30:00+0200
-497,Muse,"Saint-Denis, France",2023-07-08T06:30:00+0200
-498,Muse,"Bern, Switzerland",2023-07-12
-499,Muse,"Marseille, France",2023-07-15T06:30:00+0200
-500,Muse,"Rome, Italy",2023-07-18T21:00:00+0200
-501,Muse,"Milan, Italy",2023-07-22T21:00:00+0200
-502,Muse,"Kuala Lumpur, Malaysia",2023-07-29T09:00:00+0800
-503,OneRepublic,"Melbourne, VIC, Australia",2023-03-10T08:00:00+1100
-504,OneRepublic,"Sydney, NSW, Australia",2023-03-11T08:30:00+1100
-505,OneRepublic,"Brisbane, QLD, Australia",2023-03-14T18:30:00+1000
-506,OneRepublic,"Auckland, New Zealand",2023-03-16T18:30:00+1300
-507,OneRepublic,"Wellington, New Zealand",2023-03-18T19:30:00+1300
-508,OneRepublic,"Hollywood, FL, US",2023-05-11T20:00:00-0400
-509,OneRepublic,"Mexico City, Mexico",2023-05-13T14:00:00-0500
-510,OneRepublic,"London, UK",2023-06-14T18:00:00+0100
-511,OneRepublic,"Newport, UK",2023-06-15T10:00:00+0100
-512,OneRepublic,"Landgraaf, Netherlands",2023-06-16T12:00:00+0200
-513,OneRepublic,"Rotselaar, Belgium",2023-06-17
-514,OneRepublic,"Mönchengladbach, Germany",2023-06-21T19:30:00+0200
-515,OneRepublic,"Hamburg, Germany",2023-06-22T19:00:00+0200
-516,OneRepublic,"Ulm, Germany",2023-06-24T19:30:00+0200
-517,OneRepublic,"Wiesbaden, Germany",2023-06-25T19:30:00+0200
-518,OneRepublic,"Gdynia, Poland",2023-06-28
-519,OneRepublic,"Nibe, Denmark",2023-06-28
-520,OneRepublic,"Stockholm, Sweden",2023-06-29
-521,OneRepublic,"Bonn, Germany",2023-07-04T19:00:00+0200
-522,OneRepublic,"Moosburg, Austria",2023-07-07
-523,OneRepublic,"Klam, Austria",2023-07-08
-524,OneRepublic,"Rome, Italy",2023-07-11T21:00:00+0200
-525,OneRepublic,"Naples, Italy",2023-07-12T21:00:00+0200
-526,OneRepublic,"Mantova, Italy",2023-07-14T21:30:00+0200
-527,OneRepublic,"Lucca, Italy",2023-07-16T21:30:00+0200
-528,OneRepublic,"Ostrava, Czech Republic",2023-07-19
-529,OneRepublic,"Rosenheim, Germany",2023-07-21T19:00:00+0200
-530,OneRepublic,"Salem, Germany",2023-07-22T20:00:00+0200
-531,Panic! At the Disco,"London, UK",2023-03-06T18:30:00+0000
-532,Panic! At the Disco,"London, UK",2023-03-07T18:30:00+0000
-533,Panic! At the Disco,"Manchester, UK",2023-03-10T19:30:00+0000
-534,Panic! At the Disco,"Milwaukee, WI, US",2024-09-14T19:00:00-0500
-535,Paramore,"Santiago, Chile",2023-03-05
-536,Paramore,"Buenos Aires, Argentina",2023-03-07
-537,Paramore,"Rio de Janeiro, Brazil",2023-03-09
-538,Paramore,"São Paulo, Brazil",2023-03-11
-539,Paramore,"São Paulo, Brazil",2023-03-12
-540,Paramore,"Bogota, Colombia",2023-03-14
-541,Paramore,"Glendale, AZ, US",2023-03-17T18:30:00-0700
-542,Paramore,"Glendale, AZ, US",2023-03-18T18:30:00-0700
-543,Paramore,"Dublin, Ireland",2023-04-13T18:30:00+0100
-544,Paramore,"Cardiff, UK",2023-04-15T18:30:00+0100
-545,Paramore,"Glasgow, UK",2023-04-17T18:30:00+0100
-546,Paramore,"Manchester, UK",2023-04-18T19:30:00+0100
-547,Paramore,"London, UK",2023-04-20T18:30:00+0100
-548,Paramore,"Birmingham, UK",2023-04-22T19:30:00+0100
-549,Paramore,"London, UK",2023-04-23T18:30:00+0100
-550,Paramore,"Gulf Shores, AL, US",2023-05-19T10:00:00-0500
-551,Paramore,"Charlotte, NC, US",2023-05-23T19:00:00-0400
-552,Paramore,"Atlanta, GA, US",2023-05-25T19:00:00-0400
-553,Paramore,"Boston, MA, US",2023-05-26
-554,Paramore,"Atlantic City, NJ, US",2023-05-27T12:00:00-0400
-555,Paramore,"Atlantic City, NJ, US",2023-05-27T10:00:00-0400
-556,Paramore,"New York (NYC), NY, US",2023-05-30T19:00:00-0400
-557,Paramore,"New York (NYC), NY, US",2023-05-31T19:00:00-0400
-558,Paramore,"Washington, DC, US",2023-06-02T19:00:00-0400
-559,Paramore,"Cleveland, OH, US",2023-06-04T19:00:00-0400
-560,Paramore,"Indianapolis, IN, US",2023-06-05T19:00:00-0400
-561,Paramore,"Detroit, MI, US",2023-06-07T19:00:00-0400
-562,Paramore,"Toronto, ON, Canada",2023-06-08T19:00:00-0400
-563,Paramore,"Columbus, OH, US",2023-06-10T19:00:00-0400
-564,Paramore,"Pittsburgh, PA, US",2023-06-11T19:00:00-0400
-565,Paramore,"Orlando, FL, US",2023-06-13T19:00:00-0400
-566,Paramore,"Hollywood, FL, US",2023-06-14T19:00:00-0400
-567,Paramore,"New Orleans, LA, US",2023-07-06T19:00:00-0500
-568,Paramore,"Fort Worth, TX, US",2023-07-08T19:00:00-0500
-569,Paramore,"Austin, TX, US",2023-07-09T19:00:00-0500
-570,Paramore,"Houston, TX, US",2023-07-11T19:00:00-0500
-571,Paramore,"Denver, CO, US",2023-07-13T19:00:00-0600
-572,Paramore,"Palm Desert, CA, US",2023-07-15T19:00:00-0700
-573,Paramore,"San Diego, CA, US",2023-07-16T19:00:00-0700
-574,Paramore,"Inglewood, CA, US",2023-07-19T19:00:00-0700
-575,Paramore,"Inglewood, CA, US",2023-07-20T19:00:00-0700
-576,Paramore,"San Francisco, CA, US",2023-07-22T19:00:00-0700
-577,Paramore,"San Diego, CA, US",2023-07-23
-578,Paramore,"Seattle, WA, US",2023-07-24T19:00:00-0700
-579,Paramore,"Portland, OR, US",2023-07-25T19:00:00-0700
-580,Paramore,"Salt Lake City, UT, US",2023-07-27T19:00:00-0600
-581,Paramore,"Tulsa, OK, US",2023-07-29T19:00:00-0500
-582,Paramore,"St Louis, MO, US",2023-07-30T19:00:00-0500
-583,Paramore,"St. Paul, MN, US",2023-08-02T19:00:00-0500
-584,Parov Stelar,"Chicago, IL, US",2023-03-04T21:00:00-0600
-585,Parov Stelar,"Denver, CO, US",2023-03-06T19:00:00-0700
-586,Parov Stelar,"Seattle, WA, US",2023-03-08T20:00:00-0800
-587,Parov Stelar,"Vancouver, BC, Canada",2023-03-09
-588,Parov Stelar,"Portland, OR, US",2023-03-10T20:30:00-0800
-589,Parov Stelar,"Oakland, CA, US",2023-03-11T20:00:00-0800
-590,Parov Stelar,"Los Angeles (LA), CA, US",2023-03-12T20:00:00-0700
-591,Parov Stelar,"Brno, Czech Republic",2023-04-28
-592,Parov Stelar,"Istanbul, Turkey",2023-06-03T19:00:00+0300
-593,Parov Stelar,"Barcelona, Spain",2023-07-05
-594,Parov Stelar,"Eisenstadt, Austria",2023-07-07
-595,Parov Stelar,"Stuttgart, Germany",2023-07-13
-596,Parov Stelar,"Stuttgart, Germany",2023-07-20
-597,Parov Stelar,"London, UK",2023-09-16T19:00:00+0100
-598,Periphery,"Huntington, NY, US",2023-03-05T19:00:00-0500
-599,Periphery,"Indianapolis, IN, US",2023-03-07T19:00:00-0500
-600,Periphery,"McKees Rocks, PA, US",2023-03-08T18:00:00-0500
-601,Periphery,"East Moline, IL, US",2023-03-10T19:00:00-0600
-602,Periphery,"Milwaukee, WI, US",2023-03-11
-603,Periphery,"Milwaukee, WI, US",2023-03-11T19:00:00-0600
-604,Periphery,"Grand Rapids, MI, US",2023-03-13T18:00:00-0400
-605,Periphery,"St Louis, MO, US",2023-03-14T19:00:00-0500
-606,Periphery,"Kansas City, MO, US",2023-03-15T19:00:00-0500
-607,Periphery,"Wichita, KS, US",2023-03-17T19:00:00-0500
-608,Periphery,"Denver, CO, US",2023-03-18T19:00:00-0600
-609,Periphery,"Portland, OR, US",2023-03-21T19:00:00-0700
-610,Periphery,"Wheatland, CA, US",2023-03-23T19:00:00-0700
-611,Periphery,"Anaheim, CA, US",2023-03-24T18:00:00-0700
-612,Periphery,"Las Vegas, NV, US",2023-03-25T18:00:00-0700
-613,Periphery,"San Diego, CA, US",2023-03-26T19:00:00-0700
-614,Periphery,"Albuquerque, NM, US",2023-03-29T19:00:00-0600
-615,Periphery,"Oklahoma City, OK, US",2023-03-31
-616,Periphery,"Little Rock, AR, US",2023-04-01T19:00:00-0500
-617,Periphery,"Nashville, TN, US",2023-04-02T19:00:00-0500
-618,Polyphia,"Nashville, TN, US",2023-03-24T20:00:00-0500
-619,Polyphia,"Pensacola, FL, US",2023-03-26T20:00:00-0400
-620,Polyphia,"St Petersburg, FL, US",2023-03-28T20:00:00-0400
-621,Polyphia,"Orlando, FL, US",2023-03-29T20:00:00-0400
-622,Polyphia,"Columbia, SC, US",2023-03-30T20:00:00-0400
-623,Polyphia,"Norfolk, VA, US",2023-03-31T20:00:00-0400
-624,Polyphia,"Sayreville, NJ, US",2023-04-01T20:00:00-0400
-625,Polyphia,"Pittsburgh, PA, US",2023-04-03T19:00:00-0400
-626,Polyphia,"Cleveland, OH, US",2023-04-04T19:00:00-0400
-627,Polyphia,"Indianapolis, IN, US",2023-04-06T20:00:00-0400
-628,Polyphia,"Columbus, OH, US",2023-04-07T19:00:00-0400
-629,Polyphia,"Louisville, KY, US",2023-04-08T20:00:00-0500
-630,Polyphia,"Memphis, TN, US",2023-04-11T20:00:00-0500
-631,Polyphia,"Austin, TX, US",2023-04-13T20:00:00-0500
-632,Polyphia,"Dallas, TX, US",2023-04-14T19:00:00-0500
-633,Polyphia,"Bristol, UK",2023-05-09T19:00:00+0100
-634,Polyphia,"Glasgow, UK",2023-05-10T19:00:00+0100
-635,Polyphia,"London, UK",2023-05-11T19:00:00+0100
-636,Polyphia,"Birmingham, UK",2023-05-12T19:00:00+0100
-637,Polyphia,"Manchester, UK",2023-05-13T18:00:00+0100
-638,Polyphia,"Antwerp, Belgium",2023-05-15T19:30:00+0200
-639,Polyphia,"Hamburg, Germany",2023-05-17
-640,Polyphia,"Berlin, Germany",2023-05-18
-641,Polyphia,"Leipzig, Germany",2023-05-20
-642,Polyphia,"Cologne, Germany",2023-05-21
-643,Polyphia,"Munich, Germany",2023-05-22
-644,Polyphia,"Zürich, Switzerland",2023-05-23T19:00:00+0200
-645,Polyphia,"Paris, France",2023-05-26T19:00:00+0200
-646,Polyphia,"Paris, France",2023-05-27T19:00:00+0200
-647,Polyphia,"London, UK",2023-05-31T19:00:00+0100
-648,Queens of the Stone Age,"Daytona Beach, FL, US",2023-05-18
-649,Queens of the Stone Age,"Columbus, OH, US",2023-05-25
-650,Queens of the Stone Age,"Boston, MA, US",2023-05-26
-651,Queens of the Stone Age,"Landgraaf, Netherlands",2023-06-16T12:00:00+0200
-652,Queens of the Stone Age,"Scheessel, Germany",2023-06-16
-653,Queens of the Stone Age,"Neuhausen Ob Eck, Germany",2023-06-16
-654,Queens of the Stone Age,"Roskilde, Denmark",2023-06-24
-655,Queens of the Stone Age,"Gdynia, Poland",2023-06-28
-656,Queens of the Stone Age,"Rotselaar, Belgium",2023-06-29
-657,Queens of the Stone Age,"Albi, France",2023-07-04
-658,Queens of the Stone Age,"Madrid, Spain",2023-07-06
-659,Queens of the Stone Age,"Algés, Portugal",2023-07-06
-660,The Red Jumpsuit Apparatus,"Jakarta, Indonesia",2023-03-04
-661,The Red Jumpsuit Apparatus,"St Louis, MO, US",2023-03-11T20:00:00-0600
-662,The Red Jumpsuit Apparatus,"Madison, WI, US",2023-03-30T18:30:00-0500
-663,The Red Jumpsuit Apparatus,"Fort Wayne, IN, US",2023-03-31T19:00:00-0400
-664,The Red Jumpsuit Apparatus,"Lakewood, OH, US",2023-04-01T19:00:00-0400
-665,The Red Jumpsuit Apparatus,"Ferndale, MI, US",2023-04-02T19:00:00-0400
-666,The Red Jumpsuit Apparatus,"Pittsburgh, PA, US",2023-04-05T19:30:00-0400
-667,The Red Jumpsuit Apparatus,"Syracuse, NY, US",2023-04-06T18:00:00-0400
-668,The Red Jumpsuit Apparatus,"Poughkeepsie, NY, US",2023-04-07T18:30:00-0400
-669,The Red Jumpsuit Apparatus,"Charlotte, NC, US",2023-04-13T19:00:00-0400
-670,The Red Jumpsuit Apparatus,"Nashville, TN, US",2023-04-14T19:00:00-0500
-671,The Red Jumpsuit Apparatus,"Greenville, SC, US",2023-04-15T18:30:00-0400
-672,The Red Jumpsuit Apparatus,"Atlanta, GA, US",2023-04-16T19:00:00-0400
-673,The Red Jumpsuit Apparatus,"Fort Myers, FL, US",2023-04-20T19:30:00-0400
-674,The Red Jumpsuit Apparatus,"Orlando, FL, US",2023-04-22
-675,The Red Jumpsuit Apparatus,"Anchorage, AK, US",2023-04-29T19:00:00-0800
-676,The Red Jumpsuit Apparatus,"Kansas City, KS, US",2023-06-16
-677,Renée Elise Goldsberry,"Galveston, TX, US",2023-04-15T20:00:00-0500
-678,Sam Smith,"Sheffield, UK",2023-04-12T18:00:00+0100
-679,Sam Smith,"Dublin, Ireland",2023-04-14T18:30:00+0100
-680,Sam Smith,"Dublin, Ireland",2023-04-15T18:30:00+0100
-681,Sam Smith,"London, UK",2023-04-18T18:30:00+0100
-682,Sam Smith,"London, UK",2023-04-19T18:30:00+0100
-683,Sam Smith,"Glasgow, UK",2023-04-22T18:30:00+0100
-684,Sam Smith,"Birmingham, UK",2023-04-25T19:30:00+0100
-685,Sam Smith,"Copenhagen, Denmark",2023-04-29T20:00:00+0200
-686,Sam Smith,"Berlin, Germany",2023-05-01T20:00:00+0200
-687,Sam Smith,"Stockholm, Sweden",2023-05-04T18:00:00+0200
-688,Sam Smith,"Oslo, Norway",2023-05-06T19:30:00+0200
-689,Sam Smith,"Cologne, Germany",2023-05-08T18:30:00+0200
-690,Sam Smith,"Amsterdam, Netherlands",2023-05-09T20:00:00+0200
-691,Sam Smith,"Merksem, Belgium",2023-05-12T18:30:00+0200
-692,Sam Smith,"Paris, France",2023-05-13T20:00:00+0200
-693,Sam Smith,"Zürich, Switzerland",2023-05-16T18:00:00+0200
-694,Sam Smith,"Vienna, Austria",2023-05-18
-695,Sam Smith,"Bologna, Italy",2023-05-20T21:00:00+0200
-696,Sam Smith,"Turin, Italy",2023-05-21T21:00:00+0200
-697,Sam Smith,"Manchester, UK",2023-05-24T19:30:00+0100
-698,Sam Smith,"Tel Aviv-Jaffa, Israel",2023-05-31
-699,Sam Smith,"Warsaw, Poland",2023-06-02
-700,Sam Smith,"Bucharest, Romania",2023-06-03
-701,Sam Smith,"Madrid, Spain",2023-07-06
-702,Sam Smith,"Algés, Portugal",2023-07-06
-703,Sam Smith,"Pori, Finland",2023-07-07T13:00:00+0300
-704,Sam Smith,"Nîmes, France",2023-07-10T20:00:00+0200
-705,Sam Smith,"Riga, Latvia",2023-07-14
-706,Sam Smith,"Miami, FL, US",2023-07-25T20:00:00-0400
-707,Sam Smith,"Orlando, FL, US",2023-07-26T20:00:00-0400
-708,Sam Smith,"Duluth, GA, US",2023-07-28T20:00:00-0400
-709,Sam Smith,"Nashville, TN, US",2023-07-29T20:00:00-0500
-710,Sam Smith,"Raleigh, NC, US",2023-08-01T20:00:00-0400
-711,Sam Smith,"Philadelphia, PA, US",2023-08-02T20:00:00-0400
-712,Sam Smith,"Washington, DC, US",2023-08-04T20:00:00-0400
-713,Sam Smith,"Boston, MA, US",2023-08-05T20:00:00-0400
-714,Sam Smith,"New York (NYC), NY, US",2023-08-08T20:00:00-0400
-715,Sam Smith,"New York (NYC), NY, US",2023-08-09T20:00:00-0400
-716,Sam Smith,"Toronto, ON, Canada",2023-08-11T20:00:00-0400
-717,Sam Smith,"Montreal, QC, Canada",2023-08-12T20:00:00-0400
-718,Sam Smith,"Chicago, IL, US",2023-08-15T20:00:00-0500
-719,Sam Smith,"St. Paul, MN, US",2023-08-16T20:00:00-0500
-720,Sam Smith,"Denver, CO, US",2023-08-18T20:00:00-0600
-721,Sam Smith,"Salt Lake City, UT, US",2023-08-19T20:00:00-0600
-722,Sam Smith,"Vancouver, BC, Canada",2023-08-22T20:00:00-0700
-723,Sam Smith,"Seattle, WA, US",2023-08-23T20:00:00-0700
-724,Sam Smith,"Portland, OR, US",2023-08-25T20:00:00-0700
-725,Sam Smith,"Oakland, CA, US",2023-08-27T19:00:00-0700
-726,Sam Smith,"San Francisco, CA, US",2023-08-28T20:00:00-0700
-727,Sam Smith,"Inglewood, CA, US",2023-08-31T20:00:00-0700
-728,Sam Smith,"Inglewood, CA, US",2023-09-01T20:00:00-0700
-729,Sam Smith,"Phoenix, AZ, US",2023-09-03T20:00:00-0700
-730,Sam Smith,"Austin, TX, US",2023-09-05T20:00:00-0500
-731,Sam Smith,"Fort Worth, TX, US",2023-09-07T19:30:00-0500
-732,Sam Smith,"Houston, TX, US",2023-09-08T20:00:00-0500
-733,Sam Smith,"Monterrey, Mexico",2023-09-11T19:00:00-0500
-734,Sam Smith,"Monterrey, Mexico",2023-09-12T21:00:00-0500
-735,Sam Smith,"Mexico City, Mexico",2023-09-14T20:30:00-0500
-736,Sam Smith,"Mexico City, Mexico",2023-09-15T20:30:00-0500
-737,Sam Smith,"Adelaide, SA, Australia",2023-10-28
-738,Sam Smith,"Melbourne, VIC, Australia",2023-10-31
-739,Sam Smith,"Melbourne, VIC, Australia",2023-11-01T19:00:00+1100
-740,Sam Smith,"Sydney, NSW, Australia",2023-11-03
-741,Sam Smith,"Sydney, NSW, Australia",2023-11-04T19:00:00+1100
-742,Sam Smith,"Brisbane, QLD, Australia",2023-11-08
-743,Sam Smith,"Auckland, New Zealand",2023-11-11T19:00:00+1300
-744,Shawn Mendes,"Bologna, Italy",2023-05-31
-745,Shawn Mendes,"Assago, Italy",2023-06-01
-746,Shawn Mendes,"Floirac, France",2023-06-03T19:30:00+0200
-747,Shawn Mendes,"Madrid, Spain",2023-06-05
-748,Shawn Mendes,"Lisbon, Portugal",2023-06-07
-749,Shawn Mendes,"Barcelona, Spain",2023-06-09
-750,Shawn Mendes,"Barakaldo, Spain",2023-06-11
-751,Shawn Mendes,"Munich, Germany",2023-06-14
-752,Shawn Mendes,"Budapest, Hungary",2023-06-16
-753,Shawn Mendes,"Krakow, Poland",2023-06-19T17:30:00+0200
-754,Shawn Mendes,"Krakow, Poland",2023-06-20T17:30:00+0200
-755,Shawn Mendes,"Prague, Czech Republic",2023-06-22T20:00:00+0200
-756,Shawn Mendes,"Vienna, Austria",2023-06-25
-757,Shawn Mendes,"Zürich, Switzerland",2023-06-27T20:00:00+0200
-758,Shawn Mendes,"Nanterre, France",2023-06-29T19:30:00+0200
-759,Shawn Mendes,"Mannheim, Germany",2023-07-02
-760,Shawn Mendes,"Cologne, Germany",2023-07-03
-761,Shawn Mendes,"Berlin, Germany",2023-07-05T19:30:00+0200
-762,Shawn Mendes,"Hamburg, Germany",2023-07-06
-763,Shawn Mendes,"Fornebu, Norway",2023-07-09T19:30:00+0200
-764,Shawn Mendes,"Stockholm, Sweden",2023-07-11
-765,Shawn Mendes,"Copenhagen, Denmark",2023-07-13T19:30:00+0200
-766,Shawn Mendes,"Amsterdam, Netherlands",2023-07-15T19:30:00+0200
-767,Shawn Mendes,"Amsterdam, Netherlands",2023-07-16T19:30:00+0200
-768,Shawn Mendes,"Anvers, Belgium",2023-07-18T18:00:00+0200
-769,Shawn Mendes,"Rotterdam, Netherlands",2023-07-19T19:30:00+0200
-770,Shawn Mendes,"London, UK",2023-07-22T18:30:00+0100
-771,Shawn Mendes,"Birmingham, UK",2023-07-25T18:30:00+0100
-772,Shawn Mendes,"Manchester, UK",2023-07-26T19:30:00+0100
-773,Shawn Mendes,"Glasgow, UK",2023-07-28T18:30:00+0100
-774,Shawn Mendes,"Sheffield, UK",2023-07-29T19:30:00+0100
-775,Shawn Mendes,"Dublin, Ireland",2023-08-01T19:30:00+0100
-776,Shawn Mendes,"St. Paul, MN, US",2024-07-07T19:30:00-0500
-777,Shawn Mendes,"Pittsburgh, PA, US",2024-07-07T19:30:00-0400
-778,Shawn Mendes,"Uncasville, CT, US",2024-07-07T19:30:00-0400
-779,Snarky Puppy,"St. Paul, MN, US",2023-03-29T20:00:00-0500
-780,Snarky Puppy,"Milwaukee, WI, US",2023-03-30T20:00:00-0500
-781,Snarky Puppy,"Chicago, IL, US",2023-03-31T20:00:00-0500
-782,Snarky Puppy,"Gary, IN, US",2023-04-01T18:30:00-0400
-783,Snarky Puppy,"Kalamazoo, MI, US",2023-04-02T20:00:00-0400
-784,Snarky Puppy,"Cleveland, OH, US",2023-04-05T20:00:00-0400
-785,Snarky Puppy,"Buffalo, NY, US",2023-04-06T19:00:00-0400
-786,Snarky Puppy,"Boston, MA, US",2023-04-08T20:00:00-0400
-787,Snarky Puppy,"Concord, NH, US",2023-04-12T19:30:00-0400
-788,Snarky Puppy,"New York (NYC), NY, US",2023-04-13T20:00:00-0400
-789,Snarky Puppy,"Philadelphia, PA, US",2023-04-14T20:00:00-0400
-790,Snarky Puppy,"Harrisburg, PA, US",2023-04-15T19:00:00-0400
-791,Snarky Puppy,"Washington, DC, US",2023-04-19T20:00:00-0400
-792,Snarky Puppy,"Pittsburgh, PA, US",2023-04-20T19:00:00-0400
-793,Snarky Puppy,"Columbus, OH, US",2023-04-21T19:00:00-0400
-794,Snarky Puppy,"Sete, France",2023-04-21T21:00:00+0200
-795,Snarky Puppy,"Newport, KY, US",2023-04-22T19:00:00-0500
-796,Snarky Puppy,"Nashville, TN, US",2023-04-26T19:30:00-0500
-797,Snarky Puppy,"Atlanta, GA, US",2023-04-28T20:30:00-0400
-798,Snarky Puppy,"Rio de Janeiro, Brazil",2023-05-26
-799,Snarky Puppy,"Victoria, BC, Canada",2023-06-22
-800,Snarky Puppy,"Toronto, ON, Canada",2023-06-28T19:00:00-0400
-801,Snarky Puppy,"Montreal, QC, Canada",2023-06-30T20:30:00-0400
-802,Snarky Puppy,"Stuttgart, Germany",2023-07-13
-803,Snarky Puppy,"Stuttgart, Germany",2023-07-13
-804,Snarky Puppy,"Sete, France",2023-07-21T21:00:00+0200
-805,Snarky Puppy,"Marciac, France",2023-07-23T21:00:00+0200
-806,Snarky Puppy,"Miami Beach, FL, US",2024-02-02T12:00:00-0500
-807,Sungazer,"Brighton, UK",2023-03-21T19:00:00+0000
-808,Sungazer,"Bristol, UK",2023-03-22T19:30:00+0000
-809,Sungazer,"Birmingham, UK",2023-03-23T19:00:00+0000
-810,Sungazer,"London, UK",2023-03-24T19:00:00+0000
-811,Sungazer,"Manchester, UK",2023-03-25T19:00:00+0000
-812,Sungazer,"Glasgow, UK",2023-03-26T19:00:00+0100
-813,Sungazer,"Glasgow, UK",2023-03-26T19:00:00+0100
-814,Sungazer,"Oslo, Norway",2023-03-28T19:00:00+0200
-815,Sungazer,"Oslo, Norway",2023-03-29T19:00:00+0200
-816,Sungazer,"Copenhagen, Denmark",2023-03-30T20:30:00+0200
-817,Sungazer,"Gothenburg, Sweden",2023-03-31T20:00:00+0200
-818,Sungazer,"Utrecht, Netherlands",2023-04-01T14:30:00+0200
-819,Sungazer,"Rotterdam, Netherlands",2023-04-02T20:00:00+0200
-820,Sungazer,"Amsterdam, Netherlands",2023-04-03T19:00:00+0200
-821,Sungazer,"San Diego, CA, US",2023-04-28T19:00:00-0700
-822,Sungazer,"Portland, OR, US",2023-05-01T19:00:00-0700
-823,Sungazer,"Vancouver, BC, Canada",2023-05-02
-824,Sungazer,"Seattle, WA, US",2023-05-03T19:00:00-0700
-825,Sungazer,"Salt Lake City, UT, US",2023-05-05T19:00:00-0600
-826,Sungazer,"Englewood, CO, US",2023-05-06T20:00:00-0600
-827,Sungazer,"Minneapolis, MN, US",2023-05-08T20:00:00-0500
-828,Sungazer,"Chicago, IL, US",2023-05-09T19:00:00-0500
-829,Sungazer,"Detroit, MI, US",2023-05-10T18:00:00-0400
-830,Sungazer,"Toronto, ON, Canada",2023-05-11T18:00:00-0400
-831,Sungazer,"Boston, MA, US",2023-05-13T18:00:00-0400
-832,Sungazer,"New York (NYC), NY, US",2023-05-14T18:00:00-0400
-833,Sungazer,"New York (NYC), NY, US",2023-05-15T18:30:00-0400
-834,Sungazer,"Pittsburgh, PA, US",2023-05-16T19:00:00-0400
-835,Sungazer,"Charlotte, NC, US",2023-05-19T19:00:00-0400
-836,Sungazer,"Orlando, FL, US",2023-05-20T18:00:00-0400
-837,Sungazer,"Dallas, TX, US",2023-05-23T18:30:00-0500
-838,Sungazer,"Austin, TX, US",2023-05-24T18:30:00-0500
-839,Sungazer,"Phoenix, AZ, US",2023-05-26T19:00:00-0700
-840,Sungazer,"Los Angeles (LA), CA, US",2023-05-27T18:00:00-0700
-841,Supertramp,"Forges-les-Eaux, France",2023-09-29T20:30:00+0200
-842,System of a Down,"Las Vegas, NV, US",2023-05-13T12:00:00-0700
-843,TesseracT,"Curitiba, Brazil",2023-03-25T19:00:00-0300
-844,TesseracT,"São Paulo, Brazil",2023-03-26T17:00:00-0300
-845,TesseracT,"Buenos Aires, Argentina",2023-03-28T19:00:00-0300
-846,TesseracT,"Santiago, Chile",2023-03-30T19:00:00-0300
-847,TesseracT,"Santiago, Chile",2023-03-31
-848,TesseracT,"Bogota, Colombia",2023-04-02T18:00:00-0500
-849,TesseracT,"Mexico City, Mexico",2023-04-04T20:00:00-0500
-850,TesseracT,"Monterrey, Mexico",2023-04-05T18:00:00-0500
-851,TesseracT,"Guadalajara, Mexico",2023-04-06T18:00:00-0500
-852,TesseracT,"Sibiu, Romania",2023-07-28
-853,Theory of a Deadman,"Cincinnati, OH, US",2023-03-05T19:00:00-0500
-854,Theory of a Deadman,"Nashville, TN, US",2023-03-07T20:00:00-0600
-855,Theory of a Deadman,"Pikeville, KY, US",2023-03-08T19:00:00-0600
-856,Theory of a Deadman,"Chesterfield, MO, US",2023-03-10T19:00:00-0600
-857,Theory of a Deadman,"Springfield, MO, US",2023-03-11T19:00:00-0600
-858,Theory of a Deadman,"Tulsa, OK, US",2023-03-12T19:00:00-0500
-859,Theory of a Deadman,"Houston, TX, US",2023-03-14T19:00:00-0500
-860,Theory of a Deadman,"Dallas, TX, US",2023-03-15T19:00:00-0500
-861,Theory of a Deadman,"Kansas City, MO, US",2023-03-17T19:00:00-0500
-862,Theory of a Deadman,"Omaha, NE, US",2023-03-18T19:00:00-0500
-863,Theory of a Deadman,"Denver, CO, US",2023-03-19T19:00:00-0600
-864,Theory of a Deadman,"Las Vegas, NV, US",2023-03-21T19:00:00-0700
-865,Theory of a Deadman,"Phoenix, AZ, US",2023-03-22T19:00:00-0700
-866,Theory of a Deadman,"Reno, NV, US",2023-03-24T19:00:00-0700
-867,Theory of a Deadman,"Wheatland, CA, US",2023-03-25T19:00:00-0700
-868,Theory of a Deadman,"Los Angeles (LA), CA, US",2023-03-26T18:00:00-0700
-869,Theory of a Deadman,"Moncton, NB, Canada",2023-04-25T19:00:00-0300
-870,Theory of a Deadman,"Montreal, QC, Canada",2023-04-27T20:00:00-0400
-871,Theory of a Deadman,"Montreal, QC, Canada",2023-04-27T09:00:00-0400
-872,Theory of a Deadman,"Peterborough, ON, Canada",2023-04-28T19:00:00-0400
-873,Theory of a Deadman,"Québec, QC, Canada",2023-04-29T09:00:00-0400
-874,Theory of a Deadman,"Québec, QC, Canada",2023-04-29T20:00:00-0400
-875,Theory of a Deadman,"Toronto, ON, Canada",2023-05-01T20:00:00-0400
-876,Theory of a Deadman,"Toronto, ON, Canada",2023-05-01T09:00:00-0400
-877,Theory of a Deadman,"Ottawa, ON, Canada",2023-05-04T19:30:00-0400
-878,Theory of a Deadman,"Thunder Bay, ON, Canada",2023-05-06T19:30:00-0400
-879,Theory of a Deadman,"Winnipeg, MB, Canada",2023-05-08T09:00:00-0500
-880,Theory of a Deadman,"Winnipeg, MB, Canada",2023-05-08T20:00:00-0500
-881,Theory of a Deadman,"Edmonton, AB, Canada",2023-05-10T20:00:00-0600
-882,Theory of a Deadman,"Edmonton, AB, Canada",2023-05-10T09:00:00-0600
-883,Theory of a Deadman,"Calgary, AB, Canada",2023-05-11T20:00:00-0600
-884,Theory of a Deadman,"Abbotsford, BC, Canada",2023-05-12T20:00:00-0700
-885,Theory of a Deadman,"Abbotsford, BC, Canada",2023-05-12T09:00:00-0700
-886,Theory of a Deadman,"Sarnia, ON, Canada",2023-06-22
-887,Theory of a Deadman,"Traverse, MI, US",2023-07-01
-888,Theory of a Deadman,"Menahga, MN, US",2023-07-20
-889,Theory of a Deadman,"Syracuse, NY, US",2023-08-23
-890,Theory of a Deadman,"London, UK",2023-09-22T18:00:00+0100
-891,Theory of a Deadman,"Nottingham, UK",2023-09-23T18:30:00+0100
-892,Theory of a Deadman,"Glasgow, UK",2023-09-24T19:00:00+0100
-893,Theory of a Deadman,"Manchester, UK",2023-09-26T19:30:00+0100
-894,Theory of a Deadman,"Cardiff, UK",2023-09-27T19:00:00+0100
-895,Theory of a Deadman,"Wolverhampton, UK",2023-09-29T19:00:00+0100
-896,Theory of a Deadman,"Cambridge, UK",2023-09-30T19:00:00+0100
-897,Thirty Seconds to Mars,"Las Vegas, NV, US",2023-10-21T11:00:00-0700
-898,Three Days Grace,"Saginaw, MI, US",2023-04-03T19:00:00-0400
-899,Three Days Grace,"Cincinnati, OH, US",2023-04-04T19:00:00-0400
-900,Three Days Grace,"Bridgeport, CT, US",2023-04-07T19:00:00-0400
-901,Three Days Grace,"University Park, PA, US",2023-04-08T19:00:00-0400
-902,Three Days Grace,"Wilkes-barre, PA, US",2023-04-10T18:00:00-0400
-903,Three Days Grace,"Huntington, WV, US",2023-04-12T12:00:00-0400
-904,Three Days Grace,"Huntington, WV, US",2023-04-12T19:00:00-0400
-905,Three Days Grace,"Jacksonville, FL, US",2023-04-14T19:00:00-0400
-906,Three Days Grace,"Orlando, FL, US",2023-04-15T19:00:00-0400
-907,Three Days Grace,"Savannah, GA, US",2023-04-17T19:00:00-0400
-908,Three Days Grace,"Huntsville, AL, US",2023-04-19T19:00:00-0500
-909,Three Days Grace,"Memphis, TN, US",2023-04-21T19:00:00-0500
-910,Three Days Grace,"Baton Rouge, LA, US",2023-04-22T19:00:00-0500
-911,Three Days Grace,"Tulsa, OK, US",2023-04-24T19:00:00-0500
-912,Three Days Grace,"Lincoln, NE, US",2023-04-25T19:00:00-0500
-913,Three Days Grace,"Fort Wayne, IN, US",2023-04-27T19:00:00-0400
-914,Three Days Grace,"Milwaukee, WI, US",2023-04-29T19:00:00-0500
-915,Three Days Grace,"Minneapolis, MN, US",2023-04-30T19:00:00-0500
-916,Three Days Grace,"Bozeman, MT, US",2023-05-03T19:00:00-0600
-917,Three Days Grace,"Spokane, WA, US",2023-05-06T19:00:00-0700
-918,Three Days Grace,"Everett, WA, US",2023-05-07T19:00:00-0700
-919,Three Days Grace,"Portland, OR, US",2023-05-09T19:00:00-0700
-920,Three Days Grace,"Harris, MI, US",2023-05-19T09:00:00-0400
-921,Three Days Grace,"Harris, MI, US",2023-05-20T09:00:00-0400
-922,Three Days Grace,"Nürburg, Germany",2023-06-02
-923,Three Days Grace,"Nuremberg, Germany",2023-06-02
-924,Three Days Grace,"Nickelsdorf, Austria",2023-06-07T19:00:00+0200
-925,Three Days Grace,"Castle Donington, UK",2023-06-08T10:00:00+0100
-926,Three Days Grace,"Dessel, Belgium",2023-06-15T19:00:00+0200
-927,Three Days Grace,"Natz-Schabs, Italy",2023-06-21
-928,Tigran Hamasyan,"Paris, France",2023-03-09T20:00:00+0100
-929,Tigran Hamasyan,"Rennes, France",2023-03-10T20:00:00+0100
-930,Tigran Hamasyan,"Leuven, Belgium",2023-03-16T20:00:00+0100
-931,Tigran Hamasyan,"Munich, Germany",2023-03-20
-932,Tigran Hamasyan,"Lewes, UK",2023-06-30T12:00:00+0100
-933,Tigran Hamasyan,"Lewes, UK",2023-06-30T11:00:00+0100
-934,Tigran Hamasyan,"Lewes, UK",2023-06-30T11:00:00+0100
-935,Tigran Hamasyan,"Lewes, UK",2023-07-01T11:00:00+0100
-936,Tigran Hamasyan,"Lewes, UK",2023-07-01T11:00:00+0100
-937,Tool,"Daytona Beach, FL, US",2023-05-18
-938,Tool,"Columbus, OH, US",2023-05-25
-939,Tool,"Columbus, OH, US",2023-05-25
-940,Twenty One Pilots,"San Isidro, Argentina",2023-03-17
-941,Twenty One Pilots,"Santiago, Chile",2023-03-17
-942,Twenty One Pilots,"Asunción, Paraguay",2023-03-21
-943,Twenty One Pilots,"Bogota, Colombia",2023-03-23
-944,Twenty One Pilots,"Monterrey, Mexico",2023-03-31T14:00:00-0600
-945,Unprocessed,"Birmingham, AL, US",2023-03-25T19:00:00-0500
-946,Unprocessed,"Brooklyn, NY, US",2023-04-02T19:00:00-0400
-947,Unprocessed,"Scottsdale, AZ, US",2023-04-16T20:00:00-0700
-948,Unprocessed,"Los Angeles (LA), CA, US",2023-04-17T18:30:00-0700
-949,Unprocessed,"San Francisco, CA, US",2023-04-18T19:00:00-0700
-950,Unprocessed,"Portland, OR, US",2023-04-20T19:00:00-0700
-951,Unprocessed,"Seattle, WA, US",2023-04-21T19:00:00-0700
-952,Unprocessed,"Vancouver, BC, Canada",2023-04-22T20:00:00-0700
-953,Unprocessed,"Milan, Italy",2023-06-02T19:00:00+0200
-954,Unprocessed,"Münster, Germany",2023-06-20
-955,Unprocessed,"Haarlem, Netherlands",2023-06-26T20:00:00+0200
-956,Unprocessed,"Eindhoven, Netherlands",2023-06-27T09:00:00+0200
-957,Unprocessed,"Manchester, UK",2023-07-28T12:00:00+0100
-958,Unprocessed,"Compton Martin, UK",2023-08-16
-959,Veil of Maya,"Denver, CO, US",2023-04-29T18:30:00-0600
-960,Veil of Maya,"Salt Lake City, UT, US",2023-04-30T18:30:00-0600
-961,Veil of Maya,"Garden City, ID, US",2023-05-01T19:30:00-0600
-962,Veil of Maya,"San Diego, CA, US",2023-05-03T18:00:00-0700
-963,Veil of Maya,"Los Angeles (LA), CA, US",2023-05-04T18:30:00-0700
-964,Veil of Maya,"San Francisco, CA, US",2023-05-05T19:30:00-0700
-965,Veil of Maya,"Las Vegas, NV, US",2023-05-06T18:30:00-0700
-966,Veil of Maya,"Phoenix, AZ, US",2023-05-07T19:00:00-0700
-967,Veil of Maya,"Austin, TX, US",2023-05-09T19:30:00-0500
-968,Veil of Maya,"Dallas, TX, US",2023-05-10T18:30:00-0500
-969,Veil of Maya,"East Moline, IL, US",2023-05-14T19:30:00-0500
-970,Veil of Maya,"Chicago, IL, US",2023-05-15T18:30:00-0500
-971,Veil of Maya,"St Petersburg, FL, US",2023-05-19T18:30:00-0400
-972,Veil of Maya,"Atlanta, GA, US",2023-05-20T19:00:00-0400
-973,Veil of Maya,"Lexington, KY, US",2023-05-21T19:30:00-0500
-974,Veil of Maya,"New York (NYC), NY, US",2023-05-23T18:30:00-0400
-975,Veil of Maya,"Boston, MA, US",2023-05-24T18:30:00-0400
-976,Veil of Maya,"Silver Spring, MD, US",2023-05-25T19:30:00-0400
-977,Veil of Maya,"Philadelphia, PA, US",2023-05-26T19:00:00-0400
-978,Veil of Maya,"Pittsburgh, PA, US",2023-05-28T18:30:00-0400
-979,Vulfpeck,"Live Oak, FL, US",2023-05-11
-980,Vulfpeck,"Manchester, TN, US",2023-06-15
-981,You Me At Six,"Prague, Czech Republic",2023-03-06
-982,You Me At Six,"Berlin, Germany",2023-03-07
-983,You Me At Six,"Nickelsdorf, Austria",2023-06-07T19:00:00+0200
-984,You Me At Six,"Cuxhaven, Germany",2023-07-23
-985,You Me At Six,"Crailsheim, Germany",2023-08-18
-986,You Me At Six,"Leicester, UK",2023-08-22T19:00:00+0100
-987,You Me At Six,"Bournemouth, UK",2023-08-23T19:00:00+0100
-988,You Me At Six,"Reading, UK",2023-08-23
-989,You Me At Six,"Wetherby, UK",2023-08-25T09:30:00+0100
-990,You Me At Six,"Reading, UK",2023-08-25T09:30:00+0100
-991,Zac Brown Band,"Houston, TX, US",2023-03-05T15:00:00-0600
-992,Zac Brown Band,"Brisbane, QLD, Australia",2023-03-17
-993,Zac Brown Band,"Boston, MA, US",2023-04-16T20:15:00-0400
-994,Zac Brown Band,"Highland, CA, US",2023-04-30T19:00:00-0700
-995,Zac Brown Band,"Cincinnati, OH, US",2023-06-02
-996,Zac Brown Band,"Cadott, WI, US",2023-06-22
-997,Zac Brown Band,"Milwaukee, WI, US",2023-06-23T19:30:00-0500
-998,Zac Brown Band,"Milwaukee, WI, US",2023-06-23
-999,Zac Brown Band,"Columbus, OH, US",2023-06-30T19:00:00-0400
-1000,Zac Brown Band,"Hershey, PA, US",2023-07-01T19:00:00-0400
-1001,Zac Brown Band,"Chicago, IL, US",2023-07-13
-1002,Zac Brown Band,"Toronto, ON, Canada",2023-07-14T19:00:00-0400
-1003,Zac Brown Band,"Brooklyn, MI, US",2023-07-14
-1004,Zac Brown Band,"Chicago, IL, US",2023-07-16
-1005,Zac Brown Band,"Canton, OH, US",2023-08-05T20:00:00-0400
-1006,Zac Brown Band,"Noblesville, IN, US",2023-08-06T19:00:00-0400
-1007,Zac Brown Band,"Syracuse, NY, US",2023-08-11T18:30:00-0400
-1008,Zac Brown Band,"Bethel, NY, US",2023-08-12T18:30:00-0400
-1009,Zac Brown Band,"Saratoga Springs, NY, US",2023-08-13T18:30:00-0400
-1010,Zac Brown Band,"Boston, MA, US",2023-08-19T19:00:00-0400
-1011,Zac Brown Band,"Gilford, NH, US",2023-09-02T19:00:00-0400
-1012,Zac Brown Band,"Gilford, NH, US",2023-09-03T19:00:00-0400
-1013,Zac Brown Band,"Puyallup, WA, US",2023-09-13T19:30:00-0700
-1014,Zac Brown Band,"Atlantic City, NJ, US",2023-09-15T20:00:00-0400
-1015,Zac Brown Band,"Wantagh, NY, US",2023-09-16T18:30:00-0400
-1016,Zac Brown Band,"Wantagh, NY, US",2023-09-17T18:30:00-0400
-1017,Zac Brown Band,"Raleigh, NC, US",2023-10-05T18:30:00-0400
-1018,Zac Brown Band,"Columbia, MD, US",2023-10-06T18:00:00-0400
-1019,Zac Brown Band,"Holmdel, NJ, US",2023-10-07T18:30:00-0400
-1020,Zac Brown Band,"Greenwood Village, CO, US",2023-10-12T18:00:00-0600
-1021,Zac Brown Band,"Greenwood Village, CO, US",2023-10-13T18:00:00-0600
-1022,Zac Brown Band,"West Valley City, UT, US",2023-10-14T19:00:00-0600
-1023,Zac Brown Band,"Irvine, CA, US",2023-10-20T18:30:00-0700
-1024,Zac Brown Band,"Irvine, CA, US",2023-10-21T18:30:00-0700
-1025,Zac Brown Band,"West Palm Beach, FL, US",2023-11-02T19:00:00-0400
-1026,Zac Brown Band,"Tampa, FL, US",2023-11-03T18:30:00-0400
-1027,Zac Brown Band,"Tampa, FL, US",2023-11-04T18:30:00-0400
-1028,Zedd,"Miami, FL, US",2023-03-24
-1029,Zedd,"Las Vegas, NV, US",2023-03-25T22:00:00-0700
-1030,Zedd,"Las Vegas, NV, US",2023-04-07T22:00:00-0700
-1031,Zedd,"Las Vegas, NV, US",2023-04-14T22:30:00-0700
-1032,Zedd,"Las Vegas, NV, US",2023-04-14T22:30:00-0700
-1033,Zedd,"Las Vegas, NV, US",2023-04-22T22:00:00-0700
-1034,Zedd,"Las Vegas, NV, US",2023-04-29T22:00:00-0700
-1035,Zedd,"Concord, NC, US",2023-05-05
-1036,Zedd,"Las Vegas, NV, US",2023-05-13T22:00:00-0700
-1037,Zedd,"Las Vegas, NV, US",2023-06-10T22:00:00-0700
-1038,Zedd,"Las Vegas, NV, US",2023-07-01T22:00:00-0700
-1039,Zedd,"Las Vegas, NV, US",2023-07-15T22:00:00-0700
-1040,Zedd,"Las Vegas, NV, US",2023-07-21T22:00:00-0700
-1041,Zedd,"Las Vegas, NV, US",2023-08-05T22:00:00-0700
-1042,Zedd,"Las Vegas, NV, US",2023-08-12T22:00:00-0700
-1043,Zedd,"Las Vegas, NV, US",2023-08-19T11:00:00-0700
-1044,Zedd,"Las Vegas, NV, US",2023-08-26T22:00:00-0700
-1045,Zedd,"Las Vegas, NV, US",2023-09-01T22:00:00-0700
-1046,Zedd,"Las Vegas, NV, US",2023-09-09T22:00:00-0700
-1047,Zedd,"Las Vegas, NV, US",2023-09-16T11:00:00-0700
-1048,Zedd,"Las Vegas, NV, US",2023-09-23T22:00:00-0700
-1049,ABBA,"Chelmsford, UK",2023-04-05T19:00:00+0100
-1050,The Academy Of Ancient Music,"Cambridge, UK",2023-03-08T19:00:00+0000
-1051,The Academy Of Ancient Music,"London, UK",2023-03-09T19:30:00+0000
-1052,The Academy Of Ancient Music,"Cambridge, UK",2023-04-20T19:00:00+0100
-1053,The Academy Of Ancient Music,"London, UK",2023-04-21T19:30:00+0100
-1054,The Academy Of Ancient Music,"London, UK",2023-06-30T19:00:00+0100
-1055,Anika Nilles,"Aschaffenburg, Germany",2023-03-21
-1056,Anika Nilles,"Dortmund, Germany",2023-05-13
-1057,Arch Echo,"Nashville, TN, US",2023-05-03T19:00:00-0500
-1058,Arch Echo,"Cleveland, OH, US",2023-05-04T19:30:00-0400
-1059,Arch Echo,"Toronto, ON, Canada",2023-05-05
-1060,Arch Echo,"Montreal, QC, Canada",2023-05-06T20:00:00-0400
-1061,Arch Echo,"Québec, QC, Canada",2023-05-07
-1062,Arch Echo,"Boston, MA, US",2023-05-09T19:00:00-0400
-1063,Arch Echo,"Philadelphia, PA, US",2023-05-10T20:00:00-0400
-1064,Arch Echo,"New York (NYC), NY, US",2023-05-11T19:30:00-0400
-1065,Arch Echo,"Washington, DC, US",2023-05-12T19:00:00-0400
-1066,Arch Echo,"Charlotte, NC, US",2023-05-13T20:00:00-0400
-1067,Arch Echo,"Fort Lauderdale, FL, US",2023-05-15T19:00:00-0400
-1068,Arch Echo,"Orlando, FL, US",2023-05-16
-1069,Arch Echo,"Atlanta, GA, US",2023-05-17T19:00:00-0400
-1070,Arch Echo,"Dallas, TX, US",2023-05-19T20:00:00-0500
-1071,Arch Echo,"Austin, TX, US",2023-05-20T19:00:00-0500
-1072,Arch Echo,"El Paso, TX, US",2023-05-21T20:00:00-0500
-1073,Arch Echo,"Mesa, AZ, US",2023-05-22T20:00:00-0700
-1074,Arch Echo,"San Diego, CA, US",2023-05-23T20:00:00-0700
-1075,Arch Echo,"Los Angeles (LA), CA, US",2023-05-24T19:00:00-0700
-1076,Arch Echo,"San Francisco, CA, US",2023-05-25
-1077,Arch Echo,"Portland, OR, US",2023-05-26
-1078,Arch Echo,"Seattle, WA, US",2023-05-27T20:30:00-0700
-1079,Arch Echo,"Vancouver, BC, Canada",2023-05-28
-1080,Arch Echo,"South Salt Lake, UT, US",2023-05-30T19:00:00-0600
-1081,Arch Echo,"Englewood, CO, US",2023-05-31T20:00:00-0600
-1082,Arch Echo,"Lawrence, KS, US",2023-06-01
-1083,Arch Echo,"Minneapolis, MN, US",2023-06-02T20:30:00-0500
-1084,Arch Echo,"Chicago, IL, US",2023-06-03
-1085,Arch Echo,"Rochester, NY, US",2023-10-07T20:00:00-0400
-1086,Arch Echo,"Brooklyn, NY, US",2023-10-13T19:30:00-0400
-1087,Billy Cobham,"Geneva, Switzerland",2023-03-28T20:00:00+0200
-1088,Billy Cobham,"Stavanger, Norway",2023-05-10T19:00:00+0200
-1089,Billy Cobham,"Berlin, Germany",2023-05-16
-1090,Billy Cobham,"Schwerin, Germany",2023-05-17
-1091,Billy Cobham,"Paris, France",2023-05-24T21:30:00+0200
-1092,Billy Cobham,"Bad Nauheim, Germany",2023-07-27
-1093,Bruno Mars,"Las Vegas, NV, US",2023-05-24T21:00:00-0700
-1094,Bruno Mars,"Las Vegas, NV, US",2023-05-27T21:00:00-0700
-1095,Bruno Mars,"Las Vegas, NV, US",2023-05-28T21:00:00-0700
-1096,Bruno Mars,"Las Vegas, NV, US",2023-05-31T21:00:00-0700
-1097,Bruno Mars,"Las Vegas, NV, US",2023-06-02T21:00:00-0700
-1098,Bruno Mars,"Las Vegas, NV, US",2023-06-03T21:00:00-0700
-1099,Bruno Mars,"São Paulo, Brazil",2023-09-02
-1100,Dave Koz,"Kansas City, MO, US",2023-07-15T19:30:00-0500
-1101,Dave Koz,"Kettering, OH, US",2023-08-12T20:00:00-0400
-1102,Dave Koz,"Temecula, CA, US",2023-09-23T19:00:00-0700
-1103,Dave Koz,"Temecula, CA, US",2023-09-24T19:00:00-0700
-1104,Deadmau5,"Austin, TX, US",2023-03-18T19:00:00-0500
-1105,Deadmau5,"Miami, FL, US",2023-03-24T08:00:00-0400
-1106,Deadmau5,"Las Vegas, NV, US",2023-04-01T22:00:00-0700
-1107,Deadmau5,"Las Vegas, NV, US",2023-04-21T22:00:00-0700
-1108,Deadmau5,"Concord, NC, US",2023-05-05
-1109,Deadmau5,"Las Vegas, NV, US",2023-05-19T22:00:00-0700
-1110,Deadmau5,"Las Vegas, NV, US",2023-06-08T22:00:00-0700
-1111,Deadmau5,"Las Vegas, NV, US",2023-07-28T22:00:00-0700
-1112,Deadmau5,"Las Vegas, NV, US",2023-08-17T22:00:00-0700
-1113,Deadmau5,"Los Angeles (LA), CA, US",2023-09-04
-1114,Deadmau5,"Las Vegas, NV, US",2023-09-30T22:00:00-0700
-1115,Eagles of Death Metal,"London, UK",2023-07-04T19:00:00+0100
-1116,Eagles of Death Metal,"Sheffield, UK",2023-07-05T19:30:00+0100
-1117,Eagles of Death Metal,"Cheltenham, UK",2023-07-05T11:00:00+0100
-1118,Eagles of Death Metal,"Frankfurt, Germany",2023-07-09
-1119,Eagles of Death Metal,"Leipzig, Germany",2023-07-10
-1120,Eagles of Death Metal,"Hannover, Germany",2023-07-11
-1121,Eagles of Death Metal,"Hamburg, Germany",2023-07-13
-1122,Eagles of Death Metal,"Berlin, Germany",2023-07-17
-1123,Eagles of Death Metal,"Nuremberg, Germany",2023-07-18
-1124,Hans Zimmer,"Skive, Denmark",2023-03-05T19:00:00+0100
-1125,Hans Zimmer,"Oberhausen, Germany",2023-04-23T20:00:00+0200
-1126,Hans Zimmer,"Frankfurt, Germany",2023-04-27
-1127,Hans Zimmer,"Stuttgart, Germany",2023-04-29
-1128,Hans Zimmer,"Nice, France",2023-05-06T20:00:00+0200
-1129,Hans Zimmer,"Floirac, France",2023-05-09T20:00:00+0200
-1130,Hans Zimmer,"Madrid, Spain",2023-05-16
-1131,Hans Zimmer,"Hannover, Germany",2023-05-20
-1132,Hans Zimmer,"Zürich, Switzerland",2023-05-22
-1133,Hans Zimmer,"Zürich, Switzerland",2023-05-23
-1134,Hans Zimmer,"Munich, Germany",2023-05-24
-1135,Hans Zimmer,"Berlin, Germany",2023-05-26T20:00:00+0200
-1136,Hans Zimmer,"Berlin, Germany",2023-05-27T20:00:00+0200
-1137,Hans Zimmer,"Hamburg, Germany",2023-05-28
-1138,Hans Zimmer,"Krakow, Poland",2023-05-30
-1139,Hans Zimmer,"Prague, Czech Republic",2023-06-02T20:00:00+0200
-1140,Hans Zimmer,"Vienna, Austria",2023-06-03
-1141,Hans Zimmer,"Cologne, Germany",2023-06-09
-1142,Hans Zimmer,"Amsterdam, Netherlands",2023-06-10T20:00:00+0200
-1143,Hans Zimmer,"Amsterdam, Netherlands",2023-06-11T20:00:00+0200
-1144,Hans Zimmer,"Rotterdam, Netherlands",2023-06-12T20:00:00+0200
-1145,Hans Zimmer,"London, UK",2023-06-14T18:00:00+0100
-1146,Hans Zimmer,"London, UK",2023-06-15T18:00:00+0100
-1147,Hans Zimmer,"Manchester, UK",2023-06-16T19:00:00+0100
-1148,Hans Zimmer,"Dublin, Ireland",2023-06-18T20:00:00+0100
-1149,Hans Zimmer,"Paris, France",2023-06-23T20:00:00+0200
-1150,Hans Zimmer,"Paris, France",2023-06-24T20:00:00+0200
-1151,James Ehnes,"London, ON, Canada",2023-05-20T19:00:00-0400
-1152,Joey Alexander,"Seattle, WA, US",2023-03-09T19:30:00-0800
-1153,Joey Alexander,"Seattle, WA, US",2023-03-10T21:30:00-0800
-1154,Joey Alexander,"Seattle, WA, US",2023-03-10T19:30:00-0800
-1155,Joey Alexander,"Seattle, WA, US",2023-03-11T19:30:00-0800
-1156,Joey Alexander,"Seattle, WA, US",2023-03-11T21:30:00-0800
-1157,Joey Alexander,"Seattle, WA, US",2023-03-12T19:30:00-0700
-1158,Joey Alexander,"Kennett Square, PA, US",2023-03-24T20:00:00-0400
-1159,Joey Alexander,"New York (NYC), NY, US",2023-04-11T19:00:00-0400
-1160,Joey Alexander,"New York (NYC), NY, US",2023-04-12T19:00:00-0400
-1161,Joey Alexander,"New York (NYC), NY, US",2023-04-13T19:00:00-0400
-1162,Joey Alexander,"New York (NYC), NY, US",2023-04-14T20:30:00-0400
-1163,Joey Alexander,"New York (NYC), NY, US",2023-04-15T20:30:00-0400
-1164,Joey Alexander,"Minneapolis, MN, US",2023-04-27T21:00:00-0500
-1165,Joey Alexander,"Minneapolis, MN, US",2023-04-27T19:00:00-0500
-1166,Joey Alexander,"Calgary, AB, Canada",2023-04-28T19:30:00-0600
-1167,Joey Alexander,"Irvine, CA, US",2023-05-19T20:00:00-0700
-1168,Joey Alexander,"Mesa, AZ, US",2023-05-20T19:30:00-0700
-1169,Joey Alexander,"Seoul, Korea, Republic Of",2023-05-26
-1170,Joey Alexander,"Princeton, NJ, US",2023-06-10T20:00:00-0400
-1171,LCD Soundsystem,"Pasadena, CA, US",2023-06-02T16:00:00-0700
-1172,LCD Soundsystem,"Palo Alto, CA, US",2023-06-02T15:00:00-0700
-1173,LCD Soundsystem,"San Diego, CA, US",2023-06-02T16:00:00-0700
-1174,LCD Soundsystem,"San Diego, CA, US",2023-06-03T16:00:00-0700
-1175,LCD Soundsystem,"Pasadena, CA, US",2023-06-04T15:00:00-0700
-1176,LCD Soundsystem,"Atlanta, GA, US",2023-06-09T15:00:00-0400
-1177,LCD Soundsystem,"Grand Prairie, TX, US",2023-06-09T16:00:00-0500
-1178,LCD Soundsystem,"New Orleans, LA, US",2023-06-09T17:00:00-0500
-1179,LCD Soundsystem,"Atlanta, GA, US",2023-06-10T16:00:00-0400
-1180,LCD Soundsystem,"Grand Prairie, TX, US",2023-06-11T16:00:00-0500
-1181,LCD Soundsystem,"Queens, NY, US",2023-06-16T16:00:00-0400
-1182,LCD Soundsystem,"Boston, MA, US",2023-06-16T15:00:00-0400
-1183,LCD Soundsystem,"Columbia, MD, US",2023-06-16T16:00:00-0400
-1184,LCD Soundsystem,"Boston, MA, US",2023-06-17T15:00:00-0400
-1185,LCD Soundsystem,"Columbia, MD, US",2023-06-18T16:00:00-0400
-1186,LCD Soundsystem,"Chicago, IL, US",2023-06-23T15:00:00-0500
-1187,LCD Soundsystem,"Nashville, TN, US",2023-06-23T15:00:00-0500
-1188,LCD Soundsystem,"Columbus, OH, US",2023-06-23T16:00:00-0400
-1189,LCD Soundsystem,"Columbus, OH, US",2023-06-24T16:00:00-0400
-1190,LCD Soundsystem,"Chicago, IL, US",2023-06-25T15:00:00-0500
-1191,Mac Ayres,"Seattle, WA, US",2023-03-24T21:00:00-0700
-1192,Mac Ayres,"Portland, OR, US",2023-03-25T20:00:00-0700
-1193,Mac Ayres,"Vancouver, BC, Canada",2023-03-26T20:00:00-0700
-1194,Mac Ayres,"San Francisco, CA, US",2023-03-30T20:00:00-0700
-1195,Mac Ayres,"Pomona, CA, US",2023-03-31T19:00:00-0700
-1196,Mac Ayres,"Los Angeles (LA), CA, US",2023-04-01T20:00:00-0700
-1197,Mac Ayres,"San Diego, CA, US",2023-04-04T19:00:00-0700
-1198,Mac Ayres,"Phoenix, AZ, US",2023-04-06T20:00:00-0700
-1199,Mac Ayres,"Denver, CO, US",2023-04-08T21:00:00-0600
-1200,Mac Ayres,"Kansas City, MO, US",2023-04-09T20:00:00-0500
-1201,Mac Ayres,"Dallas, TX, US",2023-04-11T20:00:00-0500
-1202,Mac Ayres,"Houston, TX, US",2023-04-12T19:00:00-0500
-1203,Mac Ayres,"Austin, TX, US",2023-04-14T20:00:00-0500
-1204,Mac Ayres,"New Orleans, LA, US",2023-04-15T19:00:00-0500
-1205,Mac Ayres,"St Petersburg, FL, US",2023-04-18T19:00:00-0400
-1206,Mac Ayres,"Fort Lauderdale, FL, US",2023-04-19T19:00:00-0400
-1207,Mac Ayres,"Orlando, FL, US",2023-04-20T19:00:00-0400
-1208,Mac Ayres,"Atlanta, GA, US",2023-04-22T20:00:00-0400
-1209,Mac Ayres,"Nashville, TN, US",2023-04-23T20:00:00-0500
-1210,Mac Ayres,"Charlotte, NC, US",2023-04-25T20:00:00-0400
-1211,Mac Ayres,"Philadelphia, PA, US",2023-04-27T20:00:00-0400
-1212,Mac Ayres,"Boston, MA, US",2023-04-28T20:00:00-0400
-1213,Mac Ayres,"Silver Spring, MD, US",2023-04-29T20:00:00-0400
-1214,Mac Ayres,"Pittsburgh, PA, US",2023-05-02T19:00:00-0400
-1215,Mac Ayres,"Columbus, OH, US",2023-05-03T19:00:00-0400
-1216,Mac Ayres,"Chicago, IL, US",2023-05-05T21:00:00-0500
-1217,Mac Ayres,"Detroit, MI, US",2023-05-06T20:00:00-0400
-1218,Maurizio Pollini,"London, UK",2023-03-17
-1219,Maxo,"Los Angeles (LA), CA, US",2023-04-05T20:00:00-0700
-1220,Meshuggah,"Lund, Sweden",2023-03-31
-1221,Meshuggah,"Örebro, Sweden",2023-04-01
-1222,Meshuggah,"Umeå, Sweden",2023-04-07
-1223,Meshuggah,"Stockholm, Sweden",2023-04-08
-1224,Meshuggah,"Helsinki, Finland",2023-04-15T18:00:00+0300
-1225,Meshuggah,"Oslo, Norway",2023-04-20T19:00:00+0200
-1226,Meshuggah,"Linköping, Sweden",2023-04-21
-1227,Meshuggah,"Gothenburg, Sweden",2023-04-22
-1228,Meshuggah,"Nürburg, Germany",2023-06-02
-1229,Meshuggah,"Nuremberg, Germany",2023-06-02
-1230,Meshuggah,"Segrate, Italy",2023-06-03
-1231,Meshuggah,"Gdansk, Poland",2023-06-07
-1232,Meshuggah,"Oberhausen, Germany",2023-06-12
-1233,Meshuggah,"Flensburg, Germany",2023-06-13
-1234,Meshuggah,"Clisson, France",2023-06-15
-1235,Meshuggah,"Dessel, Belgium",2023-06-15T19:00:00+0200
-1236,Meshuggah,"Cenon, France",2023-06-19T20:00:00+0200
-1237,Meshuggah,"Ysselsteyn, Netherlands",2023-06-22
-1238,Meshuggah,"Gräfenhainichen, Germany",2023-06-23
-1239,Meshuggah,"Villeurbanne, France",2023-06-27T20:00:00+0200
-1240,Meshuggah,"Villeurbanne, France",2023-06-27T20:00:00+0200
-1241,Meshuggah,"Lisbon, Portugal",2023-06-28
-1242,Meshuggah,"Viveiro, Spain",2023-06-28
-1243,Miguel Migs,"Denver, CO, US",2023-03-10T23:00:00-0700
-1244,Miguel Migs,"Orlando, FL, US",2023-06-02T21:00:00-0400
-1245,Monuments,"Budapest, Hungary",2023-03-05T19:00:00+0100
-1246,Monuments,"Munich, Germany",2023-03-06
-1247,Monuments,"Bratislava, Slovakia",2023-03-07
-1248,Monuments,"Prague, Czech Republic",2023-03-08T18:00:00+0100
-1249,Monuments,"Reutlingen, Germany",2023-03-09
-1250,Monuments,"Berlin, Germany",2023-03-10
-1251,Monuments,"Wrocław, Poland",2023-03-11
-1252,Monuments,"Helsinki, Finland",2023-03-13
-1253,Monuments,"Joensuu, Finland",2023-03-14
-1254,Monuments,"Tampere, Finland",2023-03-15
-1255,Monuments,"Stockholm, Sweden",2023-03-17
-1256,Monuments,"Castle Donington, UK",2023-06-08T10:00:00+0100
-1257,Mosca,"Sheffield, UK",2023-04-22
-1258,Mother Mother,"Guadalajara, Mexico",2023-05-20
-1259,Paris Monster,"New York (NYC), NY, US",2023-04-04T19:00:00-0400
-1260,Plini,"Esch Sur Alzette, Luxembourg",2023-03-06T19:00:00+0100
-1261,Plini,"Cologne, Germany",2023-03-07T20:00:00+0100
-1262,Plini,"Hamburg, Germany",2023-03-08T20:00:00+0100
-1263,Plini,"Berlin, Germany",2023-03-09T20:00:00+0100
-1264,Plini,"Prague, Czech Republic",2023-03-10T19:00:00+0100
-1265,Plini,"Vienna, Austria",2023-03-14
-1266,Plini,"Munich, Germany",2023-03-16T20:00:00+0100
-1267,Plini,"Aarau, Switzerland",2023-03-19T19:00:00+0100
-1268,Plini,"Villeurbanne, France",2023-03-29T19:00:00+0200
-1269,Plini,"Nantes, France",2023-03-30T20:30:00+0200
-1270,Plini,"Paris, France",2023-03-31T19:30:00+0200
-1271,Plini,"London, UK",2023-04-01T18:00:00+0100
-1272,Plini,"Bristol, UK",2023-04-02T19:00:00+0100
-1273,Plini,"Glasgow, UK",2023-04-04T19:00:00+0100
-1274,Plini,"Manchester, UK",2023-04-05T19:30:00+0100
-1275,Plini,"San Diego, CA, US",2023-04-28T19:00:00-0700
-1276,Plini,"San Francisco, CA, US",2023-04-29T20:00:00-0700
-1277,Plini,"Portland, OR, US",2023-05-01T19:00:00-0700
-1278,Plini,"Vancouver, BC, Canada",2023-05-02
-1279,Plini,"Seattle, WA, US",2023-05-03T19:00:00-0700
-1280,Plini,"Salt Lake City, UT, US",2023-05-05T19:00:00-0600
-1281,Plini,"Englewood, CO, US",2023-05-06T20:00:00-0600
-1282,Plini,"Minneapolis, MN, US",2023-05-08T20:00:00-0500
-1283,Plini,"Chicago, IL, US",2023-05-09T19:00:00-0500
-1284,Plini,"Detroit, MI, US",2023-05-10T18:00:00-0400
-1285,Plini,"Toronto, ON, Canada",2023-05-11T18:00:00-0400
-1286,Plini,"Boston, MA, US",2023-05-13T18:00:00-0400
-1287,Plini,"New York (NYC), NY, US",2023-05-14T18:00:00-0400
-1288,Plini,"New York (NYC), NY, US",2023-05-15T18:30:00-0400
-1289,Plini,"Pittsburgh, PA, US",2023-05-16T19:00:00-0400
-1290,Plini,"Washington, DC, US",2023-05-17T19:00:00-0400
-1291,Plini,"Charlotte, NC, US",2023-05-19T19:00:00-0400
-1292,Plini,"Orlando, FL, US",2023-05-20T18:00:00-0400
-1293,Plini,"Atlanta, GA, US",2023-05-21T18:00:00-0400
-1294,Plini,"Dallas, TX, US",2023-05-23T18:30:00-0500
-1295,Plini,"Austin, TX, US",2023-05-24T18:30:00-0500
-1296,Plini,"Phoenix, AZ, US",2023-05-26T19:00:00-0700
-1297,Plini,"Los Angeles (LA), CA, US",2023-05-27T18:00:00-0700
-1298,Sam Wills,"London, UK",2023-05-09T19:00:00+0100
-1299,Shai Maestro,"Geneva, Switzerland",2023-03-16
-1300,Shai Maestro,"Bremen, Germany",2023-03-17T20:00:00+0100
-1301,Shai Maestro,"Heerlen, Netherlands",2023-04-01
-1302,Shai Maestro,"Tel Aviv-Jaffa, Israel",2023-05-24T20:00:00+0300
-1303,Shai Maestro,"Vienna, Austria",2023-05-30T19:30:00+0200
-1304,Shai Maestro,"Lewes, UK",2023-06-30T12:00:00+0100
-1305,Shai Maestro,"Lewes, UK",2023-06-30T11:00:00+0100
-1306,Shai Maestro,"Lewes, UK",2023-06-30T11:00:00+0100
-1307,Shai Maestro,"Lewes, UK",2023-07-02T11:00:00+0100
-1308,Shai Maestro,"Lewes, UK",2023-07-02T11:00:00+0100
-1309,Shai Maestro,"Agrigento, Italy",2023-08-03T18:00:00+0200
-1310,Thrown,"Karlsruhe, Germany",2023-03-10T19:00:00+0100
-1311,Thrown,"Bochum, Germany",2023-03-11T19:00:00+0100
-1312,Thrown,"'s Hertogenbosch, Netherlands",2023-03-12T19:00:00+0100
-1313,Thrown,"Wiesbaden, Germany",2023-03-13T19:00:00+0100
-1314,Thrown,"Arlon, Belgium",2023-03-14T19:00:00+0100
-1315,Thrown,"New Cross, UK",2023-03-15T18:00:00+0000
-1316,Thrown,"Paris, France",2023-03-16T19:00:00+0100
-1317,Thrown,"Nantes, France",2023-03-17T19:00:00+0100
-1318,Thrown,"Toulouse, France",2023-03-18T19:00:00+0100
-1319,Thrown,"Montbeliard, France",2023-03-19T20:30:00+0100
-1320,Thrown,"Aarau, Switzerland",2023-03-20T19:00:00+0100
-1321,Thrown,"Munich, Germany",2023-03-21
-1322,Thrown,"Prague, Czech Republic",2023-03-22T19:00:00+0100
-1323,Thrown,"Dresden, Germany",2023-03-23
-1324,Thrown,"Berlin, Germany",2023-03-24T19:00:00+0100
-1325,Thrown,"Hamburg, Germany",2023-03-25T19:00:00+0100
-1326,Thrown,"Velké Meziříčí, Czech Republic",2023-07-06
-1327,Thrown,"Dour, Belgium",2023-07-12T23:59:00+0200
-1328,Yaron Herman,"Paris, France",2023-03-10T20:00:00+0100
-1329,Yaron Herman,"Limoges, France",2023-03-26T21:00:00+0200
-1330,Yaron Herman,"Bordeaux, France",2023-04-22T20:00:00+0200
-1331,Yaron Herman,"Niort, France",2023-06-28T19:15:00+0200
-1332,Yaron Herman,"Niort, France",2023-06-29T19:15:00+0200
+name,concert_location,concert_time
+ABBA,"Chelmsford, UK",2023-04-05T19:00:00+0100
+AJR,"Costa Mesa, CA, US",2023-08-02T19:30:00-0700
+AJR,"Milwaukee, WI, US",2023-07-08T19:00:00-0500
+AJR,"Gulf Shores, AL, US",2023-05-19T10:00:00-0500
+AJR,"Bethlehem, PA, US",2023-08-04T19:00:00-0400
+Anika Nilles,"Dortmund, Germany",2023-05-13
+Anika Nilles,"Aschaffenburg, Germany",2023-03-21
+Animals As Leaders,"Brisbane, QLD, Australia",2023-04-21
+Animals As Leaders,"Manchester, UK",2023-11-01T19:00:00+0000
+Animals As Leaders,"Glasgow, UK",2023-11-03T19:00:00+0000
+Animals As Leaders,"Birmingham, UK",2023-11-04T18:00:00+0000
+Animals As Leaders,"Milan, Italy",2023-11-08T20:00:00+0100
+Animals As Leaders,"Munich, Germany",2023-11-10T20:00:00+0100
+Animals As Leaders,"Cologne, Germany",2023-11-11T20:00:00+0100
+Animals As Leaders,"Hamburg, Germany",2023-11-12T20:00:00+0100
+Animals As Leaders,"Berlin, Germany",2023-11-13
+Animals As Leaders,"Nijmegen, Netherlands",2023-11-16T19:30:00+0100
+Animals As Leaders,"Berlin, Germany",2023-12-31T19:00:00+0100
+Animals As Leaders,"Paris, France",2023-11-05T19:30:00+0100
+Animals As Leaders,"Sydney, NSW, Australia",2023-04-20T09:30:00+1000
+Animals As Leaders,"London, UK",2023-11-02T19:00:00+0000
+Animals As Leaders,"Perth, WA, Australia",2023-04-16
+Animals As Leaders,"Melbourne, VIC, Australia",2023-04-19
+Anomalie,"Yokohama, Japan",2023-05-27
+Arch Echo,"Philadelphia, PA, US",2023-05-10T20:00:00-0400
+Arch Echo,"New York (NYC), NY, US",2023-05-11T19:30:00-0400
+Arch Echo,"Washington, DC, US",2023-05-12T19:00:00-0400
+Arch Echo,"Charlotte, NC, US",2023-05-13T20:00:00-0400
+Arch Echo,"Fort Lauderdale, FL, US",2023-05-15T19:00:00-0400
+Arch Echo,"Orlando, FL, US",2023-05-16
+Arch Echo,"Atlanta, GA, US",2023-05-17T19:00:00-0400
+Arch Echo,"Brooklyn, NY, US",2023-10-13T19:30:00-0400
+Arch Echo,"Rochester, NY, US",2023-10-07T20:00:00-0400
+Arch Echo,"Dallas, TX, US",2023-05-19T20:00:00-0500
+Arch Echo,"Austin, TX, US",2023-05-20T19:00:00-0500
+Arch Echo,"El Paso, TX, US",2023-05-21T20:00:00-0500
+Arch Echo,"Minneapolis, MN, US",2023-06-02T20:30:00-0500
+Arch Echo,"Lawrence, KS, US",2023-06-01
+Arch Echo,"Englewood, CO, US",2023-05-31T20:00:00-0600
+Arch Echo,"South Salt Lake, UT, US",2023-05-30T19:00:00-0600
+Arch Echo,"Vancouver, BC, Canada",2023-05-28
+Arch Echo,"Seattle, WA, US",2023-05-27T20:30:00-0700
+Arch Echo,"Portland, OR, US",2023-05-26
+Arch Echo,"San Francisco, CA, US",2023-05-25
+Arch Echo,"Los Angeles (LA), CA, US",2023-05-24T19:00:00-0700
+Arch Echo,"Boston, MA, US",2023-05-09T19:00:00-0400
+Arch Echo,"San Diego, CA, US",2023-05-23T20:00:00-0700
+Arch Echo,"Mesa, AZ, US",2023-05-22T20:00:00-0700
+Arch Echo,"Chicago, IL, US",2023-06-03
+Arch Echo,"Québec, QC, Canada",2023-05-07
+Arch Echo,"Cleveland, OH, US",2023-05-04T19:30:00-0400
+Arch Echo,"Toronto, ON, Canada",2023-05-05
+Arch Echo,"Nashville, TN, US",2023-05-03T19:00:00-0500
+Arch Echo,"Montreal, QC, Canada",2023-05-06T20:00:00-0400
+Avenged Sevenfold,"Columbus, OH, US",2023-05-25
+Avenged Sevenfold,"Columbus, OH, US",2023-05-25
+Avenged Sevenfold,"Daytona Beach, FL, US",2023-05-18
+Billie Eilish,"Santiago, Chile",2023-03-17
+Billie Eilish,"Asunción, Paraguay",2023-03-21
+Billie Eilish,"Bogota, Colombia",2023-03-23
+Billie Eilish,"Mexico City, Mexico",2023-03-29T20:30:00-0600
+Billie Eilish,"Monterrey, Mexico",2023-03-31T14:00:00-0600
+Billie Eilish,"Tlajomulco de Zuñiga, Mexico",2023-04-02T19:00:00-0500
+Billie Eilish,"Montreal, QC, Canada",2023-08-04
+Billie Eilish,"Budapest, Hungary",2023-08-09
+Billie Eilish,"Paris, France",2023-08-23T17:00:00+0200
+Billie Eilish,"São Paulo, Brazil",2023-03-24
+Billie Eilish,"Paris, France",2023-08-23
+Billie Eilish,"Reading, UK",2023-08-23
+Billie Eilish,"San Isidro, Argentina",2023-03-17
+Billie Eilish,"Wetherby, UK",2023-08-25T09:30:00+0100
+Billie Eilish,"Laois, Ireland",2023-09-01
+Billy Cobham,"Geneva, Switzerland",2023-03-28T20:00:00+0200
+Billy Cobham,"Stavanger, Norway",2023-05-10T19:00:00+0200
+Billy Cobham,"Berlin, Germany",2023-05-16
+Billy Cobham,"Schwerin, Germany",2023-05-17
+Billy Cobham,"Paris, France",2023-05-24T21:30:00+0200
+Billy Cobham,"Bad Nauheim, Germany",2023-07-27
+Breaking Benjamin,"Alpharetta, GA, US",2023-08-01T18:30:00-0400
+Breaking Benjamin,"West Palm Beach, FL, US",2023-08-03T18:30:00-0400
+Breaking Benjamin,"Raleigh, NC, US",2023-08-07T18:30:00-0400
+Breaking Benjamin,"Bristow, VA, US",2023-08-09T18:30:00-0400
+Breaking Benjamin,"Syracuse, NY, US",2023-08-12T18:30:00-0400
+Breaking Benjamin,"Syracuse, NY, US",2023-08-12T09:00:00-0400
+Breaking Benjamin,"Cincinnati, OH, US",2023-08-15T18:30:00-0400
+Breaking Benjamin,"Wantagh, NY, US",2023-08-19T18:30:00-0400
+Breaking Benjamin,"Burgettstown, PA, US",2023-08-26T18:30:00-0400
+Breaking Benjamin,"Camden, NJ, US",2023-08-21T18:30:00-0400
+Breaking Benjamin,"Gilford, NH, US",2023-08-23T18:30:00-0400
+Breaking Benjamin,"Cuyahoga Falls, OH, US",2023-08-27T18:30:00-0400
+Breaking Benjamin,"Maryland Heights, MO, US",2023-08-29T09:00:00-0500
+Breaking Benjamin,"Tinley Park, IL, US",2023-08-30T18:30:00-0500
+Breaking Benjamin,"Clarkston, MI, US",2023-09-01T18:30:00-0400
+Breaking Benjamin,"Noblesville, IN, US",2023-09-02T18:30:00-0400
+Breaking Benjamin,"Charlotte, NC, US",2023-07-31T18:30:00-0400
+Breaking Benjamin,"Wantagh, NY, US",2023-08-19T09:00:00-0400
+Breaking Benjamin,"Maryland Heights, MO, US",2023-08-29T18:30:00-0500
+Breaking Benjamin,"Rogers, AR, US",2023-07-29T18:30:00-0500
+Breaking Benjamin,"Dallas, TX, US",2023-07-25T18:30:00-0500
+Breaking Benjamin,"The Woodlands, TX, US",2023-07-27T18:30:00-0500
+Breaking Benjamin,"Biloxi, MS, US",2023-05-06T19:00:00-0500
+Breaking Benjamin,"Huntsville, AL, US",2023-05-05T19:00:00-0500
+Breaking Benjamin,"Franklin, TN, US",2023-05-03T19:30:00-0500
+Breaking Benjamin,"Charleston, WV, US",2023-05-02T19:00:00-0400
+Breaking Benjamin,"North Myrtle Beach, SC, US",2023-04-26T19:00:00-0400
+Breaking Benjamin,"Tampa, FL, US",2023-04-21T18:00:00-0400
+Breaking Benjamin,"Camdenton, MO, US",2023-05-11T19:00:00-0500
+Breaking Benjamin,"Dubuque, IA, US",2023-05-13T19:00:00-0500
+Breaking Benjamin,"Milwaukee, WI, US",2023-05-14
+Breaking Benjamin,"Grand Rapids, MI, US",2023-05-16T19:00:00-0400
+Breaking Benjamin,"Wilkes-barre, PA, US",2023-05-18T19:00:00-0400
+Breaking Benjamin,"Park City, KS, US",2023-05-10T19:00:00-0500
+Breaking Benjamin,"Pikeville, KY, US",2023-05-21T19:00:00-0500
+Breaking Benjamin,"Knoxville, TN, US",2023-05-23T19:00:00-0500
+Breaking Benjamin,"Denver, CO, US",2023-07-11T18:30:00-0600
+Breaking Benjamin,"West Valley City, UT, US",2023-07-13T18:30:00-0600
+Breaking Benjamin,"Ridgefield, WA, US",2023-07-15T18:30:00-0700
+Breaking Benjamin,"Auburn, WA, US",2023-07-16T18:30:00-0700
+Breaking Benjamin,"Wheatland, CA, US",2023-07-18T19:00:00-0700
+Breaking Benjamin,"Irvine, CA, US",2023-07-20T18:30:00-0700
+Breaking Benjamin,"Irvine, CA, US",2023-07-20T09:00:00-0700
+Breaking Benjamin,"Phoenix, AZ, US",2023-07-22T18:30:00-0700
+Breaking Benjamin,"Lexington, KY, US",2023-05-20T19:00:00-0500
+Breaking Benjamin,"Albuquerque, NM, US",2023-07-23T18:30:00-0600
+Bring Me The Horizon,"West Palm Beach, FL, US",2023-07-24T18:30:00-0400
+Bring Me The Horizon,"Tampa, FL, US",2023-07-25T18:30:00-0400
+Bring Me The Horizon,"Atlanta, GA, US",2023-07-26T18:30:00-0400
+Bring Me The Horizon,"Clarkston, MI, US",2023-07-29T18:30:00-0400
+Bring Me The Horizon,"Holmdel, NJ, US",2023-08-05T18:30:00-0400
+Bring Me The Horizon,"Queens, NY, US",2023-08-01T19:00:00-0400
+Bring Me The Horizon,"Boston, MA, US",2023-08-02T17:45:00-0400
+Bring Me The Horizon,"Darien Center, NY, US",2023-08-04T18:30:00-0400
+Bring Me The Horizon,"Virginia Beach, VA, US",2023-07-22T18:30:00-0400
+Bring Me The Horizon,"Toronto, ON, Canada",2023-07-30T18:30:00-0400
+Bring Me The Horizon,"Charlotte, NC, US",2023-07-21T18:30:00-0400
+Bring Me The Horizon,"Rogers, AR, US",2023-07-11T18:30:00-0500
+Bring Me The Horizon,"Cuyahoga Falls, OH, US",2023-07-18T18:30:00-0400
+Bring Me The Horizon,"Nürburg, Germany",2023-06-02
+Bring Me The Horizon,"Paris, France",2023-06-06T20:00:00+0200
+Bring Me The Horizon,"Castle Donington, UK",2023-06-08T10:00:00+0100
+Bring Me The Horizon,"Donnington, UK",2023-06-08
+Bring Me The Horizon,"The Woodlands, TX, US",2023-06-27T18:30:00-0500
+Bring Me The Horizon,"Dallas, TX, US",2023-06-28T18:30:00-0500
+Bring Me The Horizon,"Bristow, VA, US",2023-07-19T18:30:00-0400
+Bring Me The Horizon,"Phoenix, AZ, US",2023-06-30T18:30:00-0700
+Bring Me The Horizon,"Chula Vista, CA, US",2023-07-01T19:00:00-0700
+Bring Me The Horizon,"Camden, NJ, US",2023-08-06T18:30:00-0400
+Bring Me The Horizon,"Los Angeles (LA), CA, US",2023-07-03T18:15:00-0700
+Bring Me The Horizon,"Mountain View, CA, US",2023-07-05T18:30:00-0700
+Bring Me The Horizon,"West Valley City, UT, US",2023-07-07T18:30:00-0600
+Bring Me The Horizon,"Greenwood Village, CO, US",2023-07-09T18:30:00-0600
+Bring Me The Horizon,"Budapest, Hungary",2023-08-21
+Bring Me The Horizon,"Somerset, WI, US",2023-07-13T18:30:00-0500
+Bring Me The Horizon,"Cincinnati, OH, US",2023-07-15T18:30:00-0400
+Bring Me The Horizon,"Noblesville, IN, US",2023-07-16T18:30:00-0400
+Bring Me The Horizon,"Los Angeles (LA), CA, US",2023-07-02T18:15:00-0700
+Bruno Mars,"Las Vegas, NV, US",2023-05-24T21:00:00-0700
+Bruno Mars,"Las Vegas, NV, US",2023-05-28T21:00:00-0700
+Bruno Mars,"Las Vegas, NV, US",2023-05-31T21:00:00-0700
+Bruno Mars,"Las Vegas, NV, US",2023-06-02T21:00:00-0700
+Bruno Mars,"Las Vegas, NV, US",2023-06-03T21:00:00-0700
+Bruno Mars,"São Paulo, Brazil",2023-09-02
+Bruno Mars,"Las Vegas, NV, US",2023-05-27T21:00:00-0700
+Cory Wong,"Dublin, Ireland",2023-10-17T19:00:00+0100
+Cory Wong,"Glasgow, UK",2023-10-14T19:00:00+0100
+Cory Wong,"Savannah, GA, US",2023-03-23
+Cory Wong,"Minneapolis, MN, US",2023-04-15
+Cory Wong,"Chillicothe, IL, US",2023-05-26
+Cory Wong,"Snowshoe, WV, US",2023-07-13T12:00:00-0400
+Cory Wong,"Sete, France",2023-07-16T21:00:00+0200
+Cory Wong,"Stuttgart, Germany",2023-07-19
+Cory Wong,"Marciac, France",2023-07-25T21:00:00+0200
+Cory Wong,"Honolulu, HI, US",2023-08-03T21:00:00-1000
+Cory Wong,"Honolulu, HI, US",2023-08-03T18:30:00-1000
+Cory Wong,"Honolulu, HI, US",2023-08-04T21:00:00-1000
+Cory Wong,"Honolulu, HI, US",2023-08-04T18:30:00-1000
+Cory Wong,"Honolulu, HI, US",2023-08-05T21:00:00-1000
+Cory Wong,"Stockholm, Sweden",2023-09-28
+Cory Wong,"Honolulu, HI, US",2023-08-05T18:30:00-1000
+Cory Wong,"Copenhagen, Denmark",2023-09-30
+Cory Wong,"Amsterdam, Netherlands",2023-10-02T19:00:00+0200
+Cory Wong,"Amsterdam, Netherlands",2023-10-02T19:00:00+0200
+Cory Wong,"Amsterdam, Netherlands",2023-10-03T19:00:00+0200
+Cory Wong,"Paris, France",2023-10-04T20:00:00+0200
+Cory Wong,"Utrecht, Netherlands",2023-10-05
+Cory Wong,"Brussels, Belgium",2023-10-06
+Cory Wong,"Berlin, Germany",2023-10-08T20:00:00+0200
+Cory Wong,"Tilburg, Netherlands",2023-10-09T19:00:00+0200
+Cory Wong,"London, UK",2023-10-11T19:00:00+0100
+Cory Wong,"Birmingham, UK",2023-10-12T19:00:00+0100
+Cory Wong,"Manchester, UK",2023-10-13T20:00:00+0100
+Cory Wong,"Oslo, Norway",2023-09-29T20:00:00+0200
+Dave Koz,"Kansas City, MO, US",2023-07-15T19:30:00-0500
+Dave Koz,"Kettering, OH, US",2023-08-12T20:00:00-0400
+Dave Koz,"Temecula, CA, US",2023-09-23T19:00:00-0700
+Dave Koz,"Temecula, CA, US",2023-09-24T19:00:00-0700
+Deadmau5,"Miami, FL, US",2023-03-24T08:00:00-0400
+Deadmau5,"Austin, TX, US",2023-03-18T19:00:00-0500
+Deadmau5,"Las Vegas, NV, US",2023-04-01T22:00:00-0700
+Deadmau5,"Las Vegas, NV, US",2023-04-21T22:00:00-0700
+Deadmau5,"Concord, NC, US",2023-05-05
+Deadmau5,"Las Vegas, NV, US",2023-05-19T22:00:00-0700
+Deadmau5,"Las Vegas, NV, US",2023-07-28T22:00:00-0700
+Deadmau5,"Las Vegas, NV, US",2023-06-08T22:00:00-0700
+Deadmau5,"Los Angeles (LA), CA, US",2023-09-04
+Deadmau5,"Las Vegas, NV, US",2023-09-30T22:00:00-0700
+Deadmau5,"Las Vegas, NV, US",2023-08-17T22:00:00-0700
+Demi Lovato,"Dubai, United Arab Emirates",2023-03-18
+Dream Theater,"Brooklyn, NY, US",2023-10-13T19:30:00-0400
+Dream Theater,"Rochester, NY, US",2023-10-07T20:00:00-0400
+Eagles of Death Metal,"Frankfurt, Germany",2023-07-09
+Eagles of Death Metal,"Sheffield, UK",2023-07-05T19:30:00+0100
+Eagles of Death Metal,"Cheltenham, UK",2023-07-05T11:00:00+0100
+Eagles of Death Metal,"Leipzig, Germany",2023-07-10
+Eagles of Death Metal,"London, UK",2023-07-04T19:00:00+0100
+Eagles of Death Metal,"Hamburg, Germany",2023-07-13
+Eagles of Death Metal,"Berlin, Germany",2023-07-17
+Eagles of Death Metal,"Nuremberg, Germany",2023-07-18
+Eagles of Death Metal,"Hannover, Germany",2023-07-11
+Echosmith,"Kirtland, OH, US",2023-07-08
+Ed Sheeran,"Atlanta, GA, US",2023-05-27T18:00:00-0400
+Ed Sheeran,"Adelaide, SA, Australia",2023-03-07
+Ed Sheeran,"Tampa, FL, US",2023-05-20T18:00:00-0400
+Ed Sheeran,"Burswood, WA, Australia",2023-03-12
+Ed Sheeran,"Philadelphia, PA, US",2023-06-03T18:00:00-0400
+Ed Sheeran,"London, UK",2023-03-24T18:30:00+0000
+Ed Sheeran,"East Rutherford, NJ, US",2023-06-10T18:00:00-0400
+Ed Sheeran,"East Rutherford, NJ, US",2023-06-11T18:00:00-0400
+Ed Sheeran,"Toronto, ON, Canada",2023-06-17T18:00:00-0400
+Ed Sheeran,"Toronto, ON, Canada",2023-06-18T18:00:00-0400
+Ed Sheeran,"Landover, MD, US",2023-06-24T18:00:00-0400
+Ed Sheeran,"Foxborough, MA, US",2023-06-30T18:00:00-0400
+Ed Sheeran,"Foxborough, MA, US",2023-07-01T18:00:00-0400
+Ed Sheeran,"Manchester, UK",2023-03-23T19:30:00+0000
+Ed Sheeran,"Detroit, MI, US",2023-07-15T18:00:00-0400
+Ed Sheeran,"Nashville, TN, US",2023-07-22T18:00:00-0500
+Ed Sheeran,"Chicago, IL, US",2023-07-29T18:00:00-0500
+Ed Sheeran,"Kansas City, MO, US",2023-08-05T18:00:00-0500
+Ed Sheeran,"Minneapolis, MN, US",2023-08-12T18:00:00-0500
+Ed Sheeran,"Pittsburgh, PA, US",2023-07-08T18:00:00-0400
+Ed Sheeran,"Seattle, WA, US",2023-08-26T18:00:00-0700
+Ed Sheeran,"Vancouver, BC, Canada",2023-09-02T18:00:00-0700
+Ed Sheeran,"Las Vegas, NV, US",2023-09-09T18:00:00-0700
+Ed Sheeran,"Santa Clara, CA, US",2023-09-16T18:00:00-0700
+Ed Sheeran,"Inglewood, CA, US",2023-09-23T18:00:00-0700
+Ed Sheeran,"Houston, TX, US",2023-05-13T18:00:00-0500
+Ed Sheeran,"Arlington, TX, US",2023-05-06T18:00:00-0500
+Ed Sheeran,"Paris, France",2023-04-02T19:00:00+0200
+Ed Sheeran,"Dublin, Ireland",2023-03-30T18:00:00+0100
+Ed Sheeran,"Glasgow, UK",2023-03-28T18:00:00+0100
+Ed Sheeran,"Denver, CO, US",2023-08-19T18:00:00-0600
+Ed Sheeran,"London, UK",2023-03-25T19:00:00+0000
+Fall Out Boy,"Birmingham, UK",2023-10-31T18:00:00+0000
+Fall Out Boy,"London, UK",2023-11-02T18:30:00+0000
+Fall Out Boy,"London, UK",2023-11-03T18:30:00+0000
+Fall Out Boy,"Cardiff, UK",2023-11-04T18:30:00+0000
+Fall Out Boy,"Berlin, Germany",2023-11-08T19:00:00+0100
+Fall Out Boy,"Oberhausen, Germany",2023-11-06T19:00:00+0100
+Fall Out Boy,"Hamburg, Germany",2023-11-07T20:00:00+0100
+Fall Out Boy,"Hamburg, Germany",2023-11-07T19:00:00+0100
+Fall Out Boy,"Berlin, Germany",2023-11-08T20:00:00+0100
+Fall Out Boy,"Manchester, UK",2023-10-29T19:30:00+0000
+Fall Out Boy,"Oberhausen, Germany",2023-11-06T20:00:00+0100
+Fall Out Boy,"Glasgow, UK",2023-10-28T18:30:00+0100
+Fall Out Boy,"Paris, France",2023-10-23T19:30:00+0200
+Fall Out Boy,"Brussels, Belgium",2023-10-25T19:00:00+0200
+Fall Out Boy,"Noblesville, IN, US",2023-07-16T18:30:00-0400
+Fall Out Boy,"Cincinnati, OH, US",2023-07-15T18:30:00-0400
+Fall Out Boy,"Somerset, WI, US",2023-07-13T18:30:00-0500
+Fall Out Boy,"Rogers, AR, US",2023-07-11T18:30:00-0500
+Fall Out Boy,"Greenwood Village, CO, US",2023-07-09T18:30:00-0600
+Fall Out Boy,"West Valley City, UT, US",2023-07-07T18:30:00-0600
+Fall Out Boy,"Leeds, UK",2023-10-27T18:00:00+0100
+Fall Out Boy,"Los Angeles (LA), CA, US",2023-07-03T18:15:00-0700
+Fall Out Boy,"Cuyahoga Falls, OH, US",2023-07-18T18:30:00-0400
+Fall Out Boy,"Los Angeles (LA), CA, US",2023-07-02T18:15:00-0700
+Fall Out Boy,"Phoenix, AZ, US",2023-06-30T18:30:00-0700
+Fall Out Boy,"Dallas, TX, US",2023-06-28T18:30:00-0500
+Fall Out Boy,"The Woodlands, TX, US",2023-06-27T18:30:00-0500
+Fall Out Boy,"Bonner Springs, KS, US",2023-06-24T18:30:00-0500
+Fall Out Boy,"Maryland Heights, MO, US",2023-06-23T18:30:00-0500
+Fall Out Boy,"Chicago, IL, US",2023-06-21T18:15:00-0500
+Fall Out Boy,"London, UK",2023-03-16T18:00:00+0000
+Fall Out Boy,"Manchester, UK",2023-03-15T19:00:00+0000
+Fall Out Boy,"Chula Vista, CA, US",2023-07-01T19:00:00-0700
+Fall Out Boy,"Bristow, VA, US",2023-07-19T18:30:00-0400
+Fall Out Boy,"Mountain View, CA, US",2023-07-05T18:30:00-0700
+Fall Out Boy,"Virginia Beach, VA, US",2023-07-22T18:30:00-0400
+Fall Out Boy,"Rouen, France",2023-10-23T19:00:00+0200
+Fall Out Boy,"Amsterdam, Netherlands",2023-10-24T20:00:00+0200
+Fall Out Boy,"Prague, Czech Republic",2023-10-18T19:00:00+0200
+Fall Out Boy,"Charlotte, NC, US",2023-07-21T18:30:00-0400
+Fall Out Boy,"Warsaw, Poland",2023-10-17T19:00:00+0200
+Fall Out Boy,"Munich, Germany",2023-10-21T20:00:00+0200
+Fall Out Boy,"Camden, NJ, US",2023-08-06T18:30:00-0400
+Fall Out Boy,"Holmdel, NJ, US",2023-08-05T18:30:00-0400
+Fall Out Boy,"Tokyo, Japan",2023-08-19
+Fall Out Boy,"Darien Center, NY, US",2023-08-04T18:30:00-0400
+Fall Out Boy,"Boston, MA, US",2023-08-02T17:45:00-0400
+Fall Out Boy,"Queens, NY, US",2023-08-01T19:00:00-0400
+Fall Out Boy,"Toronto, ON, Canada",2023-07-30T18:30:00-0400
+Fall Out Boy,"Clarkston, MI, US",2023-07-29T18:30:00-0400
+Fall Out Boy,"Atlanta, GA, US",2023-07-26T18:30:00-0400
+Fall Out Boy,"Tampa, FL, US",2023-07-25T18:30:00-0400
+Fall Out Boy,"West Palm Beach, FL, US",2023-07-24T18:30:00-0400
+Fall Out Boy,"Darien Center, NY, US",2023-08-04
+Fall Out Boy,"Assago, Italy",2023-10-20T19:00:00+0200
+Foo Fighters,"Nuremberg, Germany",2023-06-02
+Foo Fighters,"Nürburg, Germany",2023-06-02
+Foo Fighters,"Boston, MA, US",2023-05-26
+Foo Fighters,"Columbus, OH, US",2023-05-25
+Foo Fighters,"Gilford, NH, US",2023-05-24T19:30:00-0400
+Foo Fighters,"River Falls, WI, US",2023-07-13
+Foo Fighters,"Snowmass Village, CO, US",2023-09-03T13:00:00-0600
+Foo Fighters,"São Paulo, Brazil",2023-09-02
+Foo Fighters,"Aspen, CO, US",2023-09-01
+Foo Fighters,"Snowmass Village, CO, US",2023-09-01T16:00:00-0600
+Foo Fighters,"Niigata, Japan",2023-07-28
+Foo Fighters,"Ottawa, ON, Canada",2023-07-06
+Foo Fighters,"Pelham, AL, US",2023-06-16T19:30:00-0500
+Foo Fighters,"Manchester, TN, US",2023-06-15
+Foo Fighters,"Rogers, AR, US",2023-06-14T19:30:00-0500
+Foo Fighters,"Asbury Park, NJ, US",2023-09-16T12:00:00-0400
+Good Charlotte,"Las Vegas, NV, US",2023-10-21T11:00:00-0700
+Haken,"Manchester, UK",2023-07-28T12:00:00+0100
+Haken,"Fort Lauderdale, FL, US",2023-05-15T19:00:00-0400
+Haken,"Chicago, IL, US",2023-06-03T19:30:00-0500
+Haken,"Atlanta, GA, US",2023-05-17T19:00:00-0400
+Haken,"Charlotte, NC, US",2023-05-13T20:00:00-0400
+Haken,"New York (NYC), NY, US",2023-05-11T19:30:00-0400
+Haken,"Québec, QC, Canada",2023-05-07
+Haken,"Montreal, QC, Canada",2023-05-06T20:00:00-0400
+Haken,"Toronto, ON, Canada",2023-05-05T19:00:00-0400
+Haken,"Sibiu, Romania",2023-07-28
+Haken,"Stockholm, Sweden",2023-03-31
+Haken,"Copenhagen, Denmark",2023-03-30
+Haken,"Oslo, Norway",2023-03-29T19:00:00+0200
+Haken,"London, UK",2023-03-26T19:00:00+0100
+Haken,"Glasgow, UK",2023-03-25T19:00:00+0000
+Haken,"Manchester, UK",2023-03-24T19:00:00+0000
+Haken,"Bristol, UK",2023-03-23T19:00:00+0000
+Haken,"Tilburg, Netherlands",2023-03-22T18:30:00+0100
+Haken,"Antwerp, Belgium",2023-03-21T19:30:00+0100
+Haken,"Cologne, Germany",2023-03-20T20:00:00+0100
+Haken,"Esch Sur Alzette, Luxembourg",2023-03-19T18:30:00+0100
+Haken,"Paris, France",2023-03-17T20:00:00+0100
+Haken,"Nantes, France",2023-03-16T20:00:00+0100
+Haken,"Toulouse, France",2023-03-15T20:00:00+0100
+Haken,"L'Hospitalet de Llobregat, Spain",2023-03-08
+Haken,"Villeurbanne, France",2023-03-07T20:00:00+0100
+Haken,"Dallas, TX, US",2023-05-19T20:00:00-0500
+Haken,"El Paso, TX, US",2023-05-21T20:00:00-0500
+Haken,"Gothenburg, Sweden",2023-04-05
+Haken,"Minneapolis, MN, US",2023-06-02T20:30:00-0500
+Haken,"Mesa, AZ, US",2023-05-22T20:00:00-0700
+Haken,"Lawrence, KS, US",2023-06-01T20:00:00-0500
+Haken,"Englewood, CO, US",2023-05-31T20:00:00-0600
+Haken,"South Salt Lake, UT, US",2023-05-30T19:00:00-0600
+Haken,"Seattle, WA, US",2023-05-27T20:30:00-0700
+Haken,"Portland, OR, US",2023-05-26T20:00:00-0700
+Haken,"San Francisco, CA, US",2023-05-25T20:00:00-0700
+Haken,"Los Angeles (LA), CA, US",2023-05-24T19:00:00-0700
+Hans Zimmer,"Zürich, Switzerland",2023-05-22
+Hans Zimmer,"Berlin, Germany",2023-05-26T20:00:00+0200
+Hans Zimmer,"Munich, Germany",2023-05-24
+Hans Zimmer,"Zürich, Switzerland",2023-05-23
+Hans Zimmer,"Amsterdam, Netherlands",2023-06-10T20:00:00+0200
+Hans Zimmer,"Amsterdam, Netherlands",2023-06-11T20:00:00+0200
+Hans Zimmer,"Rotterdam, Netherlands",2023-06-12T20:00:00+0200
+Hans Zimmer,"London, UK",2023-06-14T18:00:00+0100
+Hans Zimmer,"London, UK",2023-06-15T18:00:00+0100
+Hans Zimmer,"Manchester, UK",2023-06-16T19:00:00+0100
+Hans Zimmer,"Dublin, Ireland",2023-06-18T20:00:00+0100
+Hans Zimmer,"Paris, France",2023-06-23T20:00:00+0200
+Hans Zimmer,"Paris, France",2023-06-24T20:00:00+0200
+Hans Zimmer,"Skive, Denmark",2023-03-05T19:00:00+0100
+Hans Zimmer,"Oberhausen, Germany",2023-04-23T20:00:00+0200
+Hans Zimmer,"Frankfurt, Germany",2023-04-27
+Hans Zimmer,"Stuttgart, Germany",2023-04-29
+Hans Zimmer,"Nice, France",2023-05-06T20:00:00+0200
+Hans Zimmer,"Floirac, France",2023-05-09T20:00:00+0200
+Hans Zimmer,"Berlin, Germany",2023-05-27T20:00:00+0200
+Hans Zimmer,"Hamburg, Germany",2023-05-28
+Hans Zimmer,"Hannover, Germany",2023-05-20
+Hans Zimmer,"Prague, Czech Republic",2023-06-02T20:00:00+0200
+Hans Zimmer,"Vienna, Austria",2023-06-03
+Hans Zimmer,"Cologne, Germany",2023-06-09
+Hans Zimmer,"Madrid, Spain",2023-05-16
+Hans Zimmer,"Krakow, Poland",2023-05-30
+Hiatus Kaiyote,"Minneapolis, MN, US",2023-04-25T19:00:00-0500
+Hiatus Kaiyote,"Indio, CA, US",2023-04-21
+Hiatus Kaiyote,"Oakland, CA, US",2023-04-20T20:00:00-0700
+Hiatus Kaiyote,"Los Angeles (LA), CA, US",2023-04-18T19:00:00-0700
+Hiatus Kaiyote,"Indio, CA, US",2023-04-14
+Hiatus Kaiyote,"Chicago, IL, US",2023-04-27T20:00:00-0500
+Hiatus Kaiyote,"Silver Spring, MD, US",2023-05-02T20:00:00-0400
+Hiatus Kaiyote,"Brooklyn, NY, US",2023-04-30T20:00:00-0400
+Hiatus Kaiyote,"Brooklyn, NY, US",2023-04-29T20:00:00-0400
+Hollywood Undead,"Hradec Králové, Czech Republic",2023-06-08
+Hollywood Undead,"Interlaken, Switzerland",2023-06-08
+Hollywood Undead,"Nuremberg, Germany",2023-06-02
+Hollywood Undead,"Münster, Germany",2023-06-24
+Hollywood Undead,"Nürburg, Germany",2023-06-02
+Hollywood Undead,"Ysselsteyn, Netherlands",2023-06-22
+Hollywood Undead,"Dessel, Belgium",2023-06-15T19:00:00+0200
+Hollywood Undead,"Clisson, France",2023-06-15
+Hollywood Undead,"Everett, WA, US",2023-03-05T18:00:00-0800
+Infected Mushroom,"Anuradhapura, Sri Lanka",2024-02-12
+Infected Mushroom,"Chicago, IL, US",2023-03-24T21:00:00-0500
+Infected Mushroom,"Toronto, ON, Canada",2023-03-25T22:00:00-0400
+Infected Mushroom,"Edmonton, AB, Canada",2023-03-31T21:00:00-0600
+Infected Mushroom,"Boston, MA, US",2023-04-15T19:00:00-0400
+Jacob Collier,"New York (NYC), NY, US",2023-03-28T19:30:00-0400
+Jacob Collier,"Cleveland, OH, US",2023-06-15T18:00:00-0400
+Jacob Collier,"Pittsburgh, PA, US",2023-06-12T19:00:00-0400
+Jacob Collier,"Bristol, UK",2023-06-22T18:30:00+0100
+Jacob Collier,"Munich, Germany",2023-06-27
+Jacob Collier,"Rotselaar, Belgium",2023-06-29
+Jacob Collier,"Hamburg, Germany",2023-07-03
+Jacob Collier,"Algés, Portugal",2023-07-06
+Jacob Collier,"Vienna, Austria",2023-07-19
+Jacob Collier,"Ostrava, Czech Republic",2023-07-19
+Jacob Collier,"San Francisco, CA, US",2023-06-10
+Jacob Collier,"Madrid, Spain",2023-07-06
+James Ehnes,"London, ON, Canada",2023-05-20T19:00:00-0400
+Joey Alexander,"Seattle, WA, US",2023-03-10T21:30:00-0800
+Joey Alexander,"Seattle, WA, US",2023-03-09T19:30:00-0800
+Joey Alexander,"Seattle, WA, US",2023-03-11T19:30:00-0800
+Joey Alexander,"Seattle, WA, US",2023-03-12T19:30:00-0700
+Joey Alexander,"Seattle, WA, US",2023-03-10T19:30:00-0800
+Joey Alexander,"Princeton, NJ, US",2023-06-10T20:00:00-0400
+Joey Alexander,"Seoul, Korea, Republic Of",2023-05-26
+Joey Alexander,"Mesa, AZ, US",2023-05-20T19:30:00-0700
+Joey Alexander,"Irvine, CA, US",2023-05-19T20:00:00-0700
+Joey Alexander,"Calgary, AB, Canada",2023-04-28T19:30:00-0600
+Joey Alexander,"Minneapolis, MN, US",2023-04-27T19:00:00-0500
+Joey Alexander,"Minneapolis, MN, US",2023-04-27T21:00:00-0500
+Joey Alexander,"New York (NYC), NY, US",2023-04-15T20:30:00-0400
+Joey Alexander,"New York (NYC), NY, US",2023-04-14T20:30:00-0400
+Joey Alexander,"Seattle, WA, US",2023-03-11T21:30:00-0800
+Joey Alexander,"New York (NYC), NY, US",2023-04-12T19:00:00-0400
+Joey Alexander,"New York (NYC), NY, US",2023-04-11T19:00:00-0400
+Joey Alexander,"Kennett Square, PA, US",2023-03-24T20:00:00-0400
+Joey Alexander,"New York (NYC), NY, US",2023-04-13T19:00:00-0400
+Korn,"Chiba, Japan",2023-04-01
+Korn,"Las Vegas, NV, US",2023-05-13T12:00:00-0700
+Korn,"Monterrey, Mexico",2023-06-24
+LCD Soundsystem,"Columbia, MD, US",2023-06-16T16:00:00-0400
+LCD Soundsystem,"Pasadena, CA, US",2023-06-02T16:00:00-0700
+LCD Soundsystem,"Palo Alto, CA, US",2023-06-02T15:00:00-0700
+LCD Soundsystem,"Boston, MA, US",2023-06-16T15:00:00-0400
+LCD Soundsystem,"San Diego, CA, US",2023-06-03T16:00:00-0700
+LCD Soundsystem,"Pasadena, CA, US",2023-06-04T15:00:00-0700
+LCD Soundsystem,"Atlanta, GA, US",2023-06-09T15:00:00-0400
+LCD Soundsystem,"Grand Prairie, TX, US",2023-06-09T16:00:00-0500
+LCD Soundsystem,"San Diego, CA, US",2023-06-02T16:00:00-0700
+LCD Soundsystem,"Atlanta, GA, US",2023-06-10T16:00:00-0400
+LCD Soundsystem,"New Orleans, LA, US",2023-06-09T17:00:00-0500
+LCD Soundsystem,"Columbia, MD, US",2023-06-18T16:00:00-0400
+LCD Soundsystem,"Chicago, IL, US",2023-06-23T15:00:00-0500
+LCD Soundsystem,"Nashville, TN, US",2023-06-23T15:00:00-0500
+LCD Soundsystem,"Boston, MA, US",2023-06-17T15:00:00-0400
+LCD Soundsystem,"Columbus, OH, US",2023-06-24T16:00:00-0400
+LCD Soundsystem,"Chicago, IL, US",2023-06-25T15:00:00-0500
+LCD Soundsystem,"Queens, NY, US",2023-06-16T16:00:00-0400
+LCD Soundsystem,"Grand Prairie, TX, US",2023-06-11T16:00:00-0500
+LCD Soundsystem,"Columbus, OH, US",2023-06-23T16:00:00-0400
+Lil Nas X,"San Isidro, Argentina",2023-03-17
+Lil Nas X,"Santiago, Chile",2023-03-17
+Lil Nas X,"Bogota, Colombia",2023-03-23
+Lil Nas X,"São Paulo, Brazil",2023-03-24
+Lil Nas X,"Gulf Shores, AL, US",2023-05-19T10:00:00-0500
+Lil Nas X,"Napa, CA, US",2023-05-26
+Lil Nas X,"Corona, NY, US",2023-06-09
+Lil Nas X,"Gdynia, Poland",2023-06-28
+Lil Nas X,"Bucharest, Romania",2023-06-23
+Lil Nas X,"Stockholm, Sweden",2023-06-29
+Lil Nas X,"Rotselaar, Belgium",2023-06-29
+Lil Nas X,"Tønsberg, Norway",2023-07-12
+Lil Nas X,"Tønsberg, Norway",2023-07-12
+Lil Nas X,"Bern, Switzerland",2023-07-12
+Lil Nas X,"Paris, France",2023-07-21
+Lil Nas X,"Manchester, TN, US",2023-06-15
+Lil Nas X,"Madrid, Spain",2023-07-06
+Lindsey Stirling,"Cologne, Germany",2023-07-28
+Lindsey Stirling,"Columbus, OH, US",2023-08-05T19:00:00-0400
+Louis Cole,"Erfurt, Germany",2023-05-22
+Louis Cole,"Manchester, UK",2023-05-17T19:30:00+0100
+Louis Cole,"Bristol, UK",2023-05-18T19:00:00+0100
+Louis Cole,"London, UK",2023-05-19T19:00:00+0100
+Louis Cole,"Mannheim, Germany",2023-05-21
+Louis Cole,"Dublin, Ireland",2023-05-15
+Louis Cole,"Paris, France",2023-05-23T19:00:00+0200
+Louis Cole,"Borgerhout, Belgium",2023-05-25
+Louis Cole,"Helsinki, Finland",2023-05-26
+Louis Cole,"Bergen, Norway",2023-05-27
+Louis Cole,"Stockholm, Sweden",2023-05-28T19:30:00+0200
+Louis Cole,"Wuppertal, Germany",2023-06-04T19:00:00+0200
+Louis Cole,"Utrecht, Netherlands",2023-06-06
+Louis Cole,"Amsterdam, Netherlands",2023-06-07T20:00:00+0200
+Louis Cole,"Boise, ID, US",2023-03-22
+Louis Cole,"Berlin, Germany",2023-05-08T15:00:00+0200
+Mac Ayres,"St Petersburg, FL, US",2023-04-18T19:00:00-0400
+Mac Ayres,"New Orleans, LA, US",2023-04-15T19:00:00-0500
+Mac Ayres,"Austin, TX, US",2023-04-14T20:00:00-0500
+Mac Ayres,"Fort Lauderdale, FL, US",2023-04-19T19:00:00-0400
+Mac Ayres,"Orlando, FL, US",2023-04-20T19:00:00-0400
+Mac Ayres,"Detroit, MI, US",2023-05-06T20:00:00-0400
+Mac Ayres,"Nashville, TN, US",2023-04-23T20:00:00-0500
+Mac Ayres,"Charlotte, NC, US",2023-04-25T20:00:00-0400
+Mac Ayres,"Philadelphia, PA, US",2023-04-27T20:00:00-0400
+Mac Ayres,"Boston, MA, US",2023-04-28T20:00:00-0400
+Mac Ayres,"Silver Spring, MD, US",2023-04-29T20:00:00-0400
+Mac Ayres,"Pittsburgh, PA, US",2023-05-02T19:00:00-0400
+Mac Ayres,"Atlanta, GA, US",2023-04-22T20:00:00-0400
+Mac Ayres,"Houston, TX, US",2023-04-12T19:00:00-0500
+Mac Ayres,"Pomona, CA, US",2023-03-31T19:00:00-0700
+Mac Ayres,"Kansas City, MO, US",2023-04-09T20:00:00-0500
+Mac Ayres,"Columbus, OH, US",2023-05-03T19:00:00-0400
+Mac Ayres,"Seattle, WA, US",2023-03-24T21:00:00-0700
+Mac Ayres,"Dallas, TX, US",2023-04-11T20:00:00-0500
+Mac Ayres,"Vancouver, BC, Canada",2023-03-26T20:00:00-0700
+Mac Ayres,"San Francisco, CA, US",2023-03-30T20:00:00-0700
+Mac Ayres,"Portland, OR, US",2023-03-25T20:00:00-0700
+Mac Ayres,"Los Angeles (LA), CA, US",2023-04-01T20:00:00-0700
+Mac Ayres,"San Diego, CA, US",2023-04-04T19:00:00-0700
+Mac Ayres,"Phoenix, AZ, US",2023-04-06T20:00:00-0700
+Mac Ayres,"Denver, CO, US",2023-04-08T21:00:00-0600
+Mac Ayres,"Chicago, IL, US",2023-05-05T21:00:00-0500
+Magnolia Park,"Atlanta, GA, US",2023-03-05
+Magnolia Park,"Lawrence, KS, US",2023-03-26T19:00:00-0500
+Magnolia Park,"Tampa, FL, US",2023-04-01T18:00:00-0400
+Magnolia Park,"Las Vegas, NV, US",2023-10-21T11:00:00-0700
+Marianas Trench,"Enoch, AB, Canada",2023-03-24T21:00:00-0600
+Marshmello,"Las Vegas, NV, US",2023-05-14T22:30:00-0700
+Marshmello,"Ottawa, ON, Canada",2023-06-23
+Marshmello,"Miami, FL, US",2023-03-24
+Marshmello,"Miami, FL, US",2023-03-25T08:00:00-0400
+Marshmello,"São Paulo, Brazil",2023-04-21
+Marshmello,"Bridgeview, IL, US",2023-09-01
+Marshmello,"Las Vegas, NV, US",2023-05-05T22:30:00-0700
+Marshmello,"London, UK",2023-04-22T17:00:00+0100
+Marshmello,"Las Vegas, NV, US",2023-05-21T12:00:00-0700
+Marshmello,"Las Vegas, NV, US",2023-05-25T12:00:00-0700
+Marshmello,"Las Vegas, NV, US",2023-05-28T22:30:00-0700
+Marshmello,"Frankfurt, Germany",2023-06-09
+Marshmello,"George, WA, US",2023-06-17
+Martin Garrix,"Avondale, AZ, US",2023-04-07T07:00:00-0700
+Martin Garrix,"Tel Aviv-Jaffa, Israel",2023-05-31
+Martin Garrix,"Bonn, Germany",2023-06-30
+Martin Garrix,"Miami, FL, US",2023-03-24
+Martin Garrix,"Santiago de Compostela, Spain",2023-07-08
+Martin Garrix,"Orange, France",2023-08-18T18:00:00+0200
+Martin Garrix,"Le Touquet, France",2023-08-25
+Martin Garrix,"Munich, Germany",2023-09-02
+Martin Garrix,"Amsterdam, Netherlands",2023-10-20
+Martin Garrix,"Espoo, Finland",2023-08-04
+Matchbox Twenty,"Virginia Beach, VA, US",2023-07-26T19:30:00-0400
+Matchbox Twenty,"Tinley Park, IL, US",2023-08-06T19:30:00-0500
+Matchbox Twenty,"Noblesville, IN, US",2023-08-05
+Matchbox Twenty,"Toledo, OH, US",2023-08-04
+Matchbox Twenty,"Toronto, ON, Canada",2023-08-02T19:30:00-0400
+Matchbox Twenty,"Darien Center, NY, US",2023-08-01T19:30:00-0400
+Matchbox Twenty,"Saratoga Springs, NY, US",2023-07-30T19:30:00-0400
+Matchbox Twenty,"Syracuse, NY, US",2023-07-29T19:30:00-0400
+Matchbox Twenty,"Bristow, VA, US",2023-07-27T19:30:00-0400
+Matchbox Twenty,"Mansfield, MA, US",2023-07-23T19:30:00-0400
+Matchbox Twenty,"Oklahoma City, OK, US",2023-06-21T19:30:00-0500
+Matchbox Twenty,"Gilford, NH, US",2023-07-21T19:30:00-0400
+Matchbox Twenty,"Jacksonville, FL, US",2023-07-05T19:30:00-0400
+Matchbox Twenty,"Nashville, TN, US",2023-07-03
+Matchbox Twenty,"Atlanta, GA, US",2023-07-02T19:30:00-0400
+Matchbox Twenty,"Vancouver, BC, Canada",2023-05-16T19:30:00-0700
+Matchbox Twenty,"Auburn, WA, US",2023-05-18T19:30:00-0700
+Matchbox Twenty,"Ridgefield, WA, US",2023-05-19T19:30:00-0700
+Matchbox Twenty,"Hollywood, CA, US",2023-05-22T19:30:00-0700
+Matchbox Twenty,"Fresno, CA, US",2023-05-24T19:30:00-0700
+Matchbox Twenty,"Bakersfield, CA, US",2023-05-25T19:30:00-0700
+Matchbox Twenty,"Irvine, CA, US",2023-05-28
+Matchbox Twenty,"San Diego, CA, US",2023-05-30T19:30:00-0700
+Matchbox Twenty,"Phoenix, AZ, US",2023-05-31T19:30:00-0700
+Matchbox Twenty,"Sparks, NV, US",2023-06-02T20:00:00-0700
+Matchbox Twenty,"Uncasville, CT, US",2023-07-22T19:30:00-0400
+Matchbox Twenty,"West Valley City, UT, US",2023-06-03T19:30:00-0600
+Matchbox Twenty,"Boise, ID, US",2023-06-04T19:30:00-0600
+Matchbox Twenty,"Denver, CO, US",2023-06-06T19:30:00-0600
+Matchbox Twenty,"Omaha, NE, US",2023-06-08T19:30:00-0500
+Matchbox Twenty,"Sioux Falls, SD, US",2023-06-09T19:30:00-0500
+Matchbox Twenty,"Welch, MN, US",2023-06-10T19:00:00-0500
+Matchbox Twenty,"Cuyahoga Falls, OH, US",2023-06-13T19:30:00-0400
+Matchbox Twenty,"Clarkston, MI, US",2023-06-14T19:30:00-0400
+Matchbox Twenty,"Cincinnati, OH, US",2023-06-16T19:30:00-0400
+Matchbox Twenty,"Moline, IL, US",2023-06-17T19:30:00-0500
+Matchbox Twenty,"Kansas City, MO, US",2023-06-18
+Matchbox Twenty,"Maryland Heights, MO, US",2023-06-20T19:30:00-0500
+Matchbox Twenty,"Rogers, AR, US",2023-06-23T19:30:00-0500
+Matchbox Twenty,"Nashville, TN, US",2023-06-25T19:30:00-0500
+Matchbox Twenty,"Pelham, AL, US",2023-06-27T19:30:00-0500
+Matchbox Twenty,"Dallas, TX, US",2023-06-29T19:30:00-0500
+Matchbox Twenty,"West Palm Beach, FL, US",2023-07-07T19:30:00-0400
+Matchbox Twenty,"The Woodlands, TX, US",2023-06-30T19:30:00-0500
+Matchbox Twenty,"Holmdel, NJ, US",2023-07-15T19:30:00-0400
+Matchbox Twenty,"Bethlehem, PA, US",2023-07-19T19:30:00-0400
+Matchbox Twenty,"Wantagh, NY, US",2023-07-18T19:30:00-0400
+Matchbox Twenty,"Camden, NJ, US",2023-07-16T19:30:00-0400
+Matchbox Twenty,"Raleigh, NC, US",2023-07-12T19:30:00-0400
+Matchbox Twenty,"Charlotte, NC, US",2023-07-11T19:30:00-0400
+Matchbox Twenty,"Tampa, FL, US",2023-07-08T19:30:00-0400
+Matchbox Twenty,"Burgettstown, PA, US",2023-07-14T19:30:00-0400
+Maurizio Pollini,"London, UK",2023-03-17
+Maxo,"Los Angeles (LA), CA, US",2023-04-05T20:00:00-0700
+Meshuggah,"Viveiro, Spain",2023-06-28
+Meshuggah,"Clisson, France",2023-06-15
+Meshuggah,"Villeurbanne, France",2023-06-27T20:00:00+0200
+Meshuggah,"Gräfenhainichen, Germany",2023-06-23
+Meshuggah,"Ysselsteyn, Netherlands",2023-06-22
+Meshuggah,"Cenon, France",2023-06-19T20:00:00+0200
+Meshuggah,"Dessel, Belgium",2023-06-15T19:00:00+0200
+Meshuggah,"Lisbon, Portugal",2023-06-28
+Meshuggah,"Villeurbanne, France",2023-06-27T20:00:00+0200
+Meshuggah,"Segrate, Italy",2023-06-03
+Meshuggah,"Gdansk, Poland",2023-06-07
+Meshuggah,"Nuremberg, Germany",2023-06-02
+Meshuggah,"Nürburg, Germany",2023-06-02
+Meshuggah,"Gothenburg, Sweden",2023-04-22
+Meshuggah,"Linköping, Sweden",2023-04-21
+Meshuggah,"Oslo, Norway",2023-04-20T19:00:00+0200
+Meshuggah,"Helsinki, Finland",2023-04-15T18:00:00+0300
+Meshuggah,"Stockholm, Sweden",2023-04-08
+Meshuggah,"Umeå, Sweden",2023-04-07
+Meshuggah,"Örebro, Sweden",2023-04-01
+Meshuggah,"Lund, Sweden",2023-03-31
+Meshuggah,"Oberhausen, Germany",2023-06-12
+Meshuggah,"Flensburg, Germany",2023-06-13
+Miguel Migs,"Denver, CO, US",2023-03-10T23:00:00-0700
+Miguel Migs,"Orlando, FL, US",2023-06-02T21:00:00-0400
+Monuments,"Stockholm, Sweden",2023-03-17
+Monuments,"Budapest, Hungary",2023-03-05T19:00:00+0100
+Monuments,"Munich, Germany",2023-03-06
+Monuments,"Bratislava, Slovakia",2023-03-07
+Monuments,"Prague, Czech Republic",2023-03-08T18:00:00+0100
+Monuments,"Reutlingen, Germany",2023-03-09
+Monuments,"Berlin, Germany",2023-03-10
+Monuments,"Wrocław, Poland",2023-03-11
+Monuments,"Helsinki, Finland",2023-03-13
+Monuments,"Joensuu, Finland",2023-03-14
+Monuments,"Tampere, Finland",2023-03-15
+Monuments,"Castle Donington, UK",2023-06-08T10:00:00+0100
+Moonchild,"Minneapolis, MN, US",2023-04-04T19:30:00-0500
+Moonchild,"Asheville, NC, US",2023-04-23T20:00:00-0400
+Moonchild,"Charlottesville, VA, US",2023-04-22T20:30:00-0400
+Moonchild,"Milwaukee, WI, US",2023-04-07T20:00:00-0500
+Moonchild,"Indianapolis, IN, US",2023-04-08T19:00:00-0400
+Moonchild,"Columbus, OH, US",2023-04-09T19:00:00-0400
+Moonchild,"Louisville, KY, US",2023-04-11T20:00:00-0500
+Moonchild,"Little Rock, AR, US",2023-04-13T20:00:00-0500
+Moonchild,"Jackson, MS, US",2023-04-14T20:00:00-0500
+Moonchild,"Baton Rouge, LA, US",2023-04-15T21:00:00-0500
+Moonchild,"New Orleans, LA, US",2023-04-16T19:00:00-0500
+Moonchild,"Jacksonville, FL, US",2023-04-18T19:00:00-0400
+Moonchild,"Savannah, GA, US",2023-04-19T20:00:00-0400
+Moonchild,"Richmond, VA, US",2023-04-20T19:00:00-0400
+Moonchild,"Madison, WI, US",2023-04-05T20:00:00-0500
+Mosca,"Sheffield, UK",2023-04-22
+Mother Mother,"Guadalajara, Mexico",2023-05-20
+Muse,"Kuala Lumpur, Malaysia",2023-07-29T09:00:00+0800
+Muse,"Neuhausen Ob Eck, Germany",2023-06-16
+Muse,"Rome, Italy",2023-07-18T21:00:00+0200
+Muse,"Plymouth, UK",2023-05-27T17:00:00+0100
+Muse,"Milan, Italy",2023-07-22T21:00:00+0200
+Muse,"Salt Lake City, UT, US",2023-04-20T18:30:00-0600
+Muse,"Seattle, WA, US",2023-04-18T18:30:00-0700
+Muse,"Portland, OR, US",2023-04-16T18:30:00-0700
+Muse,"Oakland, CA, US",2023-04-14T18:30:00-0700
+Muse,"Anaheim, CA, US",2023-04-12T18:30:00-0700
+Muse,"San Diego, CA, US",2023-04-10T18:30:00-0700
+Muse,"Las Vegas, NV, US",2023-04-08T18:30:00-0700
+Muse,"Los Angeles (LA), CA, US",2023-04-06T18:30:00-0700
+Muse,"Denver, CO, US",2023-04-04T18:30:00-0600
+Muse,"Glendale, AZ, US",2023-04-02T18:30:00-0700
+Muse,"Philadelphia, PA, US",2023-03-19T18:30:00-0400
+Muse,"New York (NYC), NY, US",2023-03-17T18:30:00-0400
+Muse,"Montreal, QC, Canada",2023-03-15T18:30:00-0400
+Muse,"Montreal, QC, Canada",2023-03-14T18:30:00-0400
+Muse,"Québec, QC, Canada",2023-03-12T18:30:00-0400
+Muse,"Québec, QC, Canada",2023-03-11T18:30:00-0500
+Muse,"Toronto, ON, Canada",2023-03-09T18:30:00-0500
+Muse,"Columbus, OH, US",2023-03-07T19:00:00-0500
+Muse,"St Louis, MO, US",2023-03-05T18:30:00-0600
+Muse,"Aarhus, Denmark",2023-06-01
+Muse,"Wiener Neustadt, Austria",2023-06-03
+Muse,"Atlanta, GA, US",2023-05-05T11:30:00-0400
+Muse,"Lyon, France",2023-06-15T06:30:00+0200
+Muse,"Maxeville, France",2023-07-06T19:30:00+0200
+Muse,"Santander, Spain",2023-07-04T18:00:00+0200
+Muse,"Rotselaar, Belgium",2023-06-29
+Muse,"Bordeaux, France",2023-06-29T06:30:00+0200
+Muse,"Milton Keynes, UK",2023-06-25T17:00:00+0100
+Muse,"Glasgow, UK",2023-06-23T16:00:00+0100
+Muse,"Huddersfield, UK",2023-06-20T17:00:00+0100
+Muse,"Scheessel, Germany",2023-06-16
+Muse,"Saint-Denis, France",2023-07-08T06:30:00+0200
+Muse,"Cologne, Germany",2023-06-09
+Muse,"Bern, Switzerland",2023-07-12
+Muse,"The Hague, Netherlands",2023-06-07T18:30:00+0200
+Muse,"Marseille, France",2023-07-15T06:30:00+0200
+Muse,"Hradec Králové, Czech Republic",2023-06-08
+OneRepublic,"Wellington, New Zealand",2023-03-18T19:30:00+1300
+OneRepublic,"Auckland, New Zealand",2023-03-16T18:30:00+1300
+OneRepublic,"Fort Lauderdale, FL, US",2023-05-11T20:00:00-0400
+OneRepublic,"Brisbane, QLD, Australia",2023-03-14T18:30:00+1000
+OneRepublic,"Sydney, NSW, Australia",2023-03-11T08:30:00+1100
+OneRepublic,"Melbourne, VIC, Australia",2023-03-10T08:00:00+1100
+OneRepublic,"Salem, Germany",2023-07-22T20:00:00+0200
+OneRepublic,"Rosenheim, Germany",2023-07-21T19:00:00+0200
+OneRepublic,"Ostrava, Czech Republic",2023-07-19
+OneRepublic,"Mexico City, Mexico",2023-05-13T14:00:00-0500
+OneRepublic,"London, UK",2023-06-14T18:00:00+0100
+OneRepublic,"Mantova, Italy",2023-07-14T21:30:00+0200
+OneRepublic,"Ulm, Germany",2023-06-24T19:30:00+0200
+OneRepublic,"Bonn, Germany",2023-07-04T19:00:00+0200
+OneRepublic,"Moosburg, Austria",2023-07-07
+OneRepublic,"Hamburg, Germany",2023-06-22T19:00:00+0200
+OneRepublic,"Mönchengladbach, Germany",2023-06-21T19:30:00+0200
+OneRepublic,"Rotselaar, Belgium",2023-06-17
+OneRepublic,"Klam, Austria",2023-07-08
+OneRepublic,"Newport, UK",2023-06-15T10:00:00+0100
+OneRepublic,"Landgraaf, Netherlands",2023-06-16T12:00:00+0200
+OneRepublic,"Nibe, Denmark",2023-06-28
+OneRepublic,"Naples, Italy",2023-07-12T21:00:00+0200
+OneRepublic,"Stockholm, Sweden",2023-06-29
+OneRepublic,"Rome, Italy",2023-07-11T21:00:00+0200
+OneRepublic,"Wiesbaden, Germany",2023-06-25T19:30:00+0200
+OneRepublic,"Gdynia, Poland",2023-06-28
+OneRepublic,"Lucca, Italy",2023-07-16T21:30:00+0200
+Panic! At the Disco,"Milwaukee, WI, US",2024-09-14T19:00:00-0500
+Panic! At the Disco,"Manchester, UK",2023-03-10T19:30:00+0000
+Panic! At the Disco,"London, UK",2023-03-07T18:30:00+0000
+Panic! At the Disco,"London, UK",2023-03-06T18:30:00+0000
+Paramore,"Denver, CO, US",2023-07-13T19:00:00-0600
+Paramore,"Tulsa, OK, US",2023-07-29T19:00:00-0500
+Paramore,"Atlantic City, NJ, US",2023-05-27T10:00:00-0400
+Paramore,"New York (NYC), NY, US",2023-05-30T19:00:00-0400
+Paramore,"New York (NYC), NY, US",2023-05-31T19:00:00-0400
+Paramore,"Cleveland, OH, US",2023-06-04T19:00:00-0400
+Paramore,"Indianapolis, IN, US",2023-06-05T19:00:00-0400
+Paramore,"Detroit, MI, US",2023-06-07T19:00:00-0400
+Paramore,"Toronto, ON, Canada",2023-06-08T19:00:00-0400
+Paramore,"Columbus, OH, US",2023-06-10T19:00:00-0400
+Paramore,"Pittsburgh, PA, US",2023-06-11T19:00:00-0400
+Paramore,"Orlando, FL, US",2023-06-13T19:00:00-0400
+Paramore,"Fort Lauderdale, FL, US",2023-06-14T19:00:00-0400
+Paramore,"New Orleans, LA, US",2023-07-06T19:00:00-0500
+Paramore,"Fort Worth, TX, US",2023-07-08T19:00:00-0500
+Paramore,"Austin, TX, US",2023-07-09T19:00:00-0500
+Paramore,"Houston, TX, US",2023-07-11T19:00:00-0500
+Paramore,"Atlantic City, NJ, US",2023-05-27T12:00:00-0400
+Paramore,"Boston, MA, US",2023-05-26
+Paramore,"Atlanta, GA, US",2023-05-25T19:00:00-0400
+Paramore,"Charlotte, NC, US",2023-05-23T19:00:00-0400
+Paramore,"Buenos Aires, Argentina",2023-03-07
+Paramore,"St Louis, MO, US",2023-07-30T19:00:00-0500
+Paramore,"Rio de Janeiro, Brazil",2023-03-09
+Paramore,"São Paulo, Brazil",2023-03-11
+Paramore,"São Paulo, Brazil",2023-03-12
+Paramore,"Bogota, Colombia",2023-03-14
+Paramore,"Glendale, AZ, US",2023-03-17T18:30:00-0700
+Paramore,"Palm Desert, CA, US",2023-07-15T19:00:00-0700
+Paramore,"Glendale, AZ, US",2023-03-18T18:30:00-0700
+Paramore,"Cardiff, UK",2023-04-15T18:30:00+0100
+Paramore,"Glasgow, UK",2023-04-17T18:30:00+0100
+Paramore,"Manchester, UK",2023-04-18T19:30:00+0100
+Paramore,"London, UK",2023-04-20T18:30:00+0100
+Paramore,"Birmingham, UK",2023-04-22T19:30:00+0100
+Paramore,"London, UK",2023-04-23T18:30:00+0100
+Paramore,"Gulf Shores, AL, US",2023-05-19T10:00:00-0500
+Paramore,"Dublin, Ireland",2023-04-13T18:30:00+0100
+Paramore,"San Diego, CA, US",2023-07-16T19:00:00-0700
+Paramore,"Washington, DC, US",2023-06-02T19:00:00-0400
+Paramore,"Inglewood, CA, US",2023-07-20T19:00:00-0700
+Paramore,"St. Paul, MN, US",2023-08-02T19:00:00-0500
+Paramore,"Salt Lake City, UT, US",2023-07-27T19:00:00-0600
+Paramore,"Santiago, Chile",2023-03-05
+Paramore,"Portland, OR, US",2023-07-25T19:00:00-0700
+Paramore,"Seattle, WA, US",2023-07-24T19:00:00-0700
+Paramore,"San Diego, CA, US",2023-07-23
+Paramore,"San Francisco, CA, US",2023-07-22T19:00:00-0700
+Paramore,"Inglewood, CA, US",2023-07-19T19:00:00-0700
+Paris Monster,"New York (NYC), NY, US",2023-04-04T19:00:00-0400
+Parov Stelar,"Stuttgart, Germany",2023-07-13
+Parov Stelar,"Stuttgart, Germany",2023-07-20
+Parov Stelar,"London, UK",2023-09-16T19:00:00+0100
+Parov Stelar,"Los Angeles (LA), CA, US",2023-03-12T20:00:00-0700
+Parov Stelar,"Denver, CO, US",2023-03-06T19:00:00-0700
+Parov Stelar,"Vancouver, BC, Canada",2023-03-09
+Parov Stelar,"Seattle, WA, US",2023-03-08T20:00:00-0800
+Parov Stelar,"Eisenstadt, Austria",2023-07-07
+Parov Stelar,"Oakland, CA, US",2023-03-11T20:00:00-0800
+Parov Stelar,"Barcelona, Spain",2023-07-05
+Parov Stelar,"Portland, OR, US",2023-03-10T20:30:00-0800
+Parov Stelar,"Brno, Czech Republic",2023-04-28
+Parov Stelar,"Istanbul, Turkey",2023-06-03T19:00:00+0300
+Periphery,"Milwaukee, WI, US",2023-03-11
+Periphery,"Milwaukee, WI, US",2023-03-11T19:00:00-0600
+Periphery,"Nashville, TN, US",2023-04-02T19:00:00-0500
+Periphery,"Little Rock, AR, US",2023-04-01T19:00:00-0500
+Periphery,"Oklahoma City, OK, US",2023-03-31
+Periphery,"San Diego, CA, US",2023-03-26T19:00:00-0700
+Periphery,"Las Vegas, NV, US",2023-03-25T18:00:00-0700
+Periphery,"Anaheim, CA, US",2023-03-24T18:00:00-0700
+Periphery,"Wheatland, CA, US",2023-03-23T19:00:00-0700
+Periphery,"Albuquerque, NM, US",2023-03-29T19:00:00-0600
+Periphery,"Denver, CO, US",2023-03-18T19:00:00-0600
+Periphery,"Wichita, KS, US",2023-03-17T19:00:00-0500
+Periphery,"Kansas City, MO, US",2023-03-15T19:00:00-0500
+Periphery,"St Louis, MO, US",2023-03-14T19:00:00-0500
+Periphery,"Grand Rapids, MI, US",2023-03-13T18:00:00-0400
+Periphery,"Huntington, NY, US",2023-03-05T19:00:00-0500
+Periphery,"Indianapolis, IN, US",2023-03-07T19:00:00-0500
+Periphery,"McKees Rocks, PA, US",2023-03-08T18:00:00-0500
+Periphery,"Portland, OR, US",2023-03-21T19:00:00-0700
+Periphery,"East Moline, IL, US",2023-03-10T19:00:00-0600
+Plini,"Chicago, IL, US",2023-05-09T19:00:00-0500
+Plini,"Manchester, UK",2023-04-05T19:30:00+0100
+Plini,"San Diego, CA, US",2023-04-28T19:00:00-0700
+Plini,"San Francisco, CA, US",2023-04-29T20:00:00-0700
+Plini,"Portland, OR, US",2023-05-01T19:00:00-0700
+Plini,"Englewood, CO, US",2023-05-06T20:00:00-0600
+Plini,"Seattle, WA, US",2023-05-03T19:00:00-0700
+Plini,"Salt Lake City, UT, US",2023-05-05T19:00:00-0600
+Plini,"Minneapolis, MN, US",2023-05-08T20:00:00-0500
+Plini,"Vancouver, BC, Canada",2023-05-02
+Plini,"Glasgow, UK",2023-04-04T19:00:00+0100
+Plini,"Berlin, Germany",2023-03-09T20:00:00+0100
+Plini,"London, UK",2023-04-01T18:00:00+0100
+Plini,"Paris, France",2023-03-31T19:30:00+0200
+Plini,"Nantes, France",2023-03-30T20:30:00+0200
+Plini,"Villeurbanne, France",2023-03-29T19:00:00+0200
+Plini,"Aarau, Switzerland",2023-03-19T19:00:00+0100
+Plini,"Munich, Germany",2023-03-16T20:00:00+0100
+Plini,"Vienna, Austria",2023-03-14
+Plini,"Prague, Czech Republic",2023-03-10T19:00:00+0100
+Plini,"Hamburg, Germany",2023-03-08T20:00:00+0100
+Plini,"Esch Sur Alzette, Luxembourg",2023-03-06T19:30:00+0100
+Plini,"Detroit, MI, US",2023-05-10T18:00:00-0400
+Plini,"Bristol, UK",2023-04-02T19:00:00+0100
+Plini,"Toronto, ON, Canada",2023-05-11T18:00:00-0400
+Plini,"Cologne, Germany",2023-03-07T20:00:00+0100
+Plini,"Austin, TX, US",2023-05-24T18:30:00-0500
+Plini,"Boston, MA, US",2023-05-13T18:00:00-0400
+Plini,"New York (NYC), NY, US",2023-05-14T18:00:00-0400
+Plini,"New York (NYC), NY, US",2023-05-15T18:30:00-0400
+Plini,"Pittsburgh, PA, US",2023-05-16T19:00:00-0400
+Plini,"Washington, DC, US",2023-05-17T19:00:00-0400
+Plini,"Charlotte, NC, US",2023-05-19T19:00:00-0400
+Plini,"Orlando, FL, US",2023-05-20T18:00:00-0400
+Plini,"Atlanta, GA, US",2023-05-21T18:00:00-0400
+Plini,"Dallas, TX, US",2023-05-23T18:30:00-0500
+Plini,"Phoenix, AZ, US",2023-05-26T19:00:00-0700
+Plini,"Los Angeles (LA), CA, US",2023-05-27T18:00:00-0700
+Polyphia,"Berlin, Germany",2023-05-18
+Polyphia,"Cologne, Germany",2023-05-21
+Polyphia,"Munich, Germany",2023-05-22
+Polyphia,"Paris, France",2023-05-27T19:00:00+0200
+Polyphia,"Paris, France",2023-05-26T19:00:00+0200
+Polyphia,"London, UK",2023-05-31T19:00:00+0100
+Polyphia,"Hamburg, Germany",2023-05-17
+Polyphia,"Zürich, Switzerland",2023-05-23T19:00:00+0200
+Polyphia,"Antwerp, Belgium",2023-05-15T19:30:00+0200
+Polyphia,"Leipzig, Germany",2023-05-20
+Polyphia,"Birmingham, UK",2023-05-12T19:00:00+0100
+Polyphia,"Orlando, FL, US",2023-03-29T20:00:00-0400
+Polyphia,"Columbia, SC, US",2023-03-30T20:00:00-0400
+Polyphia,"Norfolk, VA, US",2023-03-31T20:00:00-0400
+Polyphia,"Sayreville, NJ, US",2023-04-01T20:00:00-0400
+Polyphia,"Pittsburgh, PA, US",2023-04-03T19:00:00-0400
+Polyphia,"Cleveland, OH, US",2023-04-04T19:00:00-0400
+Polyphia,"Indianapolis, IN, US",2023-04-06T20:00:00-0400
+Polyphia,"Columbus, OH, US",2023-04-07T19:00:00-0400
+Polyphia,"Manchester, UK",2023-05-13T18:00:00+0100
+Polyphia,"St Petersburg, FL, US",2023-03-28T20:00:00-0400
+Polyphia,"Louisville, KY, US",2023-04-08T20:00:00-0500
+Polyphia,"Nashville, TN, US",2023-03-24T20:00:00-0500
+Polyphia,"Pensacola, FL, US",2023-03-26T20:00:00-0400
+Polyphia,"Austin, TX, US",2023-04-13T20:00:00-0500
+Polyphia,"Dallas, TX, US",2023-04-14T19:00:00-0500
+Polyphia,"London, UK",2023-05-11T19:00:00+0100
+Polyphia,"Glasgow, UK",2023-05-10T19:00:00+0100
+Polyphia,"Bristol, UK",2023-05-09T19:00:00+0100
+Polyphia,"Memphis, TN, US",2023-04-11T20:00:00-0500
+Queens of the Stone Age,"Columbus, OH, US",2023-05-25
+Queens of the Stone Age,"Boston, MA, US",2023-05-26
+Queens of the Stone Age,"Landgraaf, Netherlands",2023-06-16T12:00:00+0200
+Queens of the Stone Age,"Scheessel, Germany",2023-06-16
+Queens of the Stone Age,"Daytona Beach, FL, US",2023-05-18
+Queens of the Stone Age,"Algés, Portugal",2023-07-06
+Queens of the Stone Age,"Madrid, Spain",2023-07-06
+Queens of the Stone Age,"Albi, France",2023-07-04
+Queens of the Stone Age,"Rotselaar, Belgium",2023-06-29
+Queens of the Stone Age,"Gdynia, Poland",2023-06-28
+Queens of the Stone Age,"Neuhausen Ob Eck, Germany",2023-06-16
+Queens of the Stone Age,"Roskilde, Denmark",2023-06-24
+Renée Elise Goldsberry,"Galveston, TX, US",2023-04-15T20:00:00-0500
+Sam Smith,"Copenhagen, Denmark",2023-04-29T20:00:00+0200
+Sam Smith,"Cologne, Germany",2023-05-08T18:30:00+0200
+Sam Smith,"Oslo, Norway",2023-05-06T19:30:00+0200
+Sam Smith,"Stockholm, Sweden",2023-05-04T18:00:00+0200
+Sam Smith,"Berlin, Germany",2023-05-01T20:00:00+0200
+Sam Smith,"Amsterdam, Netherlands",2023-05-09T20:00:00+0200
+Sam Smith,"Birmingham, UK",2023-04-25T19:30:00+0100
+Sam Smith,"Melbourne, VIC, Australia",2023-11-01T19:00:00+1100
+Sam Smith,"London, UK",2023-04-19T18:30:00+0100
+Sam Smith,"Melbourne, VIC, Australia",2023-10-31
+Sam Smith,"Dublin, Ireland",2023-04-15T18:30:00+0100
+Sam Smith,"Dublin, Ireland",2023-04-14T18:30:00+0100
+Sam Smith,"Sheffield, UK",2023-04-12T18:00:00+0100
+Sam Smith,"Merksem, Belgium",2023-05-12T18:30:00+0200
+Sam Smith,"Glasgow, UK",2023-04-22T18:30:00+0100
+Sam Smith,"Paris, France",2023-05-13T20:00:00+0200
+Sam Smith,"London, UK",2023-04-18T18:30:00+0100
+Sam Smith,"Vienna, Austria",2023-05-18
+Sam Smith,"Seattle, WA, US",2023-08-23T20:00:00-0700
+Sam Smith,"Salt Lake City, UT, US",2023-08-19T20:00:00-0600
+Sam Smith,"Denver, CO, US",2023-08-18T20:00:00-0600
+Sam Smith,"St. Paul, MN, US",2023-08-16T20:00:00-0500
+Sam Smith,"Chicago, IL, US",2023-08-15T20:00:00-0500
+Sam Smith,"Montreal, QC, Canada",2023-08-12T20:00:00-0400
+Sam Smith,"Portland, OR, US",2023-08-25T20:00:00-0700
+Sam Smith,"Toronto, ON, Canada",2023-08-11T20:00:00-0400
+Sam Smith,"New York (NYC), NY, US",2023-08-08T20:00:00-0400
+Sam Smith,"Boston, MA, US",2023-08-05T20:00:00-0400
+Sam Smith,"Washington, DC, US",2023-08-04T20:00:00-0400
+Sam Smith,"Zürich, Switzerland",2023-05-16T18:00:00+0200
+Sam Smith,"Philadelphia, PA, US",2023-08-02T20:00:00-0400
+Sam Smith,"Raleigh, NC, US",2023-08-01T20:00:00-0400
+Sam Smith,"New York (NYC), NY, US",2023-08-09T20:00:00-0400
+Sam Smith,"Nashville, TN, US",2023-07-29T20:00:00-0500
+Sam Smith,"Oakland, CA, US",2023-08-27T19:00:00-0700
+Sam Smith,"Inglewood, CA, US",2023-08-31T20:00:00-0700
+Sam Smith,"Sydney, NSW, Australia",2023-11-03
+Sam Smith,"Sydney, NSW, Australia",2023-11-04T19:00:00+1100
+Sam Smith,"Brisbane, QLD, Australia",2023-11-08
+Sam Smith,"Auckland, New Zealand",2023-11-11T19:00:00+1300
+Sam Smith,"Adelaide, SA, Australia",2023-10-28
+Sam Smith,"Mexico City, Mexico",2023-09-15T20:30:00-0500
+Sam Smith,"San Francisco, CA, US",2023-08-28T20:00:00-0700
+Sam Smith,"Mexico City, Mexico",2023-09-14T20:30:00-0500
+Sam Smith,"Monterrey, Mexico",2023-09-11T19:00:00-0500
+Sam Smith,"Houston, TX, US",2023-09-08T20:00:00-0500
+Sam Smith,"Fort Worth, TX, US",2023-09-07T19:30:00-0500
+Sam Smith,"Austin, TX, US",2023-09-05T20:00:00-0500
+Sam Smith,"Phoenix, AZ, US",2023-09-03T20:00:00-0700
+Sam Smith,"Inglewood, CA, US",2023-09-01T20:00:00-0700
+Sam Smith,"Monterrey, Mexico",2023-09-12T21:00:00-0500
+Sam Smith,"Duluth, GA, US",2023-07-28T20:00:00-0400
+Sam Smith,"Vancouver, BC, Canada",2023-08-22T20:00:00-0700
+Sam Smith,"Miami, FL, US",2023-07-25T20:00:00-0400
+Sam Smith,"Bucharest, Romania",2023-06-03
+Sam Smith,"Warsaw, Poland",2023-06-02
+Sam Smith,"Tel Aviv-Jaffa, Israel",2023-05-31
+Sam Smith,"Manchester, UK",2023-05-24T19:30:00+0100
+Sam Smith,"Turin, Italy",2023-05-21T21:00:00+0200
+Sam Smith,"Madrid, Spain",2023-07-06
+Sam Smith,"Orlando, FL, US",2023-07-26T20:00:00-0400
+Sam Smith,"Algés, Portugal",2023-07-06
+Sam Smith,"Bologna, Italy",2023-05-20T21:00:00+0200
+Sam Smith,"Pori, Finland",2023-07-07T13:00:00+0300
+Sam Smith,"Nîmes, France",2023-07-10T20:00:00+0200
+Sam Smith,"Riga, Latvia",2023-07-14
+Sam Wills,"London, UK",2023-05-09T19:00:00+0100
+Shai Maestro,"Lewes, UK",2023-06-30T11:00:00+0100
+Shai Maestro,"Lewes, UK",2023-06-30T12:00:00+0100
+Shai Maestro,"Lewes, UK",2023-07-02T11:00:00+0100
+Shai Maestro,"Vienna, Austria",2023-05-30T19:30:00+0200
+Shai Maestro,"Lewes, UK",2023-07-02T11:00:00+0100
+Shai Maestro,"Tel Aviv-Jaffa, Israel",2023-05-24T20:00:00+0300
+Shai Maestro,"Heerlen, Netherlands",2023-04-01
+Shai Maestro,"Agrigento, Italy",2023-08-03T18:00:00+0200
+Shai Maestro,"Bremen, Germany",2023-03-17T20:00:00+0100
+Shai Maestro,"Lewes, UK",2023-06-30T11:00:00+0100
+Shai Maestro,"Geneva, Switzerland",2023-03-16
+Shawn Mendes,"Floirac, France",2023-06-03T19:30:00+0200
+Shawn Mendes,"Glasgow, UK",2023-07-28T18:30:00+0100
+Shawn Mendes,"Sheffield, UK",2023-07-29T19:30:00+0100
+Shawn Mendes,"Dublin, Ireland",2023-08-01T19:30:00+0100
+Shawn Mendes,"St. Paul, MN, US",2024-07-07T19:30:00-0500
+Shawn Mendes,"Pittsburgh, PA, US",2024-07-07T19:30:00-0400
+Shawn Mendes,"Uncasville, CT, US",2024-07-07T19:30:00-0400
+Shawn Mendes,"Manchester, UK",2023-07-26T19:30:00+0100
+Shawn Mendes,"Lisbon, Portugal",2023-06-07
+Shawn Mendes,"Munich, Germany",2023-06-14
+Shawn Mendes,"Budapest, Hungary",2023-06-16
+Shawn Mendes,"Krakow, Poland",2023-06-19T17:30:00+0200
+Shawn Mendes,"Krakow, Poland",2023-06-20T17:30:00+0200
+Shawn Mendes,"Prague, Czech Republic",2023-06-22T20:00:00+0200
+Shawn Mendes,"Vienna, Austria",2023-06-25
+Shawn Mendes,"Barakaldo, Spain",2023-06-11
+Shawn Mendes,"Madrid, Spain",2023-06-05
+Shawn Mendes,"Zürich, Switzerland",2023-06-27T20:00:00+0200
+Shawn Mendes,"Mannheim, Germany",2023-07-02
+Shawn Mendes,"Assago, Italy",2023-06-01
+Shawn Mendes,"Bologna, Italy",2023-05-31
+Shawn Mendes,"Rotterdam, Netherlands",2023-07-19T19:30:00+0200
+Shawn Mendes,"London, UK",2023-07-22T18:30:00+0100
+Shawn Mendes,"Birmingham, UK",2023-07-25T18:30:00+0100
+Shawn Mendes,"Anvers, Belgium",2023-07-18T18:00:00+0200
+Shawn Mendes,"Nanterre, France",2023-06-29T19:30:00+0200
+Shawn Mendes,"Amsterdam, Netherlands",2023-07-16T19:30:00+0200
+Shawn Mendes,"Copenhagen, Denmark",2023-07-13T19:30:00+0200
+Shawn Mendes,"Stockholm, Sweden",2023-07-11
+Shawn Mendes,"Fornebu, Norway",2023-07-09T19:30:00+0200
+Shawn Mendes,"Hamburg, Germany",2023-07-06
+Shawn Mendes,"Berlin, Germany",2023-07-05T19:30:00+0200
+Shawn Mendes,"Cologne, Germany",2023-07-03
+Shawn Mendes,"Amsterdam, Netherlands",2023-07-15T19:30:00+0200
+Shawn Mendes,"Barcelona, Spain",2023-06-09
+Snarky Puppy,"St. Paul, MN, US",2023-03-29T20:00:00-0500
+Snarky Puppy,"New York (NYC), NY, US",2023-04-13T20:00:00-0400
+Snarky Puppy,"Milwaukee, WI, US",2023-03-30T20:00:00-0500
+Snarky Puppy,"Chicago, IL, US",2023-03-31T20:00:00-0500
+Snarky Puppy,"Gary, IN, US",2023-04-01T18:30:00-0400
+Snarky Puppy,"Kalamazoo, MI, US",2023-04-02T20:00:00-0400
+Snarky Puppy,"Cleveland, OH, US",2023-04-05T20:00:00-0400
+Snarky Puppy,"Buffalo, NY, US",2023-04-06T19:00:00-0400
+Snarky Puppy,"Boston, MA, US",2023-04-08T20:00:00-0400
+Snarky Puppy,"Concord, NH, US",2023-04-12T19:30:00-0400
+Snarky Puppy,"Philadelphia, PA, US",2023-04-14T20:00:00-0400
+Snarky Puppy,"Harrisburg, PA, US",2023-04-15T19:00:00-0400
+Snarky Puppy,"Washington, DC, US",2023-04-19T20:00:00-0400
+Snarky Puppy,"Pittsburgh, PA, US",2023-04-20T19:00:00-0400
+Snarky Puppy,"Sete, France",2023-04-21T21:00:00+0200
+Snarky Puppy,"Newport, KY, US",2023-04-22T19:00:00-0500
+Snarky Puppy,"Columbus, OH, US",2023-04-21T19:00:00-0400
+Snarky Puppy,"Atlanta, GA, US",2023-04-28T20:30:00-0400
+Snarky Puppy,"Miami Beach, FL, US",2024-02-02T12:00:00-0500
+Snarky Puppy,"Marciac, France",2023-07-23T21:00:00+0200
+Snarky Puppy,"Nashville, TN, US",2023-04-26T19:30:00-0500
+Snarky Puppy,"Stuttgart, Germany",2023-07-13
+Snarky Puppy,"Stuttgart, Germany",2023-07-13
+Snarky Puppy,"Sete, France",2023-07-21T21:00:00+0200
+Snarky Puppy,"Montreal, QC, Canada",2023-06-30T20:30:00-0400
+Snarky Puppy,"Toronto, ON, Canada",2023-06-28T19:00:00-0400
+Snarky Puppy,"Victoria, BC, Canada",2023-06-22
+Snarky Puppy,"Rio de Janeiro, Brazil",2023-05-26
+Sungazer,"Detroit, MI, US",2023-05-10T18:00:00-0400
+Sungazer,"Salt Lake City, UT, US",2023-05-05T19:00:00-0600
+Sungazer,"Seattle, WA, US",2023-05-03T19:00:00-0700
+Sungazer,"Vancouver, BC, Canada",2023-05-02
+Sungazer,"Minneapolis, MN, US",2023-05-08T20:00:00-0500
+Sungazer,"Chicago, IL, US",2023-05-09T19:00:00-0500
+Sungazer,"Englewood, CO, US",2023-05-06T20:00:00-0600
+Sungazer,"Toronto, ON, Canada",2023-05-11T18:00:00-0400
+Sungazer,"Glasgow, UK",2023-03-26T19:00:00+0100
+Sungazer,"New York (NYC), NY, US",2023-05-14T18:00:00-0400
+Sungazer,"New York (NYC), NY, US",2023-05-15T18:30:00-0400
+Sungazer,"Pittsburgh, PA, US",2023-05-16T19:00:00-0400
+Sungazer,"Los Angeles (LA), CA, US",2023-05-27T18:00:00-0700
+Sungazer,"Portland, OR, US",2023-05-01T19:00:00-0700
+Sungazer,"Phoenix, AZ, US",2023-05-26T19:00:00-0700
+Sungazer,"Austin, TX, US",2023-05-24T18:30:00-0500
+Sungazer,"Dallas, TX, US",2023-05-23T18:30:00-0500
+Sungazer,"Boston, MA, US",2023-05-13T18:00:00-0400
+Sungazer,"San Diego, CA, US",2023-04-28T19:00:00-0700
+Sungazer,"Orlando, FL, US",2023-05-20T18:00:00-0400
+Sungazer,"Rotterdam, Netherlands",2023-04-02T20:00:00+0200
+Sungazer,"Amsterdam, Netherlands",2023-04-03T19:00:00+0200
+Sungazer,"Brighton, UK",2023-03-21T19:00:00+0000
+Sungazer,"Bristol, UK",2023-03-22T19:30:00+0000
+Sungazer,"Birmingham, UK",2023-03-23T19:00:00+0000
+Sungazer,"Manchester, UK",2023-03-25T19:00:00+0000
+Sungazer,"Glasgow, UK",2023-03-26T19:00:00+0100
+Sungazer,"London, UK",2023-03-24T19:00:00+0000
+Sungazer,"Oslo, Norway",2023-03-28T19:00:00+0200
+Sungazer,"Oslo, Norway",2023-03-29T19:00:00+0200
+Sungazer,"Copenhagen, Denmark",2023-03-30T20:30:00+0200
+Sungazer,"Gothenburg, Sweden",2023-03-31T20:00:00+0200
+Sungazer,"Utrecht, Netherlands",2023-04-01T14:30:00+0200
+Sungazer,"Charlotte, NC, US",2023-05-19T19:00:00-0400
+Supertramp,"Forges-les-Eaux, France",2023-09-29T20:30:00+0200
+System of a Down,"Las Vegas, NV, US",2023-05-13T12:00:00-0700
+TesseracT,"São Paulo, Brazil",2023-03-26T17:00:00-0300
+TesseracT,"Curitiba, Brazil",2023-03-25T19:00:00-0300
+TesseracT,"Buenos Aires, Argentina",2023-03-28T19:00:00-0300
+TesseracT,"Monterrey, Mexico",2023-04-05T18:00:00-0500
+TesseracT,"Santiago, Chile",2023-03-31
+TesseracT,"Bogota, Colombia",2023-04-02T18:00:00-0500
+TesseracT,"Mexico City, Mexico",2023-04-04T20:00:00-0500
+TesseracT,"Guadalajara, Mexico",2023-04-06T18:00:00-0500
+TesseracT,"Sibiu, Romania",2023-07-28
+TesseracT,"Santiago, Chile",2023-03-30T19:00:00-0300
+The Academy Of Ancient Music,"London, UK",2023-06-30T19:00:00+0100
+The Academy Of Ancient Music,"Cambridge, UK",2023-03-08T19:00:00+0000
+The Academy Of Ancient Music,"London, UK",2023-03-09T19:30:00+0000
+The Academy Of Ancient Music,"Cambridge, UK",2023-04-20T19:00:00+0100
+The Academy Of Ancient Music,"London, UK",2023-04-21T19:30:00+0100
+The Red Jumpsuit Apparatus,"Syracuse, NY, US",2023-04-06T18:00:00-0400
+The Red Jumpsuit Apparatus,"Madison, WI, US",2023-03-30T18:30:00-0500
+The Red Jumpsuit Apparatus,"Jakarta, Indonesia",2023-03-04
+The Red Jumpsuit Apparatus,"St Louis, MO, US",2023-03-11T20:00:00-0600
+The Red Jumpsuit Apparatus,"Fort Wayne, IN, US",2023-03-31T19:00:00-0400
+The Red Jumpsuit Apparatus,"Lakewood, OH, US",2023-04-01T19:00:00-0400
+The Red Jumpsuit Apparatus,"Ferndale, MI, US",2023-04-02T19:00:00-0400
+The Red Jumpsuit Apparatus,"Poughkeepsie, NY, US",2023-04-07T18:30:00-0400
+The Red Jumpsuit Apparatus,"Charlotte, NC, US",2023-04-13T19:00:00-0400
+The Red Jumpsuit Apparatus,"Pittsburgh, PA, US",2023-04-05T19:30:00-0400
+The Red Jumpsuit Apparatus,"Greenville, SC, US",2023-04-15T18:30:00-0400
+The Red Jumpsuit Apparatus,"Atlanta, GA, US",2023-04-16T19:00:00-0400
+The Red Jumpsuit Apparatus,"Fort Myers, FL, US",2023-04-20T19:30:00-0400
+The Red Jumpsuit Apparatus,"Orlando, FL, US",2023-04-22
+The Red Jumpsuit Apparatus,"Anchorage, AK, US",2023-04-29T19:00:00-0800
+The Red Jumpsuit Apparatus,"Kansas City, KS, US",2023-06-16
+The Red Jumpsuit Apparatus,"Nashville, TN, US",2023-04-14T19:00:00-0500
+Theory of a Deadman,"Houston, TX, US",2023-03-14T19:00:00-0500
+Theory of a Deadman,"Denver, CO, US",2023-03-19T19:00:00-0600
+Theory of a Deadman,"Omaha, NE, US",2023-03-18T19:00:00-0500
+Theory of a Deadman,"Kansas City, MO, US",2023-03-17T19:00:00-0500
+Theory of a Deadman,"Dallas, TX, US",2023-03-15T19:00:00-0500
+Theory of a Deadman,"Tulsa, OK, US",2023-03-12T19:00:00-0500
+Theory of a Deadman,"Wolverhampton, UK",2023-09-29T19:00:00+0100
+Theory of a Deadman,"Chesterfield, MO, US",2023-03-10T19:00:00-0600
+Theory of a Deadman,"Pikeville, KY, US",2023-03-08T19:00:00-0600
+Theory of a Deadman,"Nashville, TN, US",2023-03-07T20:00:00-0600
+Theory of a Deadman,"Cincinnati, OH, US",2023-03-05T19:00:00-0500
+Theory of a Deadman,"Las Vegas, NV, US",2023-03-21T19:00:00-0700
+Theory of a Deadman,"Springfield, MO, US",2023-03-11T19:00:00-0600
+Theory of a Deadman,"Phoenix, AZ, US",2023-03-22T19:00:00-0700
+Theory of a Deadman,"Cambridge, UK",2023-09-30T19:00:00+0100
+Theory of a Deadman,"Wheatland, CA, US",2023-03-25T19:00:00-0700
+Theory of a Deadman,"Cardiff, UK",2023-09-27T19:00:00+0100
+Theory of a Deadman,"Manchester, UK",2023-09-26T19:30:00+0100
+Theory of a Deadman,"Reno, NV, US",2023-03-24T19:00:00-0700
+Theory of a Deadman,"Nottingham, UK",2023-09-23T18:30:00+0100
+Theory of a Deadman,"London, UK",2023-09-22T18:00:00+0100
+Theory of a Deadman,"Syracuse, NY, US",2023-08-23
+Theory of a Deadman,"Menahga, MN, US",2023-07-20
+Theory of a Deadman,"Traverse, MI, US",2023-07-01
+Theory of a Deadman,"Sarnia, ON, Canada",2023-06-22
+Theory of a Deadman,"Abbotsford, BC, Canada",2023-05-12T09:00:00-0700
+Theory of a Deadman,"Abbotsford, BC, Canada",2023-05-12T20:00:00-0700
+Theory of a Deadman,"Calgary, AB, Canada",2023-05-11T20:00:00-0600
+Theory of a Deadman,"Edmonton, AB, Canada",2023-05-10T09:00:00-0600
+Theory of a Deadman,"Glasgow, UK",2023-09-24T19:00:00+0100
+Theory of a Deadman,"Winnipeg, MB, Canada",2023-05-08T20:00:00-0500
+Theory of a Deadman,"Winnipeg, MB, Canada",2023-05-08T09:00:00-0500
+Theory of a Deadman,"Thunder Bay, ON, Canada",2023-05-06T19:30:00-0400
+Theory of a Deadman,"Ottawa, ON, Canada",2023-05-04T19:30:00-0400
+Theory of a Deadman,"Toronto, ON, Canada",2023-05-01T09:00:00-0400
+Theory of a Deadman,"Toronto, ON, Canada",2023-05-01T20:00:00-0400
+Theory of a Deadman,"Québec, QC, Canada",2023-04-29T20:00:00-0400
+Theory of a Deadman,"Edmonton, AB, Canada",2023-05-10T20:00:00-0600
+Theory of a Deadman,"Québec, QC, Canada",2023-04-29T09:00:00-0400
+Theory of a Deadman,"Peterborough, ON, Canada",2023-04-28T19:00:00-0400
+Theory of a Deadman,"Montreal, QC, Canada",2023-04-27T09:00:00-0400
+Theory of a Deadman,"Los Angeles (LA), CA, US",2023-03-26T18:00:00-0700
+Theory of a Deadman,"Moncton, NB, Canada",2023-04-25T19:00:00-0300
+Theory of a Deadman,"Montreal, QC, Canada",2023-04-27T20:00:00-0400
+Thirty Seconds to Mars,"Las Vegas, NV, US",2023-10-21T11:00:00-0700
+Three Days Grace,"Tulsa, OK, US",2023-04-24T19:00:00-0500
+Three Days Grace,"Huntsville, AL, US",2023-04-19T19:00:00-0500
+Three Days Grace,"Memphis, TN, US",2023-04-21T19:00:00-0500
+Three Days Grace,"Lincoln, NE, US",2023-04-25T19:00:00-0500
+Three Days Grace,"Savannah, GA, US",2023-04-17T19:00:00-0400
+Three Days Grace,"Baton Rouge, LA, US",2023-04-22T19:00:00-0500
+Three Days Grace,"Fort Wayne, IN, US",2023-04-27T19:00:00-0400
+Three Days Grace,"Spokane, WA, US",2023-05-06T19:00:00-0700
+Three Days Grace,"Minneapolis, MN, US",2023-04-30T19:00:00-0500
+Three Days Grace,"Bozeman, MT, US",2023-05-03T19:00:00-0600
+Three Days Grace,"Orlando, FL, US",2023-04-15T19:00:00-0400
+Three Days Grace,"Everett, WA, US",2023-05-07T19:00:00-0700
+Three Days Grace,"Portland, OR, US",2023-05-09T19:00:00-0700
+Three Days Grace,"Harris, MI, US",2023-05-19T09:00:00-0400
+Three Days Grace,"Harris, MI, US",2023-05-20T09:00:00-0400
+Three Days Grace,"Nürburg, Germany",2023-06-02
+Three Days Grace,"Nuremberg, Germany",2023-06-02
+Three Days Grace,"Nickelsdorf, Austria",2023-06-07T19:00:00+0200
+Three Days Grace,"Castle Donington, UK",2023-06-08T10:00:00+0100
+Three Days Grace,"Dessel, Belgium",2023-06-15T19:00:00+0200
+Three Days Grace,"Natz-Schabs, Italy",2023-06-21
+Three Days Grace,"Milwaukee, WI, US",2023-04-29T19:00:00-0500
+Three Days Grace,"Jacksonville, FL, US",2023-04-14T19:00:00-0400
+Three Days Grace,"Wilkes-barre, PA, US",2023-04-10T18:00:00-0400
+Three Days Grace,"Huntington, WV, US",2023-04-12T12:00:00-0400
+Three Days Grace,"University Park, PA, US",2023-04-08T19:00:00-0400
+Three Days Grace,"Bridgeport, CT, US",2023-04-07T19:00:00-0400
+Three Days Grace,"Cincinnati, OH, US",2023-04-04T19:00:00-0400
+Three Days Grace,"Saginaw, MI, US",2023-04-03T19:00:00-0400
+Three Days Grace,"Huntington, WV, US",2023-04-12T19:00:00-0400
+Thrown,"Dour, Belgium",2023-07-12T23:59:00+0200
+Thrown,"Velké Meziříčí, Czech Republic",2023-07-06
+Thrown,"Hamburg, Germany",2023-03-25T19:00:00+0100
+Thrown,"Berlin, Germany",2023-03-24T19:00:00+0100
+Thrown,"Dresden, Germany",2023-03-23
+Thrown,"Aarau, Switzerland",2023-03-20T19:00:00+0100
+Thrown,"Montbeliard, France",2023-03-19T20:30:00+0100
+Thrown,"Munich, Germany",2023-03-21
+Thrown,"Nantes, France",2023-03-17T19:00:00+0100
+Thrown,"Toulouse, France",2023-03-18T19:00:00+0100
+Thrown,"Karlsruhe, Germany",2023-03-10T19:00:00+0100
+Thrown,"Bochum, Germany",2023-03-11T19:00:00+0100
+Thrown,"'s Hertogenbosch, Netherlands",2023-03-12T19:00:00+0100
+Thrown,"Prague, Czech Republic",2023-03-22T19:00:00+0100
+Thrown,"Arlon, Belgium",2023-03-14T19:00:00+0100
+Thrown,"New Cross, UK",2023-03-15T18:00:00+0000
+Thrown,"Paris, France",2023-03-16T19:00:00+0100
+Thrown,"Wiesbaden, Germany",2023-03-13T19:00:00+0100
+Tigran Hamasyan,"Lewes, UK",2023-07-01T11:00:00+0100
+Tigran Hamasyan,"Rennes, France",2023-03-10T20:00:00+0100
+Tigran Hamasyan,"Leuven, Belgium",2023-03-16T20:00:00+0100
+Tigran Hamasyan,"Munich, Germany",2023-03-20
+Tigran Hamasyan,"Lewes, UK",2023-06-30T12:00:00+0100
+Tigran Hamasyan,"Lewes, UK",2023-06-30T11:00:00+0100
+Tigran Hamasyan,"Lewes, UK",2023-06-30T11:00:00+0100
+Tigran Hamasyan,"Lewes, UK",2023-07-01T11:00:00+0100
+Tigran Hamasyan,"Paris, France",2023-03-09T20:00:00+0100
+Tool,"Columbus, OH, US",2023-05-25
+Tool,"Daytona Beach, FL, US",2023-05-18
+Tool,"Columbus, OH, US",2023-05-25
+Twenty One Pilots,"Monterrey, Mexico",2023-03-31T14:00:00-0600
+Twenty One Pilots,"Bogota, Colombia",2023-03-23
+Twenty One Pilots,"Santiago, Chile",2023-03-17
+Twenty One Pilots,"San Isidro, Argentina",2023-03-17
+Twenty One Pilots,"Asunción, Paraguay",2023-03-21
+Unprocessed,"Vancouver, BC, Canada",2023-04-22T20:00:00-0700
+Unprocessed,"Birmingham, AL, US",2023-03-25T19:00:00-0500
+Unprocessed,"Brooklyn, NY, US",2023-04-02T19:00:00-0400
+Unprocessed,"Scottsdale, AZ, US",2023-04-16T20:00:00-0700
+Unprocessed,"Los Angeles (LA), CA, US",2023-04-17T18:30:00-0700
+Unprocessed,"San Francisco, CA, US",2023-04-18T19:00:00-0700
+Unprocessed,"Portland, OR, US",2023-04-20T19:00:00-0700
+Unprocessed,"Seattle, WA, US",2023-04-21T19:00:00-0700
+Unprocessed,"Compton Martin, UK",2023-08-16
+Unprocessed,"Milan, Italy",2023-06-02T19:00:00+0200
+Unprocessed,"Münster, Germany",2023-06-20
+Unprocessed,"Haarlem, Netherlands",2023-06-26T20:00:00+0200
+Unprocessed,"Eindhoven, Netherlands",2023-06-27T09:00:00+0200
+Unprocessed,"Manchester, UK",2023-07-28T12:00:00+0100
+Veil of Maya,"St Petersburg, FL, US",2023-05-19T18:30:00-0400
+Veil of Maya,"Atlanta, GA, US",2023-05-20T19:00:00-0400
+Veil of Maya,"Philadelphia, PA, US",2023-05-26T19:00:00-0400
+Veil of Maya,"Pittsburgh, PA, US",2023-05-28T18:30:00-0400
+Veil of Maya,"Garden City, ID, US",2023-05-01T19:30:00-0600
+Veil of Maya,"Phoenix, AZ, US",2023-05-07T19:00:00-0700
+Veil of Maya,"Las Vegas, NV, US",2023-05-06T18:30:00-0700
+Veil of Maya,"San Francisco, CA, US",2023-05-05T19:30:00-0700
+Veil of Maya,"Los Angeles (LA), CA, US",2023-05-04T18:30:00-0700
+Veil of Maya,"San Diego, CA, US",2023-05-03T18:00:00-0700
+Veil of Maya,"Silver Spring, MD, US",2023-05-25T19:30:00-0400
+Veil of Maya,"Salt Lake City, UT, US",2023-04-30T18:30:00-0600
+Veil of Maya,"Denver, CO, US",2023-04-29T18:30:00-0600
+Veil of Maya,"Lexington, KY, US",2023-05-21T19:30:00-0500
+Veil of Maya,"New York (NYC), NY, US",2023-05-23T18:30:00-0400
+Veil of Maya,"East Moline, IL, US",2023-05-14T19:30:00-0500
+Veil of Maya,"Chicago, IL, US",2023-05-15T18:30:00-0500
+Veil of Maya,"Boston, MA, US",2023-05-24T18:30:00-0400
+Veil of Maya,"Austin, TX, US",2023-05-09T19:30:00-0500
+Veil of Maya,"Dallas, TX, US",2023-05-10T18:30:00-0500
+Vulfpeck,"Live Oak, FL, US",2023-05-11
+Vulfpeck,"Manchester, TN, US",2023-06-15
+Yaron Herman,"Niort, France",2023-06-28T19:15:00+0200
+Yaron Herman,"Limoges, France",2023-03-26T21:00:00+0200
+Yaron Herman,"Paris, France",2023-03-10T20:00:00+0100
+Yaron Herman,"Bordeaux, France",2023-04-22T20:00:00+0200
+Yaron Herman,"Niort, France",2023-06-29T19:15:00+0200
+You Me At Six,"Bournemouth, UK",2023-08-23T19:00:00+0100
+You Me At Six,"Reading, UK",2023-08-23
+You Me At Six,"Wetherby, UK",2023-08-25T09:30:00+0100
+You Me At Six,"Reading, UK",2023-08-25T09:30:00+0100
+You Me At Six,"Prague, Czech Republic",2023-03-06
+You Me At Six,"Berlin, Germany",2023-03-07
+You Me At Six,"Nickelsdorf, Austria",2023-06-07T19:00:00+0200
+You Me At Six,"Leicester, UK",2023-08-22T19:00:00+0100
+You Me At Six,"Crailsheim, Germany",2023-08-18
+You Me At Six,"Cuxhaven, Germany",2023-07-23
+Zac Brown Band,"Gilford, NH, US",2023-09-03T19:00:00-0400
+Zac Brown Band,"Gilford, NH, US",2023-09-02T19:00:00-0400
+Zac Brown Band,"Boston, MA, US",2023-08-19T19:00:00-0400
+Zac Brown Band,"Saratoga Springs, NY, US",2023-08-13T18:30:00-0400
+Zac Brown Band,"Canton, OH, US",2023-08-05T20:00:00-0400
+Zac Brown Band,"Syracuse, NY, US",2023-08-11T18:30:00-0400
+Zac Brown Band,"Noblesville, IN, US",2023-08-06T19:00:00-0400
+Zac Brown Band,"Puyallup, WA, US",2023-09-13T19:30:00-0700
+Zac Brown Band,"Chicago, IL, US",2023-07-16
+Zac Brown Band,"Bethel, NY, US",2023-08-12T18:30:00-0400
+Zac Brown Band,"Atlantic City, NJ, US",2023-09-15T20:00:00-0400
+Zac Brown Band,"Holmdel, NJ, US",2023-10-07T18:30:00-0400
+Zac Brown Band,"Wantagh, NY, US",2023-09-17T18:30:00-0400
+Zac Brown Band,"Raleigh, NC, US",2023-10-05T18:30:00-0400
+Zac Brown Band,"Columbia, MD, US",2023-10-06T18:00:00-0400
+Zac Brown Band,"Brooklyn, MI, US",2023-07-14
+Zac Brown Band,"Greenwood Village, CO, US",2023-10-12T18:00:00-0600
+Zac Brown Band,"Greenwood Village, CO, US",2023-10-13T18:00:00-0600
+Zac Brown Band,"West Valley City, UT, US",2023-10-14T19:00:00-0600
+Zac Brown Band,"Irvine, CA, US",2023-10-20T18:30:00-0700
+Zac Brown Band,"Irvine, CA, US",2023-10-21T18:30:00-0700
+Zac Brown Band,"West Palm Beach, FL, US",2023-11-02T19:00:00-0400
+Zac Brown Band,"Tampa, FL, US",2023-11-03T18:30:00-0400
+Zac Brown Band,"Tampa, FL, US",2023-11-04T18:30:00-0400
+Zac Brown Band,"Wantagh, NY, US",2023-09-16T18:30:00-0400
+Zac Brown Band,"Toronto, ON, Canada",2023-07-14T19:00:00-0400
+Zac Brown Band,"Columbus, OH, US",2023-06-30T19:00:00-0400
+Zac Brown Band,"Hershey, PA, US",2023-07-01T19:00:00-0400
+Zac Brown Band,"Milwaukee, WI, US",2023-06-23
+Zac Brown Band,"Milwaukee, WI, US",2023-06-23T19:30:00-0500
+Zac Brown Band,"Cadott, WI, US",2023-06-22
+Zac Brown Band,"Cincinnati, OH, US",2023-06-02
+Zac Brown Band,"Highland, CA, US",2023-04-30T19:00:00-0700
+Zac Brown Band,"Boston, MA, US",2023-04-16T20:15:00-0400
+Zac Brown Band,"Brisbane, QLD, Australia",2023-03-17
+Zac Brown Band,"Houston, TX, US",2023-03-05T15:00:00-0600
+Zac Brown Band,"Chicago, IL, US",2023-07-13
+Zedd,"Concord, NC, US",2023-05-05
+Zedd,"Las Vegas, NV, US",2023-04-29T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-04-14T22:30:00-0700
+Zedd,"Miami, FL, US",2023-03-24
+Zedd,"Las Vegas, NV, US",2023-04-07T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-03-25T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-05-13T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-04-14T22:30:00-0700
+Zedd,"Las Vegas, NV, US",2023-06-10T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-08-12T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-07-15T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-07-21T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-08-05T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-08-19T11:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-08-26T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-09-01T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-09-09T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-09-16T11:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-09-23T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-07-01T22:00:00-0700
+Zedd,"Las Vegas, NV, US",2023-04-22T22:00:00-0700
