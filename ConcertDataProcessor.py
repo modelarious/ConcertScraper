@@ -2,7 +2,7 @@ import pandas as pd
 from itertools import combinations
 
 # largest day range to search within
-DAY_RANGE = 5
+DAY_RANGE = 1
 
 # incoming cols
 NAME_COL = "name"
@@ -28,7 +28,7 @@ def aggregate_city(city_df):
     date_combinations = [
         sorted((d1, d2))
         for (d1, d2) in date_combinations
-        if abs((d2 - d1).days) <= DAY_RANGE
+        if abs((d2 - d1).days) <= (DAY_RANGE - 1)
     ]
 
     # Aggregate data for each combination of dates
@@ -72,7 +72,7 @@ def process_concert_ranges(concerts: pd.DataFrame):
     concerts[DATE_COL] = pd.to_datetime(concerts[DATE_COL])
 
     # create groupings of bands that appear within DAY_RANGE days of each other in the same city
-    output = (
+    groupings = (
         concerts.groupby([CITY_COL, COUNTRY_COL])
         .apply(aggregate_city)
         .reset_index(drop=True)
@@ -80,23 +80,23 @@ def process_concert_ranges(concerts: pd.DataFrame):
     )
 
     # choosing the smallest amount of days it would take to see all the bands in the list.
-    output[TIMEDELTA_COL] = (output[END_DATE_COL] - output[START_DATE_COL]).dt.days
-    output = (
-        output.groupby([CITY_COL, COUNTRY_COL, BANDS_COL])
+    groupings[TIMEDELTA_COL] = (
+        groupings[END_DATE_COL] - groupings[START_DATE_COL]
+    ).dt.days + 1
+    with_min_timedelta = (
+        groupings.groupby([CITY_COL, COUNTRY_COL, BANDS_COL])
         .agg(
             {
-                START_DATE_COL: "first",
-                END_DATE_COL: "first",
-                DATE_RANGE_COL: "first",
-                BAND_COUNT_COL: "first",
-                STATE_COL: "first",
                 TIMEDELTA_COL: "min",
             }
         )
         .reset_index()
-        .sort_values(by=BAND_COUNT_COL)
     )
 
+    output = pd.merge(
+        groupings,
+        with_min_timedelta,
+    )
     output[BAND_COUNT_COL] = output[BAND_COUNT_COL].astype(int)
     output[TIMEDELTA_DAYS_COL] = output[TIMEDELTA_COL]
     return output[
@@ -111,10 +111,10 @@ def process_concert_ranges(concerts: pd.DataFrame):
             COUNTRY_COL,
             STATE_COL,
         ]
-    ]
+    ].sort_values(by=BAND_COUNT_COL)
 
 
 concerts = pd.read_csv("/Users/michaelhackman/Github/ConcertScraper/concerts.csv")
 grouped = process_concert_ranges(concerts)
 print(grouped)
-grouped.to_csv("/Users/michaelhackman/Github/ConcertScraper/groupings.csv")
+grouped.to_csv("/Users/michaelhackman/Github/ConcertScraper/groupings.csv", index=False)
