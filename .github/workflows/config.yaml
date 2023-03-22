@@ -17,14 +17,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Download old groupings
-        uses: actions/download-artifact@v2
-        with:
-          name: groupings.csv
-          path: groupings_old.csv
+      # - name: Download old groupings
+      #   uses: actions/download-artifact@v2
+      #   with:
+      #     name: groupings.csv
+      #     path: groupings_old.csv
 
       - name: Run script to create new groupings
-        run: python3 make_new_groupings_csv.py
+        run: python3 ConcertScraper.py ; python3 ConcertDataProcessor.py
 
       - name: Upload new groupings
         uses: actions/upload-artifact@v2
