@@ -24,6 +24,8 @@ RAW_SCORE_COL = "raw_score"
 AVG_SCORE_COL = "avg_score"
 
 
+BASE_DIRECTORY = "./"
+
 # Define a custom function to aggregate data for each city
 def aggregate_city(city_df):
 
@@ -144,10 +146,10 @@ class RatingData(NamedTuple):
 
 def read_ratings() -> RatingData:
     michael_ratings = pd.read_csv(
-        "/Users/michaelhackman/Github/ConcertScraper/michael_rankings.tsv", sep="\t"
+        f"{BASE_DIRECTORY}michael_rankings.tsv", sep="\t"
     )
     taylor_ratings = pd.read_csv(
-        "/Users/michaelhackman/Github/ConcertScraper/taylor_rankings.tsv", sep="\t"
+        f"{BASE_DIRECTORY}taylor_rankings.tsv", sep="\t"
     )
     all_ratings = pd.concat([michael_ratings, taylor_ratings])
 
@@ -167,7 +169,7 @@ def filter_by_date(df, date_col_name):
 rating_data = read_ratings()
 # print(rating_data)
 ratings = rating_data.rating_dict
-concerts = pd.read_csv("/Users/michaelhackman/Github/ConcertScraper/concerts.csv")
+concerts = pd.read_csv(f"{BASE_DIRECTORY}concerts.csv")
 grouped = process_concert_ranges(concerts)
 if grouped is None:
     print("No groupings of concerts found!")
@@ -183,7 +185,7 @@ filtered = filter_by_date(grouped, START_DATE_COL)
 # ]
 # print(filtered)
 filtered.to_csv(
-    "/Users/michaelhackman/Github/ConcertScraper/groupings.csv", index=False
+    f"{BASE_DIRECTORY}groupings.csv", index=False
 )
 
 
@@ -197,5 +199,5 @@ scored_concerts = scored_concerts.drop("Tier", axis=1).sort_values(
     by=[RAW_SCORE_COL, NAME_COL]
 )
 scored_concerts.to_csv(
-    "/Users/michaelhackman/Github/ConcertScraper/scored_concerts.csv", index=False
+    f"{BASE_DIRECTORY}scored_concerts.csv", index=False
 )
