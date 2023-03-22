@@ -1,0 +1,213 @@
+start_date,end_date,date_range,timedelta_days,bands,band_count,city,country,state
+2023-05-12,2023-05-12,2023-05-12,1,"('Disturbed', 'Theory of a Deadman')",2,Abbotsford,Canada,BC
+2023-06-16,2023-06-16,2023-06-16,1,"('Muse', 'Queens of the Stone Age')",2,Neuhausen Ob Eck,Germany,
+2023-05-11,2023-05-11,2023-05-11,1,"('Haken', 'Arch Echo')",2,New York (NYC),US,NY
+2023-04-13,2023-04-13,2023-04-13,1,"('Snarky Puppy', 'Joey Alexander')",2,New York (NYC),US,NY
+2023-04-29,2023-04-29,2023-04-29,1,"('May Erlewine', 'Theo Katzman')",2,New York (NYC),US,NY
+2023-05-14,2023-05-14,2023-05-14,1,"('Sungazer', 'Plini')",2,New York (NYC),US,NY
+2023-05-15,2023-05-15,2023-05-15,1,"('Sungazer', 'Plini')",2,New York (NYC),US,NY
+2023-07-28,2023-07-28,2023-07-28,1,"('Foo Fighters', 'Louis Cole')",2,Niigata,Japan,
+2023-09-02,2023-09-02,2023-09-02,1,"('Disturbed', 'Breaking Benjamin')",2,Noblesville,US,IN
+2023-07-16,2023-07-16,2023-07-16,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Noblesville,US,IN
+2023-03-24,2023-03-24,2023-03-24,1,"('Unprocessed', 'Polyphia')",2,Nashville,US,TN
+2023-03-31,2023-03-31,2023-03-31,1,"('Unprocessed', 'Polyphia')",2,Norfolk,US,VA
+2023-03-29,2023-03-29,2023-03-29,1,"('Unprocessed', 'Polyphia')",2,Orlando,US,FL
+2023-03-29,2023-03-29,2023-03-29,1,"('Haken', 'Sungazer')",2,Oslo,Norway,
+2023-07-19,2023-07-19,2023-07-19,1,"('OneRepublic', 'Jacob Collier')",2,Ostrava,Czech Republic,
+2023-03-26,2023-03-26,2023-03-26,1,"('Unprocessed', 'Polyphia')",2,Pensacola,US,FL
+2023-07-22,2023-07-22,2023-07-22,1,"('Disturbed', 'Breaking Benjamin')",2,Phoenix,US,AZ
+2023-06-30,2023-06-30,2023-06-30,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Phoenix,US,AZ
+2023-05-26,2023-05-26,2023-05-26,1,"('Sungazer', 'Plini')",2,Phoenix,US,AZ
+2023-06-21,2023-06-21,2023-06-21,1,"('Lizzo', 'Lil Nas X')",2,Pilton,UK,
+2023-05-16,2023-05-16,2023-05-16,1,"('Sungazer', 'Plini')",2,Pittsburgh,US,PA
+2023-05-20,2023-05-20,2023-05-20,1,"('Sungazer', 'Plini')",2,Orlando,US,FL
+2023-09-02,2023-09-02,2023-09-02,1,"('Martin Garrix', 'RAYE')",2,Munich,Germany,
+2023-07-05,2023-07-05,2023-07-05,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Mountain View,US,CA
+2023-05-02,2023-05-02,2023-05-02,1,"('May Erlewine', 'Theo Katzman')",2,Montreal,Canada,QC
+2023-03-16,2023-03-16,2023-03-16,1,"('Lizzo', 'Fall Out Boy')",2,London,UK,
+2023-05-24,2023-05-24,2023-05-24,1,"('Haken', 'Arch Echo')",2,Los Angeles (LA),US,CA
+2023-07-02,2023-07-02,2023-07-02,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Los Angeles (LA),US,CA
+2023-07-03,2023-07-03,2023-07-03,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Los Angeles (LA),US,CA
+2023-04-08,2023-04-08,2023-04-08,1,"('May Erlewine', 'Theo Katzman')",2,Los Angeles (LA),US,CA
+2023-06-22,2023-06-22,2023-06-22,1,"('Hollywood Undead', 'Meshuggah')",2,Ysselsteyn,Netherlands,
+2023-04-08,2023-04-08,2023-04-08,1,"('Unprocessed', 'Polyphia')",2,Louisville,US,KY
+2023-05-14,2023-05-14,2023-05-14,1,"('May Erlewine', 'Theo Katzman')",2,Madison,US,TN
+2023-07-28,2023-07-28,2023-07-28,1,"('Haken', 'Unprocessed')",2,Manchester,UK,
+2023-03-24,2023-03-24,2023-03-24,1,"('Jack Garratt', 'Haken')",2,Manchester,UK,
+2023-05-17,2023-05-17,2023-05-17,1,"('Post Malone', 'Louis Cole')",2,Manchester,UK,
+2023-08-29,2023-08-29,2023-08-29,1,"('Disturbed', 'Breaking Benjamin')",2,Maryland Heights,US,MO
+2023-04-11,2023-04-11,2023-04-11,1,"('Unprocessed', 'Polyphia')",2,Memphis,US,TN
+2023-05-22,2023-05-22,2023-05-22,1,"('Haken', 'Arch Echo')",2,Mesa,US,AZ
+2023-05-13,2023-05-13,2023-05-13,1,"('The Chainsmokers', 'OneRepublic')",2,Mexico City,Mexico,
+2023-03-23,2023-03-23,2023-03-23,1,"('Diplo', 'Madeon')",2,Miami,US,FL
+2023-06-02,2023-06-02,2023-06-02,1,"('Haken', 'Arch Echo')",2,Minneapolis,US,MN
+2023-05-12,2023-05-12,2023-05-12,1,"('May Erlewine', 'Theo Katzman')",2,Minneapolis,US,MN
+2023-05-08,2023-05-08,2023-05-08,1,"('Sungazer', 'Plini')",2,Minneapolis,US,MN
+2023-05-06,2023-05-06,2023-05-06,1,"('Haken', 'Arch Echo')",2,Montreal,Canada,QC
+2023-04-27,2023-04-27,2023-04-27,1,"('Disturbed', 'Theory of a Deadman')",2,Montreal,Canada,QC
+2023-04-03,2023-04-03,2023-04-03,1,"('Unprocessed', 'Polyphia')",2,Pittsburgh,US,PA
+2023-03-24,2023-03-24,2023-03-24,1,"('Ed Sheeran', 'Sungazer')",2,London,UK,
+2023-05-26,2023-05-26,2023-05-26,1,"('Haken', 'Arch Echo')",2,Portland,US,OR
+2023-05-01,2023-05-01,2023-05-01,1,"('Sungazer', 'Plini')",2,Portland,US,OR
+2023-05-31,2023-05-31,2023-05-31,1,"('Martin Garrix', 'Sam Smith')",2,Tel Aviv-Jaffa,Israel,
+2023-07-27,2023-07-27,2023-07-27,1,"('Disturbed', 'Breaking Benjamin')",2,The Woodlands,US,TX
+2023-06-27,2023-06-27,2023-06-27,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,The Woodlands,US,TX
+2023-08-30,2023-08-30,2023-08-30,1,"('Disturbed', 'Breaking Benjamin')",2,Tinley Park,US,IL
+2023-05-05,2023-05-05,2023-05-05,1,"('Haken', 'Arch Echo')",2,Toronto,Canada,ON
+2023-07-30,2023-07-30,2023-07-30,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Toronto,Canada,ON
+2023-05-01,2023-05-01,2023-05-01,1,"('Disturbed', 'Theory of a Deadman')",2,Toronto,Canada,ON
+2023-05-03,2023-05-03,2023-05-03,1,"('May Erlewine', 'Theo Katzman')",2,Toronto,Canada,ON
+2023-05-11,2023-05-11,2023-05-11,1,"('Sungazer', 'Plini')",2,Toronto,Canada,ON
+2023-07-25,2023-07-25,2023-07-25,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Tampa,US,FL
+2023-04-04,2023-04-04,2023-04-04,1,"('May Erlewine', 'Theo Katzman')",2,Vancouver,Canada,BC
+2023-07-22,2023-07-22,2023-07-22,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Virginia Beach,US,VA
+2023-08-19,2023-08-19,2023-08-19,1,"('Disturbed', 'Breaking Benjamin')",2,Wantagh,US,NY
+2023-08-03,2023-08-03,2023-08-03,1,"('Disturbed', 'Breaking Benjamin')",2,West Palm Beach,US,FL
+2023-07-24,2023-07-24,2023-07-24,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,West Palm Beach,US,FL
+2023-07-13,2023-07-13,2023-07-13,1,"('Disturbed', 'Breaking Benjamin')",2,West Valley City,US,UT
+2023-07-07,2023-07-07,2023-07-07,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,West Valley City,US,UT
+2023-08-25,2023-08-25,2023-08-25,1,"('Billie Eilish', 'You Me At Six')",2,Wetherby,UK,
+2023-07-18,2023-07-18,2023-07-18,1,"('Disturbed', 'Breaking Benjamin')",2,Wheatland,US,CA
+2023-05-08,2023-05-08,2023-05-08,1,"('Disturbed', 'Theory of a Deadman')",2,Winnipeg,Canada,MB
+2023-05-02,2023-05-02,2023-05-02,1,"('Sungazer', 'Plini')",2,Vancouver,Canada,BC
+2023-08-12,2023-08-12,2023-08-12,1,"('Disturbed', 'Breaking Benjamin')",2,Syracuse,US,NY
+2023-07-13,2023-07-13,2023-07-13,1,"('Parov Stelar', 'Snarky Puppy')",2,Stuttgart,Germany,
+2023-03-28,2023-03-28,2023-03-28,1,"('Unprocessed', 'Polyphia')",2,St Petersburg,US,FL
+2023-08-01,2023-08-01,2023-08-01,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Queens,US,NY
+2023-05-07,2023-05-07,2023-05-07,1,"('Haken', 'Arch Echo')",2,Québec,Canada,QC
+2023-04-29,2023-04-29,2023-04-29,1,"('Disturbed', 'Theory of a Deadman')",2,Québec,Canada,QC
+2023-08-07,2023-08-07,2023-08-07,1,"('Disturbed', 'Breaking Benjamin')",2,Raleigh,US,NC
+2023-08-23,2023-08-23,2023-08-23,1,"('Billie Eilish', 'You Me At Six')",2,Reading,UK,
+2023-07-15,2023-07-15,2023-07-15,1,"('Disturbed', 'Breaking Benjamin')",2,Ridgefield,US,WA
+2023-10-07,2023-10-07,2023-10-07,1,"('Dream Theater', 'Arch Echo')",2,Rochester,US,NY
+2023-07-29,2023-07-29,2023-07-29,1,"('Disturbed', 'Breaking Benjamin')",2,Rogers,US,AR
+2023-07-11,2023-07-11,2023-07-11,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Rogers,US,AR
+2023-05-05,2023-05-05,2023-05-05,1,"('Sungazer', 'Plini')",2,Salt Lake City,US,UT
+2023-04-28,2023-04-28,2023-04-28,1,"('Sungazer', 'Plini')",2,San Diego,US,CA
+2023-05-25,2023-05-25,2023-05-25,1,"('Haken', 'Arch Echo')",2,San Francisco,US,CA
+2023-08-11,2023-08-11,2023-08-11,1,"('Zedd', 'Foo Fighters')",2,San Francisco,US,CA
+2023-04-07,2023-04-07,2023-04-07,1,"('May Erlewine', 'Theo Katzman')",2,San Francisco,US,CA
+2023-04-01,2023-04-01,2023-04-01,1,"('Unprocessed', 'Polyphia')",2,Sayreville,US,NJ
+2023-06-16,2023-06-16,2023-06-16,1,"('Muse', 'Queens of the Stone Age')",2,Scheessel,Germany,
+2023-05-27,2023-05-27,2023-05-27,1,"('Haken', 'Arch Echo')",2,Seattle,US,WA
+2023-05-03,2023-05-03,2023-05-03,1,"('Sungazer', 'Plini')",2,Seattle,US,WA
+2023-07-28,2023-07-28,2023-07-28,1,"('Haken', 'TesseracT')",2,Sibiu,Romania,
+2023-07-13,2023-07-13,2023-07-13,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Somerset,US,WI
+2023-05-30,2023-05-30,2023-05-30,1,"('Haken', 'Arch Echo')",2,South Salt Lake,US,UT
+2023-04-05,2023-04-05,2023-04-05,1,"('May Erlewine', 'Theo Katzman')",2,Portland,US,OR
+2023-11-02,2023-11-02,2023-11-02,1,"('Fall Out Boy', 'Animals As Leaders')",2,London,UK,
+2023-05-27,2023-05-27,2023-05-27,1,"('Sungazer', 'Plini')",2,Los Angeles (LA),US,CA
+2023-07-02,2023-07-02,2023-07-02,1,"('Thundercat', 'Shai Maestro')",2,Lewes,UK,
+2023-05-05,2023-05-05,2023-05-05,1,"('Mac Ayres', 'May Erlewine')",2,Chicago,US,IL
+2023-05-09,2023-05-09,2023-05-09,1,"('Sungazer', 'Plini')",2,Chicago,US,IL
+2023-05-15,2023-05-15,2023-05-15,1,"('Veil of Maya', 'RAYE')",2,Chicago,US,IL
+2023-07-01,2023-07-01,2023-07-01,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Chula Vista,US,CA
+2023-08-15,2023-08-15,2023-08-15,1,"('Disturbed', 'Breaking Benjamin')",2,Cincinnati,US,OH
+2023-07-15,2023-07-15,2023-07-15,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Cincinnati,US,OH
+2023-09-01,2023-09-01,2023-09-01,1,"('Disturbed', 'Breaking Benjamin')",2,Clarkston,US,MI
+2023-07-29,2023-07-29,2023-07-29,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Clarkston,US,MI
+2023-04-04,2023-04-04,2023-04-04,1,"('Unprocessed', 'Polyphia')",2,Cleveland,US,OH
+2023-06-03,2023-06-03,2023-06-03,1,"('Haken', 'Arch Echo')",2,Chicago,US,IL
+2023-06-15,2023-06-15,2023-06-15,1,"('Hollywood Undead', 'Meshuggah')",2,Clisson,France,
+2023-03-30,2023-03-30,2023-03-30,1,"('Unprocessed', 'Polyphia')",2,Columbia,US,MD
+2023-04-07,2023-04-07,2023-04-07,1,"('Unprocessed', 'Polyphia')",2,Columbus,US,OH
+2023-05-05,2023-05-05,2023-05-05,1,"('Zedd', 'deadmau5')",2,Concord,US,NH
+2023-03-30,2023-03-30,2023-03-30,1,"('Haken', 'Sungazer')",2,Copenhagen,Denmark,
+2023-08-27,2023-08-27,2023-08-27,1,"('Disturbed', 'Breaking Benjamin')",2,Cuyahoga Falls,US,OH
+2023-07-18,2023-07-18,2023-07-18,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Cuyahoga Falls,US,OH
+2023-07-25,2023-07-25,2023-07-25,1,"('Disturbed', 'Breaking Benjamin')",2,Dallas,US,TX
+2023-06-28,2023-06-28,2023-06-28,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Dallas,US,TX
+2023-05-23,2023-05-23,2023-05-23,1,"('Sungazer', 'Plini')",2,Dallas,US,TX
+2023-06-09,2023-06-09,2023-06-09,1,"('Muse', 'Hans Zimmer')",2,Cologne,Germany,
+2023-08-04,2023-08-04,2023-08-04,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Darien Center,US,NY
+2023-05-19,2023-05-19,2023-05-19,1,"('Sungazer', 'Plini')",2,Charlotte,US,NC
+2023-07-31,2023-07-31,2023-07-31,1,"('Disturbed', 'Breaking Benjamin')",2,Charlotte,US,NC
+2023-07-23,2023-07-23,2023-07-23,1,"('Disturbed', 'Breaking Benjamin')",2,Albuquerque,US,NM
+2023-08-01,2023-08-01,2023-08-01,1,"('Disturbed', 'Breaking Benjamin')",2,Alpharetta,US,GA
+2023-06-08,2023-06-08,2023-06-08,1,"('Diplo', 'DOMi & JD BECK')",2,Arganda del Rey,Spain,
+2023-03-21,2023-03-21,2023-03-21,1,"('Billie Eilish', 'Twenty One Pilots')",2,Asunción,Paraguay,
+2023-05-17,2023-05-17,2023-05-17,1,"('Haken', 'Arch Echo')",2,Atlanta,US,GA
+2023-07-26,2023-07-26,2023-07-26,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Atlanta,US,GA
+2023-07-16,2023-07-16,2023-07-16,1,"('Disturbed', 'Breaking Benjamin')",2,Auburn,US,WA
+2023-04-14,2023-04-14,2023-04-14,1,"('Mac Ayres', 'Madeon')",2,Austin,US,TX
+2023-05-24,2023-05-24,2023-05-24,1,"('Sungazer', 'Plini')",2,Austin,US,TX
+2023-07-21,2023-07-21,2023-07-21,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Charlotte,US,NC
+2023-04-13,2023-04-13,2023-04-13,1,"('Unprocessed', 'Polyphia')",2,Austin,US,TX
+2023-08-02,2023-08-02,2023-08-02,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Boston,US,MA
+2023-05-13,2023-05-13,2023-05-13,1,"('Sungazer', 'Plini')",2,Boston,US,MA
+2023-08-09,2023-08-09,2023-08-09,1,"('Disturbed', 'Breaking Benjamin')",2,Bristow,US,VA
+2023-07-19,2023-07-19,2023-07-19,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Bristow,US,VA
+2023-10-13,2023-10-13,2023-10-13,1,"('Dream Theater', 'Arch Echo')",2,Brooklyn,US,NY
+2023-08-26,2023-08-26,2023-08-26,1,"('Disturbed', 'Breaking Benjamin')",2,Burgettstown,US,PA
+2023-08-21,2023-08-21,2023-08-21,1,"('Disturbed', 'Breaking Benjamin')",2,Camden,US,NJ
+2023-08-06,2023-08-06,2023-08-06,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Camden,US,NJ
+2023-05-13,2023-05-13,2023-05-13,1,"('Haken', 'Arch Echo')",2,Charlotte,US,NC
+2023-07-12,2023-07-12,2023-07-12,1,"('Lil Nas X', 'Muse')",2,Bern,Switzerland,
+2023-07-11,2023-07-11,2023-07-11,1,"('Disturbed', 'Breaking Benjamin')",2,Denver,US,CO
+2023-05-19,2023-05-19,2023-05-19,1,"('Haken', 'Arch Echo')",2,Dallas,US,TX
+2023-05-23,2023-05-23,2023-05-23,1,"('Hans Zimmer', 'Polyphia')",2,Zürich,Switzerland,
+2023-09-09,2023-09-09,2023-09-09,1,"('Zedd', 'Ed Sheeran')",2,Las Vegas,US,NV
+2023-07-20,2023-07-20,2023-07-20,1,"('Disturbed', 'Breaking Benjamin')",2,Irvine,US,CA
+2023-03-18,2023-03-18,2023-03-18,1,"('Mat Zo', 'Periphery')",2,Denver,US,CO
+2023-04-14,2023-04-14,2023-04-14,1,"('Hiatus Kaiyote', 'DOMi & JD BECK')",2,Indio,US,CA
+2023-04-21,2023-04-21,2023-04-21,1,"('Hiatus Kaiyote', 'DOMi & JD BECK')",2,Indio,US,CA
+2023-08-12,2023-08-12,2023-08-12,1,"('Maroon 5', 'Zedd')",2,Las Vegas,US,NV
+2023-04-06,2023-04-06,2023-04-06,1,"('Unprocessed', 'Polyphia')",2,Indianapolis,US,IN
+2023-06-08,2023-06-08,2023-06-08,1,"('Muse', 'Hollywood Undead')",2,Hradec Králové,Czech Republic,
+2023-08-05,2023-08-05,2023-08-05,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Holmdel,US,NJ
+2023-04-07,2023-04-07,2023-04-07,1,"('Maroon 5', 'Zedd')",2,Las Vegas,US,NV
+2023-08-05,2023-08-05,2023-08-05,1,"('Maroon 5', 'Zedd')",2,Las Vegas,US,NV
+2023-07-09,2023-07-09,2023-07-09,1,"('Fall Out Boy', 'Bring Me The Horizon')",2,Greenwood Village,US,CO
+2023-06-03,2023-06-03,2023-06-03,1,"('Bruno Mars', 'Marshmello')",2,Las Vegas,US,NV
+2023-04-08,2023-04-08,2023-04-08,1,"('Maroon 5', 'Muse')",2,Las Vegas,US,NV
+2023-05-15,2023-05-15,2023-05-15,1,"('Haken', 'Arch Echo')",2,Fort Lauderdale,US,FL
+2023-08-23,2023-08-23,2023-08-23,1,"('Disturbed', 'Breaking Benjamin')",2,Gilford,US,NH
+2023-05-06,2023-05-06,2023-05-06,1,"('Sungazer', 'Plini')",2,Englewood,US,CO
+2023-06-01,2023-06-01,2023-06-01,1,"('Haken', 'Arch Echo')",2,Lawrence,US,KS
+2023-05-06,2023-05-06,2023-05-06,1,"('Mac Ayres', 'Theo Katzman')",2,Detroit,US,MI
+2023-05-06,2023-05-06,2023-05-06,1,"('The Chicks', 'Veil of Maya')",2,Las Vegas,US,NV
+2023-05-05,2023-05-05,2023-05-05,1,"('The Chicks', 'Marshmello')",2,Las Vegas,US,NV
+2023-05-25,2023-05-25,2023-05-25,1,"('The Chainsmokers', 'Marshmello')",2,Las Vegas,US,NV
+2023-04-01,2023-04-01,2023-04-01,1,"('Maroon 5', 'deadmau5')",2,Las Vegas,US,NV
+2023-07-01,2023-07-01,2023-07-01,1,"('Zedd', 'Marshmello')",2,Las Vegas,US,NV
+2023-05-10,2023-05-10,2023-05-10,1,"('Sungazer', 'Plini')",2,Detroit,US,MI
+2023-05-21,2023-05-21,2023-05-21,1,"('Haken', 'Arch Echo')",2,El Paso,US,TX
+2023-05-31,2023-05-31,2023-05-31,1,"('Haken', 'Arch Echo')",2,Englewood,US,CO
+2023-07-28,2023-07-28,2023-07-28,1,"('Maroon 5', 'deadmau5')",2,Las Vegas,US,NV
+2023-05-10,2023-05-10,2023-05-10,1,"('Disturbed', 'Theory of a Deadman')",2,Edmonton,Canada,AB
+2023-05-28,2023-05-28,2023-05-28,1,"('Bruno Mars', 'Marshmello')",2,Las Vegas,US,NV
+2023-04-28,2023-04-28,2023-04-28,1,"('Mac Ayres', 'May Erlewine', 'Theo Katzman')",3,Boston,US,MA
+2023-06-15,2023-06-15,2023-06-15,1,"('Lil Nas X', 'Foo Fighters', 'Vulfpeck')",3,Manchester,US,TN
+2023-05-26,2023-05-26,2023-05-26,1,"('Paramore', 'Queens of the Stone Age', 'Foo Fighters')",3,Boston,US,MA
+2023-03-25,2023-03-25,2023-03-25,1,"('Maroon 5', 'Zedd', 'Periphery')",3,Las Vegas,US,NV
+2023-03-23,2023-03-23,2023-03-23,1,"('Billie Eilish', 'Lil Nas X', 'Twenty One Pilots')",3,Bogota,Colombia,
+2023-06-14,2023-06-14,2023-06-14,1,"('Harry Styles', 'Hans Zimmer', 'OneRepublic')",3,London,UK,
+2023-03-24,2023-03-24,2023-03-24,1,"('Billie Eilish', 'Lil Nas X', 'Mother Mother')",3,São Paulo,Brazil,
+2023-03-31,2023-03-31,2023-03-31,1,"('Billie Eilish', '5 Seconds of Summer', 'Twenty One Pilots')",3,Monterrey,Mexico,
+2023-05-18,2023-05-18,2023-05-18,1,"('Queens of the Stone Age', 'Avenged Sevenfold', 'TOOL')",3,Daytona Beach,US,FL
+2023-04-27,2023-04-27,2023-04-27,1,"('Mac Ayres', 'May Erlewine', 'Theo Katzman')",3,Philadelphia,US,PA
+2023-06-16,2023-06-16,2023-06-16,1,"('Disturbed', 'Queens of the Stone Age', 'OneRepublic')",3,Landgraaf,Netherlands,
+2023-04-14,2023-04-14,2023-04-14,1,"('Unprocessed', 'Theo Katzman', 'Polyphia')",3,Dallas,US,TX
+2023-03-17,2023-03-17,2023-03-17,1,"('Billie Eilish', 'Lil Nas X', 'Twenty One Pilots')",3,San Isidro,Argentina,
+2023-05-26,2023-05-26,2023-05-26,1,"('Lizzo', 'Lil Nas X', 'Post Malone')",3,Napa,US,CA
+2023-06-30,2023-06-30,2023-06-30,1,"('Tigran Hamasyan', 'Thundercat', 'Shai Maestro')",3,Lewes,UK,
+2023-06-09,2023-06-09,2023-06-09,1,"('Lizzo', 'Lil Nas X', 'Diplo')",3,Corona,US,NY
+2023-06-07,2023-06-07,2023-06-07,1,"('Disturbed', 'You Me At Six', 'Three Days Grace')",3,Nickelsdorf,Austria,
+2023-05-20,2023-05-20,2023-05-20,1,"('Mother Mother', 'The Chainsmokers', 'Thundercat')",3,Guadalajara,Mexico,
+2023-06-29,2023-06-29,2023-06-29,1,"('Lizzo', 'Lil Nas X', 'OneRepublic')",3,Stockholm,Sweden,
+2023-06-08,2023-06-08,2023-06-08,1,"('Disturbed', 'Monuments', 'Three Days Grace', 'Bring Me The Horizon')",4,Castle Donington,UK,
+2023-07-06,2023-07-06,2023-07-06,1,"('Lizzo', 'Queens of the Stone Age', 'Sam Smith', 'Jacob Collier')",4,Algés,Portugal,
+2023-06-02,2023-06-02,2023-06-02,1,"('Hollywood Undead', 'Foo Fighters', 'Three Days Grace', 'Meshuggah')",4,Nuremberg,Germany,
+2023-05-25,2023-05-25,2023-05-25,1,"('Queens of the Stone Age', 'Foo Fighters', 'Avenged Sevenfold', 'TOOL')",4,Columbus,US,OH
+2023-06-15,2023-06-15,2023-06-15,1,"('Disturbed', 'Hollywood Undead', 'Meshuggah', 'Three Days Grace')",4,Dessel,Belgium,
+2023-05-19,2023-05-19,2023-05-19,1,"('Paramore', 'Lil Nas X', 'Thundercat', 'AJR')",4,Gulf Shores,US,AL
+2023-03-17,2023-03-17,2023-03-17,1,"('Billie Eilish', 'Lil Nas X', 'Twenty One Pilots', 'Mother Mother')",4,Santiago,Chile,
+2023-05-13,2023-05-13,2023-05-13,1,"('Korn', 'System Of A Down', 'Zedd', 'The Chicks')",4,Las Vegas,US,NV
+2023-09-02,2023-09-02,2023-09-02,1,"('Bruno Mars', 'Maroon 5', 'Post Malone', 'Foo Fighters')",4,São Paulo,Brazil,
+2023-10-21,2023-10-21,2023-10-21,1,"('Thirty Seconds To Mars', '5 Seconds of Summer', 'Good Charlotte', 'Magnolia Park')",4,Las Vegas,US,NV
+2023-03-24,2023-03-24,2023-03-24,1,"('deadmau5', 'Zedd', 'Martin Garrix', 'Marshmello')",4,Miami,US,FL
+2023-06-29,2023-06-29,2023-06-29,1,"('RAYE', 'Muse', 'Queens of the Stone Age', 'Jacob Collier', 'Lil Nas X')",5,Rotselaar,Belgium,
+2023-10-05,2023-10-05,2023-10-05,1,"('Korn', 'Avenged Sevenfold', 'Queens of the Stone Age', 'You Me At Six', 'TOOL')",5,Sacramento,US,CA
+2023-06-02,2023-06-02,2023-06-02,1,"('Bring Me The Horizon', 'Hollywood Undead', 'Foo Fighters', 'Meshuggah', 'Three Days Grace')",5,Nürburg,Germany,
+2023-07-06,2023-07-06,2023-07-06,1,"('Queens of the Stone Age', 'Jacob Collier', 'Lizzo', 'Lil Nas X', 'Sam Smith')",5,Madrid,Spain,
+2023-06-28,2023-06-28,2023-06-28,1,"('OneRepublic', 'Queens of the Stone Age', 'Lizzo', 'Lil Nas X', 'Thundercat')",5,Gdynia,Poland,

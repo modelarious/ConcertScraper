@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from bs4.element import ResultSet
+from bs4.element import ResultSet, Tag
 from dataclasses import dataclass
 from typing import List, Dict, Optional
 import pandas as pd
@@ -83,7 +83,7 @@ def create_artist_concert_links(artist_links: Dict[str, str]) -> Dict[str, str]:
 
 def make_concert(date_time: str, location: str) -> Concert:
     date = date_time.split("T")[0]
-    location_split_out = location.split(",")
+    location_split_out = [loc.strip() for loc in location.split(",")]
     city = location_split_out[0]
     country = location_split_out[-1]
     if len(location_split_out) == 2:
@@ -105,13 +105,17 @@ def parse_concert_results(concert_results: ResultSet) -> List[Concert]:
     return concerts
 
 
+def is_canceled(concert: Tag) -> bool:
+    return concert.find("strong", class_="canceled")
+
+
 def fetch_all_concerts_for_artist(url: str) -> List[Concert]:
     all_concerts = []
     link = url
     current_page_num = 1
     while True:
         soup = fetch_link(link)
-        concert_results = soup.select(CONCERT_CSS_SELECTOR)
+        concert_results = [c for c in soup.select(CONCERT_CSS_SELECTOR) if not is_canceled(c)]
         all_concerts.extend(parse_concert_results(concert_results))
 
         # some artists have multiple pages of concerts and require pagination
@@ -180,19 +184,32 @@ def create_artist_info_dataframe(
     return merged
 
 
-artist_names = read_artist_list()
-artist_links, unable_to_locate = fetch_artist_links(artist_names)
-artist_concert_links = create_artist_concert_links(artist_links)
-artist_concerts = fetch_artist_concerts(artist_concert_links)
 
-concerts = create_concerts_dataframe(artist_concerts)
-artist_info = create_artist_info_dataframe(artist_concert_links, concerts)
+def scrape_concert_info():
+    print("reading artist list")
+    artist_names = read_artist_list()
+    print("fetching artist links")
+    artist_links, unable_to_locate = fetch_artist_links(artist_names)
+    artist_concert_links = create_artist_concert_links(artist_links)
+    artist_concerts = fetch_artist_concerts(artist_concert_links)
 
-print(artist_info)
-concerts.to_csv(f"{BASE_DIRECTORY}concerts.csv", index=False)
-artist_info.to_csv(f"{BASE_DIRECTORY}artist_info.csv", index=False)
+    concerts = create_concerts_dataframe(artist_concerts)
+    artist_info = create_artist_info_dataframe(artist_concert_links, concerts)
 
-print("WAS UNABLE TO LOCATE THE FOLLOWING BANDS:")
-from pprint import pprint
+    print(artist_info)
+    concerts.to_csv(f"{BASE_DIRECTORY}concerts.csv", index=False)
+    artist_info.to_csv(f"{BASE_DIRECTORY}artist_info.csv", index=False)
 
-pprint(unable_to_locate)
+    print("WAS UNABLE TO LOCATE THE FOLLOWING BANDS:")
+    from pprint import pprint
+
+    pprint(unable_to_locate)
+
+import argh
+def main(duration_days: int = 7, filter_start_date: str = "2023-05-01"):
+    print(f"received these args: {filter_start_date}, {duration_days}")
+    scrape_concert_info()
+
+
+
+argh.dispatch_command(main)
