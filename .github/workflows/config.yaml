@@ -1,8 +1,13 @@
 name: Update Groupings
 
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"
+
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - '*'
 
 jobs:
   update_groupings:
