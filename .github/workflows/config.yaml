@@ -34,8 +34,10 @@ jobs:
       # - name: Rename old groupings
       #   run: mv groupings.csv groupings_old.csv
 
+      # - name: Run script to create new groupings
+      #   run: python3 ConcertScraper.py ; python3 ConcertDataProcessor.py ; python3 delta.py
       - name: Run script to create new groupings
-        run: python3 ConcertScraper.py ; python3 ConcertDataProcessor.py ; python3 delta.py
+        run: python3 ConcertDataProcessor.py
 
       - name: Upload new groupings
         uses: actions/upload-artifact@v2
