@@ -1,7 +1,11 @@
 import pandas as pd
 
 new_groupings = pd.read_csv("groupings.csv")
-old_groupings = pd.read_csv("groupings_old.csv")
+try:
+    old_groupings = pd.read_csv("groupings_old.csv")
+except:
+    print("no old groupings found")
+    exit(-1)
 
 groupings_delta = new_groupings[
     ~new_groupings.apply(tuple, 1).isin(old_groupings.apply(tuple, 1))
