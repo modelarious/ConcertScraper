@@ -1,0 +1,29 @@
+name: Update Groupings
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  update_groupings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download old groupings
+        uses: actions/download-artifact@v2
+        with:
+          name: groupings.csv
+          path: groupings_old.csv
+
+      - name: Run script to create new groupings
+        run: python3 make_new_groupings_csv.py
+
+      - name: Upload new groupings
+        uses: actions/upload-artifact@v2
+        with:
+          name: groupings.csv
+          path: groupings.csv
