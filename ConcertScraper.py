@@ -7,7 +7,7 @@ import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
-BASE_DIRECTORY = "/Users/michaelhackman/Github/ConcertScraper/"
+BASE_DIRECTORY = "./"
 CONCERT_CSS_SELECTOR = "a[data-analytics-label='upcoming_concerts_list']"
 PAGINATION_CSS_SELECTOR = ".pagination"
 ARTIST_LINK_CSS_SELECTOR = ".event-listings > ul > .artist:first-of-type > a"
