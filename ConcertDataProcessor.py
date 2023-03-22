@@ -72,7 +72,7 @@ def aggregate_city(city_df):
                 START_DATE_COL: pd.Timestamp(start_date),
                 END_DATE_COL: pd.Timestamp(end_date),
                 DATE_RANGE_COL: date_range,
-                BANDS_COL: tuple(band_set),  # needs to be hashable
+                BANDS_COL: tuple(sorted(band_set)),  # needs to be hashable
                 BAND_COUNT_COL: len(band_set),
                 CITY_COL: city,
                 COUNTRY_COL: country,
@@ -134,7 +134,7 @@ def process_concert_ranges(concerts: pd.DataFrame) -> Optional[pd.DataFrame]:
             RAW_SCORE_COL,
             AVG_SCORE_COL,
         ]
-    ].sort_values(by=RAW_SCORE_COL)
+    ].sort_values(by=[RAW_SCORE_COL, AVG_SCORE_COL, START_DATE_COL, END_DATE_COL, CITY_COL, COUNTRY_COL])
 
 
 class RatingData(NamedTuple):
