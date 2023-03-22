@@ -25,14 +25,14 @@ jobs:
       - name: Install requirements
         run: pip install -r requirements.txt
 
-      - name: Download old groupings
-        uses: actions/download-artifact@v2
-        with:
-          name: groupings.csv
-          path: groupings.csv
+      # - name: Download old groupings
+      #   uses: actions/download-artifact@v2
+      #   with:
+      #     name: groupings.csv
+      #     path: groupings.csv
       
-      - name: Rename old groupings
-        run: mv groupings.csv groupings_old.csv
+      # - name: Rename old groupings
+      #   run: mv groupings.csv groupings_old.csv
 
       - name: Run script to create new groupings
         run: python3 ConcertScraper.py ; python3 ConcertDataProcessor.py ; python3 delta.py
